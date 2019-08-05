@@ -1,0 +1,40 @@
+lessons:
+  - title: '<span class="fake-header-table">Fundamentals of Economic Development</span>'
+    header: True
+
+  - title: "What is Development?"
+
+  - title: "Measuring Development"
+
+  - title: "Can We Plan an Economy?"
+
+  - title: '<span class="fake-header-table">Fundamentals of Economic Development</span>'
+    header: True
+
+  - title: "The Division of Labor, Entrepreneurship, and Price Theory"
+
+  - title: "Macroeconomics of Development: Growth Theory"
+
+  - title: "Good Intentions, Poor Policies: Foreign Aid and Structural Adjustment"
+  
+  - title: "What Else? Geography, Health, Demographics"
+  
+  - title: '<span class="fake-header-table">Institutions and Political Economy</span>'
+    header: True
+
+  - title: "Political Economy"
+
+  - title: "The Pre-modern Malthusian Economy"
+
+  - title: "The Natural State and the Violence Trap"
+
+  - title: '<span class="fake-header-table">Making Comparisons and Case Studies</span>'
+    header: True
+
+  - title: 'Western Europe: The Transition to Liberal Democracy'
+
+  - title: 'Russia and Post-Communist Development'
+
+  - title: 'State Capitalism: China and Korea'
+
+  - title: "Extractive Institutions: Latin America and Africa"
