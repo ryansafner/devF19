@@ -8,13 +8,15 @@ lessons:
 
   - title: "Can We Plan an Economy?"
 
-  - title: '<span class="fake-header-table">Fundamentals of Economic Development</span>'
+  - title: '<span class="fake-header-table">Models of Economic Development</span>'
     header: True
 
   - title: "The Division of Labor, Entrepreneurship, and Price Theory"
 
   - title: "Macroeconomics of Development: Growth Theory"
-
+  
+  - title: '<span class="fake-header-table">Policies & Exogenous Factors</span>'
+  
   - title: "Good Intentions, Poor Policies: Foreign Aid and Structural Adjustment"
   
   - title: "What Else? Geography, Health, Demographics"

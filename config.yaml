@@ -34,7 +34,7 @@ taxonomies:
   category: ""
 params:
   author: Ryan Safner
-  thumbnail: /images/econ_meta.png
+  thumbnail: /images/dev_hex.png
   instructor: 
     name: Dr. Ryan Safner
     email: safner@hood.edu
@@ -43,7 +43,7 @@ params:
     github: ryansafner
     office: 118 Rosenstock
   course:
-    number: ECON 480
+    number: ECON 317
     semester: Fall 2019
     days: "MW"
     time: "11:30 AM–12:45 PM"
@@ -61,15 +61,15 @@ params:
     url: "https://www.hood.edu"
   school:
     name: George B. Delaplane, Jr. School of Business
-    url: "https://hood.edu"
-  description: "Understand and use economic reasoning to evaluate public policy"
+    url: "https://www.hood.edu/academics/departments/george-b-delaplaine-jr-school-business"
+  description: "Economics of Development"
   primaryColor: "#5E81AC"
   secondaryColor: "#D08770"
   credits: >-
     Hex icon by Ryan Safner via [hexSticker](https://github.com/GuangchuangYu/hexSticker).<br> Course website based on [Andrew Heiss](https://econw19.classes.andrewheiss.com/). <br>[Nord color scheme](https://github.com/arcticicestudio/nord) from [Arctic Ice Studio](http://arcticicestudio.com/).
   logo:
-    url: /images/hoodmetrics.png
-    alt: Econometrics
+    url: /images/dev_hex.png
+    alt: Economics of Development
   meta:
     twitterSite: "@ryansafner"
     twitterCreator: "@ryansafner"
