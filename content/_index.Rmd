@@ -6,6 +6,7 @@ author: "Ryan Safner"
 ^[{-} `r blogdown::shortcode("courseinfo")`] <span class="newthought">This site contains</span> the syllabus, schedule, and assignments for ECON 317: Economics of Development, held during Fall 2019 at Hood College.
 
 By the end of this course, you will
+
 - Explain how the development community measures economic development
 - Interpret regression tables in the empirical literature in development
 - Demonstrate different theories of economic development
