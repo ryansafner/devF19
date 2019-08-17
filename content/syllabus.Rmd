@@ -132,7 +132,6 @@ I am generally in my office Monday-Thursday during "normal business hours." You 
 Watch this excellent and accurate video explaining office hours:
 
 <iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/270014784">What are Office Hours? - by Andrew Ishak</a> from <a href="https://vimeo.com/andrewishak">Andrew Ishak</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ### Enrollment
