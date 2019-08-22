@@ -49,6 +49,8 @@ Given these objectives, this course fulfills two of the learning outcomes for [t
 
 If at any point you find yourself struggling in this course for any reason, please come see me. Do not suffer in silence! Coming to see me for help does not diminish my view of you, in fact I will hold you in *higher* regard for understanding your own needs and taking charge of your own learning. There are also a some fantastic resources on campus, such as the [Center for Academic Achievement and Retention (CAAR)](http://www.hood.edu/campus-services/academic-services/index.html) and the [Beneficial-Hodson Library](http://www.hood.edu/library/). 
 
+See my [tips for success in this course](/reference#tips). 
+
 # Course materials
 
 ## Books
@@ -115,13 +117,6 @@ grading %>%
   pandoc.table(justify = "lclc", 
                col.names = c("Grade", "Range", "Grade", "Range"))
 ```
-
-# Tips for Success
-
-1. **Take notes. On paper. Yes.** [Studies show](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581) that using pen and paper trump taking notes on a device. The main reason is because *you cannot possibly write down everything I am saying by hand*. This forces you to selectively filter my lecture to its most essential and important components -- an integral part of the learning and retention process. If you are taking notes on a laptop, you become a court stenographer, thoughtlessly transcribing everything I am saying.
-2. **At least skim all of the readings.**
-3. **Do the homeworks** (if there are any). You might be surprised that I need to say this, but I do. Students that do not do the homeworks do poorly on exams, which often are similar to homework questions. Homeworks are *the best* practice for exams, they give you a sense of the relevant content areas that might come up, the type and style of questions that I ask, and you often get answer keys to help you "get inside my head" and study from. There is no good reason why you should have a low homework grade.
-4. **Work on assignments together and study together**. You don't truly understand something unless you can explain it to others.^[I am doing a *ton* of learning every time I teach!!] As a wise woman once told me "whomever is doing the talking is doing the learning."
 
 # Policies and Expectations
 
