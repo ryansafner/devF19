@@ -12,7 +12,7 @@ This page contains all of the following resources for each class meeting:
 
 Relevant materials (if applicable, icons will become links) will be posted before class meets.
 
-**Last Update**: `r Sys.Time()`.
+**Last Update**: `r Sys.time()`.
 
 ---
 
