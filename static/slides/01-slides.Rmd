@@ -286,7 +286,7 @@ class: inverse, center, middle
 .pull-right[
 
 .center[
-![](https://www.dropbox.com/s/nuk26e26jdfkgxd/worldbankimf.jpg?raw=1)
+![](https://www.dropbox.com/s/xhxz31j41di0raw/gatt.jpg?raw=1)
 
 ![](https://www.dropbox.com/s/8gcofq3f8y5x4ny/wto.jpg?raw=1)
 ]
