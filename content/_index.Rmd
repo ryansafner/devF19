@@ -7,7 +7,7 @@ author: "Ryan Safner"
 
 **Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/ryansafner/devF19/commits/master)
 
-By the end of this course, you will
+By the end of this course, you will:
 
 - Explain how the development community measures economic development
 - Interpret regression tables in the empirical literature in development
