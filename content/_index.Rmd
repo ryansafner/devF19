@@ -22,3 +22,5 @@ Given these objectives, this course fulfills two of the learning outcomes for [t
 <figure>
 [![](/images/dev_flowchart_blankbg.png)](/images/dev_flowchart_blankbg.png)
 </figure>
+
+**Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/ryansafner/devF19/commits/master)
