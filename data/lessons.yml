@@ -3,9 +3,9 @@ lessons:
     header: True
 
   - title: "What is Development?"
-  - slides: "01-slides"
-  - class: "01-class"
-  - reading: "01-reading"
+   slides: "01-slides"
+   class: "01-class"
+   reading: "01-reading"
 
   - title: "Measuring Development"
 

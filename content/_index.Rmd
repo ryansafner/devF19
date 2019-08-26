@@ -5,6 +5,8 @@ author: "Ryan Safner"
 
 ^[{-} `r blogdown::shortcode("courseinfo")`] <span class="newthought">This site contains</span> the syllabus, schedule, and assignments for ECON 317: Economics of Development, held during Fall 2019 at Hood College.
 
+**Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/ryansafner/devF19/commits/master)
+
 By the end of this course, you will
 
 - Explain how the development community measures economic development
@@ -22,5 +24,3 @@ Given these objectives, this course fulfills two of the learning outcomes for [t
 <figure>
 [![](/images/dev_flowchart_blankbg.png)](/images/dev_flowchart_blankbg.png)
 </figure>
-
-**Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/ryansafner/devF19/commits/master)
