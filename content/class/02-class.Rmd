@@ -1,0 +1,24 @@
+---
+title: "Lesson 2: Measuring Development"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Overview
+
+How do we measure economic development? This lesson will take several class periods. 
+
+**Check back here as I update over the coming week.**
+
+# Slides
+
+- [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/02-slides.html)
+
+
