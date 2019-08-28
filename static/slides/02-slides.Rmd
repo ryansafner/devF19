@@ -276,11 +276,17 @@ George Washington Plunkitt
 
 .pull-left[
 
-- Is a "developed country" politically developed?
+- Is a "developed country" *politically* developed?
 
 - What does that mean? .shout[Democracy]?
 
-- Is democracy important for economic development? 
+- Is democracy important for 
+    - economic development?
+    - human flourishing?
+    - (how do those two concepts overlap?)
+
+- If not (or not only) democracy, then what?
+    - .whisper[state capacity]
 ]
 
 .pull-right[
@@ -298,7 +304,7 @@ George Washington Plunkitt
 ![:scale 62%](https://www.dropbox.com/s/y3je3h2qbhh3nzl/autocracies6.png?raw=1)
 ]
 
-.source[Source: [Our World in Data: Democracy](https://ourworldindata.org/democracy)]
+.source[Sources: [Our World in Data: Democracy](https://ourworldindata.org/democracy); [Polity IV Data](https://www.systemicpeace.org/polity/polity4.htm)]
 
 ---
 
@@ -376,7 +382,7 @@ ggplot(data=freedom, aes(x=ef,y=Total))+
 ```
 ]
 
-.source[Economic Freedom Score (2016) from [Fraser Institute Data](https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&year=2016&page=dataset);Political Freedom Score from [Freedom House Data](https://freedomhouse.org/content/freedom-world-data-and-resources)
+.source[Economic Freedom Score (2016) from [Fraser Institute Data](https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&year=2016&page=dataset); Political Freedom Score from [Freedom House Data](https://freedomhouse.org/content/freedom-world-data-and-resources)
 ]
 
 ---
@@ -491,7 +497,7 @@ $$Y=C+I+G+NX$$
 - $C$: consumption
 - $I$: investment
 - $G$: government spending
-- $NX: net exports $=$ exports ($X)$-$imports ($M$)
+- $NX$: net exports $=$ exports $(X)-$imports $(M)$
 ]
 
 .pull-right[
@@ -555,7 +561,7 @@ $$\text{GDP per capita}=\frac{\text{Gross Domestic Product}}{\text{Population}}$
 
 # Country "Income Levels"
 
-The World bank [defines](https://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html) as of 1 July 2018 countries as being:
+The World Bank [defines](https://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html) as of 1 July 2018 countries as being:
 
 | Income level | GNI per capita | 
 |----|----|
@@ -563,6 +569,26 @@ The World bank [defines](https://datatopics.worldbank.org/world-development-indi
 | Upper-middle income | $3,896-12,055$ | 
 | Middle income | $996-3,895$ | 
 | Low income | $\leq995$ | 
+
+---
+
+# Country "Income Levels" II
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/soo9cqjmsd4vz6m/wbincomelevels.png?raw=1)
+]
+
+.source[Source: [World Bank](https://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html)]
+
+---
+
+# Country "Income Levels" III
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/x22ywlcppzva1f7/wbincomelevels2.png?raw=1)
+]
+
+.source[Source: [World Bank](https://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html)]
 
 ---
 
@@ -588,7 +614,7 @@ The World bank [defines](https://datatopics.worldbank.org/world-development-indi
 .pull-left[
 
 - To compare GDP across countries that use different currencies (e.g. Pounds, Euros, Yen, Yuan), we need a **common denominator** by using an .whisper[exchange rate] between currencies
-    - .whisper[Exchange Rates] express the amount of one currency needed to convert to 1 unit of another 
+- .whisper[Exchange Rates] express the amount of one currency needed to convert to 1 unit of another 
 
 .content-box-green[
 .green[**Example**:]
@@ -661,7 +687,7 @@ e.g. whether you buy using Dollars in US or Euros in EU, you should get the same
 
 - Suppose the exchange rate is 100 YEN: 1 USD
 
-- Then the price of the same sweater in Japan should be 500 YEN
+- Then the price of the same sweater in Japan should be 5000 YEN
 
 - Otherwise, an arbitrage opportunity!
 
@@ -689,8 +715,6 @@ e.g. whether you buy using Dollars in US or Euros in EU, you should get the same
     - Baumol's "cost disease"
 
 - Example: A haircut of similar quality in Norway is $65, $5 in Mexico, and $1 in India
-]
-
 ]
 
 .pull-right[
@@ -732,7 +756,29 @@ e.g. whether you buy using Dollars in US or Euros in EU, you should get the same
 
 ---
 
-### Quantifying Changes
+# Quantifying Changes I
+
+- Several ways we can talk about how a measure **changes** over time, from time $t_1 \rightarrow t_2$
+
+- **Difference $(\Delta)$:** the difference between the value at time $t_1$ and time $t_2$
+$$\Delta t=t_2-t_1$$
+
+---
+
+# Quantifying Changes II
+
+- Several ways we can talk about how a measure **changes** over time, from time $t_1 \rightarrow t_2$
+
+- **Difference $(\Delta)$:** the difference between the value at time $t_1$ and time $t_2$
+$$\Delta t=t_2-t_1$$
+
+- **Relative Difference**: the difference expressed in terms of the original value
+$$\frac{\Delta t}{t_1} = \frac{t_2-t_1}{t_1}$$
+ this becomes a proportion $(\pm$ between 0 and 1)
+
+---
+
+# Quantifying Changes III
 
 - Several ways we can talk about how a measure **changes** over time, from time $t_1 \rightarrow t_2$
 
@@ -751,7 +797,6 @@ $$\begin{align*}
 \end{align*}$$
 
 ---
-
 # A Simple Example Growth Rate 
 
 .content-box-green[
@@ -772,7 +817,7 @@ $$\begin{align*}
 # GDP Growth Rates II
 
 .center[
-![](https://www.dropbox.com/s/460yyv7w3b5qkcm/fredgdpgrowth2018.png?dl=0)
+![](https://www.dropbox.com/s/460yyv7w3b5qkcm/fredgdpgrowth2018.png?raw=1)
 
 [Federal Reserve Economic Data: GDP Growth Rate](https://fred.stlouisfed.org/series/A191RP1A027NBEA)
 ]
@@ -898,8 +943,16 @@ $=\frac{72}{\text{GDP Growth Rate}}$
 
 ---
 
+# Visualizing Economic Development I
+
+.center[
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]
 
 ---
 
+# Why Development Matters
+
+.center[
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/hans_rosling_and_the_magic_washing_machine" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+]
