@@ -1719,7 +1719,7 @@ William Easterly
 
 - [IMF](https://www.imf.org/en/Data)
 - [World Bank World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
-- [gapminder.org](http://gapminder.org/tools/): amazing visualizations between countries and over time
+- [gapminder.org/tools](http://gapminder.org/tools/)
 - [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 - [Quality of Government](https://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 - [Polity IV](https://www.systemicpeace.org/polity/polity4.htm)
