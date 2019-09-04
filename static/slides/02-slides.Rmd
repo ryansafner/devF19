@@ -1719,7 +1719,7 @@ William Easterly
 > "The improvement in hunger, mortality, and poverty as GDP per capita rises over time motivates us on our quest for growth. Poverty is not just low GDP; it is dying babies, starving children, and oppression of women and the downtrodden. The well-being of the next generation in poor countries depends on whether our quest to make poor countries rich is successful," (pp.14-15)
 
 ]
-.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press
+.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press]
 
 --- 
 
