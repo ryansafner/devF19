@@ -33,17 +33,19 @@ knitr::opts_chunk$set(message=F,
 
 class: inverse, middle, center
 
-### Is There Such a Thing as "Political Development"?
+### [Is There Such a Thing as "Political Development"?](#3)
 
-### Measuring *Economic* Development
+### [Measuring *Economic* Development](#25)
 
-### GDP
+### [GDP](#28)
 
-### Development as Freedom
+### [Do You Know the World Today?]()
 
-### Poverty and Basic Human Needs
+### [Development as Freedom](#67)
 
-### Inequality
+### [Poverty and Basic Human Needs](#82)
+
+### [Inequality](#91)
 
 ---
 
@@ -771,7 +773,6 @@ e.g. whether you buy using Dollars in US or Euros in EU, you should get the same
 
 - **Difference $(\Delta)$:** the difference between the value at time $t_1$ and time $t_2$
 $$\Delta t=t_2-t_1$$
-
 ---
 
 # Quantifying Changes II
@@ -806,6 +807,7 @@ $$\begin{align*}
 \end{align*}$$
 
 ---
+
 # A Simple Example Growth Rate 
 
 .content-box-green[
@@ -1117,6 +1119,147 @@ Source: [*Washington Post*: "Italy’s tax evasion culture" (November 24, 2011)]
 
 ---
 
+# Do You Know the World Today?
+
+---
+
+# Do You Know the World Today?
+
+In the last 20 years, the proportion of people living in *extreme poverty* has:
+
+a) Almost doubled
+
+b) Remained more or less the same
+
+c) Almost halved
+
+---
+
+# Do You Know the World Today?
+
+How many of the world’s 1-year-old children today have been vaccinated against some disease?
+
+a) 80%
+
+b) 50%
+
+c) 20%
+
+---
+
+# Do You Know the World Today?
+
+How did the number of deaths per year from natural disasters change over the last hundred years?
+
+a) More than doubled
+
+b) Remained more or less the same
+
+c) Decreased to less than half
+
+---
+
+# Do You Know the World Today?
+
+Where does the majority of the world population live?
+
+a) Low income countries
+
+b) Middle income countries
+
+c) High income countries
+
+---
+
+# Do You Know the World Today?
+
+Worldwide, 30 year old men have spent 10 years in school, on average. How many years have women of the same age spent in school?
+
+a) 9 years
+
+b) 6 years
+
+c) 3 years
+
+---
+
+# Do You Know the World Today?
+
+There are roughly seven billion people in the world today. Which map shows where people live? (Each figure represents 1 billion people.) 
+
+.center[
+![](https://www.dropbox.com/s/7x4mbsr6ewjsiqi/gapminderA.jpg?raw=1) ![](https://www.dropbox.com/s/d6wzv6oq5vnrla4/gapminderB.jpg?raw=1) ![](https://www.dropbox.com/s/vpajiwr1b61qkhk/gapminderC.jpg?raw=1)
+]
+---
+
+# Do You Know the World Today?
+
+The United Nations predicts that by 2100 the world population will have increased by another 4 billion people. What is the main reason?
+
+a) There will be more children (under age 15).
+
+b) There will be more adults (15-75).
+
+c) There will be more very old people (above age 75).
+
+---
+
+# Do You Know the World Today?
+
+In low income countries across the world, how many girls finish primary school?
+
+a) 20
+
+b) 40
+
+c) 60
+
+---
+
+# Do You Know the World Today?
+
+How many people in the world have some access to electricity?
+
+a) 20%
+
+b) 50%
+
+c) 80%
+
+---
+
+# Do You Know the World Today?
+
+What is the life expectancy of the world population?
+
+a) 50 years
+
+b) 60 years
+
+c) 70 years
+
+---
+
+# Do You Know the World Today?
+
+12. What does the global income distribution look like?
+
+.center[
+![:scale 27%](https://www.dropbox.com/s/wfxsj956bqmi7t1/gapminderD.png?raw=1) ![:scale 27%](https://www.dropbox.com/s/2nuccp99c88noi9/gapminderE.png?raw=1) ![:scale 27%](https://www.dropbox.com/s/cvfmrr4dfsle2xg/gapminderF.png?raw=1)
+]
+
+---
+
+# Gapminder
+
+.center[
+![](https://www.dropbox.com/s/7asgfm39khf6c74/gapmindertools.png?raw=1)
+
+[Gapminder.org/tools](http://gapminder.org/tools)
+]
+
+---
+
 class: inverse, center, middle
 # Development as Freedom
 
@@ -1344,11 +1487,6 @@ Economics Nobel 1998
 p. 122
 ]
 .source[Boettke, Peter J and J Robert Subrick, 2003, "Rule of Law, Development, and Human Capabilities," *Supreme Court Economic Review* 10:  109-126]
-
----
-
-# Aside: How to Read a Regression Table
-
 
 ---
 
@@ -1581,23 +1719,7 @@ William Easterly
 
 > "The improvement in hunger, mortality, and poverty as GDP per capita rises over time motivates us on our quest for growth. Poverty is not just low GDP; it is dying babies, starving children, and oppression of women and the downtrodden. The well-being of the next generation in poor countries depends on whether our quest to make poor countries rich is successful," (pp.14-15)
 ]
-.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press]
-
----
-
-# Visualizing Economic Development I
-
-.center[
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-]
-
----
-
-# Why Development Matters
-
-.center[
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/hans_rosling_and_the_magic_washing_machine" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-]
+.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press
 
 --- 
 
