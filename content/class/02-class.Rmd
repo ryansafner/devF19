@@ -15,10 +15,9 @@ editor_options:
 
 How do we measure economic development? This lesson will take several class periods. 
 
-**Check back here as I update over the coming week.**
+**Updated Wednesday, September 4, 2019**
 
 # Slides
 
 - [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/02-slides.html)
-
 

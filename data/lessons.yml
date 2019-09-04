@@ -13,7 +13,9 @@ lessons:
     reading: "02-reading"
 
   - title: "Can We Plan an Economy?"
-
+    class: "03-class"
+    reading: "03-reading"
+    
   - title: '<span class="fake-header-table">Models of Economic Development</span>'
     header: True
 

@@ -1,0 +1,10 @@
+---
+title: "3. Can We Plan an Economy? - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+# Recommended Readings:
+
+- [<i class="fas fa-file-pdf"></i> Mises (1920), "Economic Calculation in the Socialist Commonwealth"](/readings/Mises-1920-Economic-Calculation.pdf)

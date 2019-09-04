@@ -39,6 +39,12 @@ class: inverse, middle, center
 
 ### GDP
 
+### Development as Freedom
+
+### Poverty and Basic Human Needs
+
+### Inequality
+
 ---
 
 class: inverse, middle, center
@@ -946,6 +952,639 @@ $=\frac{72}{\text{GDP Growth Rate}}$
 
 ---
 
+# Limitations of GDP: Things Not Measured
+
+.pull-left[
+
+- GDP is a good but (like every other measure) an imperfect measure for social welfare and standard of living
+
+- Things *NOT* included in GDP:
+    - Increase in leisure time
+    - Social media, digital networks (aside from advertising)
+    - Increase in nonmarket or domestic activities (housework, unpaid child care)
+]
+
+.pull-right[
+.center[
+![:scale 70%](https://www.dropbox.com/s/5fx6r3klcb5r063/socialmedia.jpeg?raw=1)
+
+![:scale 70%](https://www.dropbox.com/s/h1804cvko2y3gyo/housework.jpg?raw=1)
+]
+]
+
+---
+
+# Limitations of GDP: Quality Improvements?
+
+- How do we measure improvements in quality, or new innovations? 
+
+.center[
+![:scale 65%](https://www.dropbox.com/s/5pswcfxgdzj3uc4/gdpchanges1970.png?raw=1)
+]
+
+---
+
+# Limitations of GDP: Shadow Economies I
+
+.pull-left[
+
+- GDP by definition cannot measure the .shout[shadow economy] or the ".shout[informal sector]" 
+
+- A major component of developing countries' economies
+
+- Staggering numbers, % of recorded GDP:  
+    - Nigeria 1989-1990: 76%
+    - Thailand 1989-1990: 71%
+    - Russia 1994-1995: 41%
+    - Norway 1989-1990: 9%
+
+]
+
+.pull-right[
+.center[
+![:scale 90%](https://www.dropbox.com/s/qu1psf0s5lyr28z/shadoweconomy.jpg?raw=1)
+]
+]
+
+.source[Schneider, Friedrich and Dominik H. Enste, 2000, "Shadow Economies: Sizes, Causes, and Consequences," *Journal of Economic Literature* 37(1): 77-114]
+
+---
+
+# Limitations of GDP: Shadow Economies II
+
+.pull-left[
+
+- Don't just think crime, drugs, and human trafficking!
+
+- For various reasons, many citizens of many countries do not have access to legal  markets for goods and services
+
+- Resort to .shout[informal economies] and .shout[black markets] to exchange goods and services
+
+]
+
+.pull-right[
+.center[
+![:scale 90%](https://www.dropbox.com/s/4mhlb2a8rsz00e6/blackmarketslum.png?raw=1)
+]
+]
+
+---
+
+# Limitations of GDP: Shadow Economies II
+
+.pull-left[
+
+.center[
+
+![](https://www.dropbox.com/s/djkftm26f76c4sc/sovietline.jpg?raw=1)
+
+A typical grocery store in Vilnius, Soviet-controlled Lithuania, 1990
+]
+
+]
+
+.pull-right[
+
+.font80[
+> The list of scarce items is practically endless. They are not permanently out of stock, but their appearance is unpredictable...Leningrad can be overstocked with cross-country skis and yet go several months without soap for washing dishes. In the Armenian capital of Yerevan, I found an ample supply of accordians but local people complained that they had gone for weeks without ordinary kitchen spoons or tea samovars. I knew a Moscow family that spent a frantic month hunting for a child’s potty while radios were a glut on the market...
+
+> In an economy of chronic shortages and carefully parceled-out privileges, blat is an essential lubricant of life. The more rank and power one has, the more blat one normally has ... each has access to things or services that are hard to get and that other people want or need. 
+
+Consumers: The Art of Queuing, in *The Russians*
+]
+
+]
+
+.source[Smith, Hedrick, 1976, *The Russians*]
+
+---
+
+# Limitations of GDP: Shadow Economies III
+
+.pull-left[
+
+.center[
+
+![:scale 70%](https://www.dropbox.com/s/csy95rz8y29hp2f/fp.png?raw=1)
+
+.font80[
+Source: [*Foreign Policy*: "The Shadow Superpower" (October 28, 2011)](http://www.foreignpolicy.com/articles/2011/10/28/black_market_global_economy)
+]
+]
+
+]
+
+.pull-right[
+
+![:scale 70%](https://www.dropbox.com/s/sp7frv05jeqsevw/europeanshadoweconomies.png?raw=1)
+
+.font80[
+Source: [*Washington Post*: "Italy’s tax evasion culture" (November 24, 2011)](https://www.washingtonpost.com/world/italyS^tax-evasion-culture/2011/11/24/gIQAvSletN_graphic.html?utm_term=.f48a96e188a6)
+]
+]
+
+.source[Smith, Hedrick, 1976, *The Russians*]
+
+---
+
+# Limitations of GDP: Shadow Economies IV
+
+.center[
+![:scale 80%](https://www.dropbox.com/s/jmze5gex25c6dei/worldshadoweconomy.jpg?raw=1)
+
+]
+
+.source[Source: [IMF](https://www.imf.org/external/pubs/ft/fandd/2012/06/singh.htm)]
+
+---
+
+# Limitations of GDP: Compared to What?
+
+.pull-left[
+
+- Again, GDP is a flawed measure
+
+- But remember, economists always ask, "compared to what?"
+
+- You will see later on that variation in GDP between countries and over time strongly explain variation in other measures we care about
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/l4bnbq0sl48kci5/gdp.jpg?raw=1)
+]
+]
+
+---
+
+class: inverse, center, middle
+# Development as Freedom
+
+---
+
+# GDP Ain't Everything
+
+.left-column[
+
+.center[
+![:scale 80%](https://www.dropbox.com/s/rflzw47xspqxriy/rfk.jpg?raw=1)
+
+Robert F. Kennedy
+
+1925-1968
+]
+]
+
+.right-column[
+
+> Yet the Gross National Product does not allow for the health of our children, the quality of their education or the joy of their play. It does not include the beauty of our poetry, of the strength of our marriages, the intelligence of our public debate or the integrity of our public officials.
+
+> It measures neither our wit nor our courage, neither our wisdom nor our learning, neither our compassion nor our devotion to our country, it measures everything in short, except that which makes life worthwhile.
+
+]
+.source[Source: [March 18, 1968 Speech](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-speeches/remarks-at-the-university-of-kansas-march-18-1968)]
+
+---
+
+# Development as Freedom I
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/4155cnpokcn0w1m/sen.jpg?raw=1)
+
+Amartya Sen
+
+1933-
+
+Economics Nobel 1998
+]
+]
+.right-column[
+
+.center[
+![](https://www.dropbox.com/s/lxbrvl4kmvgy8dl/developmentasfreedom.jpg?raw=1)
+]
+]
+
+---
+
+# Development as Freedom II
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/4155cnpokcn0w1m/sen.jpg?raw=1)
+
+Amartya Sen
+
+1933-
+
+Economics Nobel 1998
+]
+]
+.right-column[
+
+> Insofar as development is concerned with the achievement of a better life, the focus of development analysis has to include the nature of the life that people succeed in living. This incorporates, of course, the length of the life itself, and thus life expectancy data have an immediate relevance to the living standard and through that to the concept of development...People value their ability to do certain things and to achieve certain types of beings (such as being well nourished, being free from avoidable morbidity, being able to move about as desired, and so on). These "doings" and "beings" may be generically called "functionings" of a person. (p15)
+]
+
+.source[Sen, Amartya, 1998, "The Concept of Development," in H. Chenery and T. N. Srinivasan, eds., *Handbook of Development Economics*, Vol. 1, Elsevier Science Publishers.]
+
+---
+
+# Development as Freedom: Wealth is a Means, not an End
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/hjg8t1ebn1lj1ac/aristotle.jpg?raw=1)
+
+Aristotle
+
+384 BC-322 BC
+]
+]
+
+.right-column[
+
+> The life of money-making is one undertaken under compulsion, and wealth is evidently not the good we are seeking; for it is merely useful and for the sake of something else.
+
+]
+
+.source[Aristotle, *Nicomachean Ethics*]
+
+---
+
+# Development as Freedom: Wealth $\neq$ Happiness
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/w5ecx0628ihm9n2/smith.png?raw=1)
+
+Adam Smith
+
+1723-1790
+
+]
+]
+.right-column[
+
+.font80[
+> [H]e begins at last to find that wealth and greatness are mere trinkets of frivolous utility...more troublesome to the person who carries them about with him than all the advantages they can afford him are commodious...The palaces, the gardens, the equipage, the retinue of the great, are objects of which the obvious conveniency strikes every body...He does not even imagine that [the rich and famous] are really happier than other people: but he imagines that they possess more means of happiness...In his heart he curses ambition, and vainly regrets the ease and the indolence of youth, pleasures which are fled for ever, and which he has foolishly sacrificed for what, when he has got it, can afford him no real satisfaction...Power and riches appear then to be, what they are, enormous and operose machines contrived to produce a few trifling conveniencies to the body...which must be kept in order with the most anxious attention, and which in spite of all our care are ready every moment to burst into pieces, and to crush in their ruins their unfortunate possessor. - Part IV, Chapter I
+]
+]
+.source[Smith, Adam, 1759, *[The Theory of Moral Sentiments](https://www.econlib.org/library/Smith/smMS.html)*]
+
+---
+
+# Development as Freedom: Overview
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/4155cnpokcn0w1m/sen.jpg?raw=1)
+
+Amartya Sen
+
+1933-
+
+Economics Nobel 1998
+]
+]
+
+.right-column[
+
+- Think about development in terms of ".shout[capabilities]"
+
+- Central aspect of well-being is .shout[functioning]: the freedom of choice and control over one's life
+
+- *Positive* freedoms, vs. *negative* freedoms
+    - freedom from hunger
+    - freedom from disease
+    - freedom from early death
+    - freedom from violence
+    - freedom from oppression
+    - freedom to choose own path
+    - ...
+
+]
+
+---
+
+# Human Development Index
+
+.pull-left[
+
+]
+
+.pull-right[
+
+
+]
+
+.center[
+![](https://www.dropbox.com/s/vmm1xtmnljz5xa9/hdi.png?raw=1)
+]
+
+.source[Source: [U.N. Development Programme Human Development Reports](http://hdr.undp.org/en/content/human-development-index-hdi)]
+
+---
+
+# Human Development Index II
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/hzdt8ey3dppq0zs/hdimap.png?raw=1)
+
+![:scale 40%](https://www.dropbox.com/s/tt60r92e80opo20/hdimapscale.png?raw=1)
+]
+
+.source[Source: [Wikipedia](https://en.wikipedia.org/wiki/Human_Development_Index#/media/File:2018_HDI.svg), 2017 data]
+
+---
+
+# Human Development Index III
+
+.center[
+![:scale 62%](https://www.dropbox.com/s/o3nqe6771knacwb/human-development-index-escosura.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Human Development Index](https://ourworldindata.org/human-development-index)]
+
+---
+
+# Human Development Index IV
+
+.center[
+![:scale 62%](https://www.dropbox.com/s/1r13rwo0fnwdjxj/hdi-vs-gdp-per-capita.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Human Development Index](https://ourworldindata.org/human-development-index)]
+
+---
+
+# Capabilities, Freedom, and GDP per Capita I
+
+> "We do not disagree with either Nussbaum or Sen on the shortcomings of the preoccupation with per capita GDP calculations. However, we believe there is a general pattern to be found between the adoption of the institutions that promote the wealth of a nation and the health and well-being of its people. In other words, life expectancy, infant mortality, educational opportunities, and health outcomes are well correlated with GDP" (p.110).
+
+.source[Boettke, Peter J and J Robert Subrick, 2003, "Rule of Law, Development, and Human Capabilities," *Supreme Court Economic Review* 10:  109-126]
+
+---
+
+# Capabilities, Freedom, and GDP per Capita II 
+
+> "Our first conjecture is that the rule of law is a significant factor in explaining economic development. This is hardly controversial...Our second conjecture is that economic development is a significant factor in determining increases in what Sen entitles human capabilities... (p.111).
+
+> "In short, we expect that the rule of law will increase the level of de- velopment, and the level of development will lead to improvements in human capabilities. That is, the rule of law is an institutional fea- ture that promotes economic development that, in turn, leads to in- creases in those capabilities that Nussbaum and Sen argue are neces- sary for living a human life. Economic development, in short, provides the material pre-requisites that enable human flourishing," (p.112).
+
+.source[Boettke, Peter J and J Robert Subrick, 2003, "Rule of Law, Development, and Human Capabilities," *Supreme Court Economic Review* 10:  109-126]
+
+---
+
+# Capabilities, Freedom, and GDP per Capita III
+
+.center[
+![](https://www.dropbox.com/s/ofwzztoc4ee1uue/boettkesubrick1.png?raw=1)
+
+p. 122
+]
+.source[Boettke, Peter J and J Robert Subrick, 2003, "Rule of Law, Development, and Human Capabilities," *Supreme Court Economic Review* 10:  109-126]
+
+---
+
+# Aside: How to Read a Regression Table
+
+
+---
+
+class: inverse, center, middle
+# Poverty and Basic Human Needs
+
+---
+
+# Extreme Poverty I
+
+<iframe src="https://ourworldindata.org/grapher/share-of-the-population-living-in-extreme-poverty" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+---
+
+# Extreme Poverty II
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/srweuuy3hmjt1oj/theendofpoverty.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Extreme Poverty](https://ourworldindata.org/extreme-poverty)]
+
+---
+
+# Extreme Poverty III
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/buyt1reaqpsnz3t/theendofpoverty2.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Extreme Poverty](https://ourworldindata.org/extreme-poverty)]
+
+---
+
+# Extreme Poverty IV
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/8qbdtghh52whege/distribution-of-population-poverty-thresholds.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Extreme Poverty](https://ourworldindata.org/extreme-poverty)]
+
+---
+
+# Extreme Poverty V
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/81c5i46w6sbxg11/share-of-population-living-in-extreme-poverty-by-world-region.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Extreme Poverty](https://ourworldindata.org/extreme-poverty)]
+
+---
+
+# Poor Countries are Unhappy
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/ins2sjc0lolgt8c/dissatisfied-vs-income.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Extreme Poverty](https://ourworldindata.org/extreme-poverty)]
+
+---
+
+# Ignorance
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/c9fcgvvknng31ij/Igonorace-in-UK-on-Global-Poverty-University-population.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Extreme Poverty](https://ourworldindata.org/extreme-poverty)]
+
+---
+
+# Basic Human Needs Approach
+
+Gordon's proposed poverty threshold is defined as **2 or more deprivations** of:
+
+- **Food deprivation**: Body mass index less than 18.5
+- **Water deprivation**:access only to unimproved source such as open wells, open springs or surface water or who have to walk for more than 15 minutes to their water source (30 minutes round-trip)
+- **Deprivation of sanitation facilities**: access only to unimproved sanitation facilities
+- **Health deprivation**: Treatment not recieved for pregnancy, serious illnesses, no knowledge of safe sex practices (esp. HIV/AIDS)
+- **Shelter deprivation**: living in dwellings with 3 or more people per room (overcrowding) or in a house with no flooring (e.g. a mud floor) or inadequate roofing (e.g. natural roofing materials)
+- **Education deprivation**: youth who did not complete primary school or who are illiterate
+- **Information deprivation**: no access to a radio or television (i.e. broadcast media) at home
+
+.source[[Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiOrN6_ibbkAhWI1lkKHVEcAPUQFjABegQIBBAC&url=http%3A%2F%2Fwww.poverty.ac.uk%2Fsites%2Fdefault%2Ffiles%2Findicators-of-poverty-and-hunger_UNpoverty.pdf&usg=AOvVaw0mlf5jID1rewLlS1W2L3Po)]
+
+---
+
+class: inverse, center, middle
+# Inequality
+
+---
+
+# Efficiency and Equality
+
+.pull-left[
+
+- Economists often describe a tradeoff between efficiency and equity in terms of the "economic pie"
+
+- .shout[Efficiency]: efforts to grow the pie
+- .shout[Equity]: efforts to divide the pie fairly	
+
+- Economists tend (not exclusively!) to favor efficiency over equity
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/qnb6lhagbmycpws/economicpie.jpg?raw=1)
+]
+]
+
+---
+
+# (In)equality *within* Countries: Gini Coefficient I
+
+.center[
+![:scale 62%](https://www.dropbox.com/s/vx1bz53p3oj2jy0/Gini-measure-schematic-1.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Income Inequality](https://ourworldindata.org/income-inequality)]
+
+---
+
+# (In)equality *within* Countries: Gini Coefficient II
+
+.center[
+![:scale 62%](https://www.dropbox.com/s/5tmix5ht29ji3p6/lorenz2.png?raw=1)
+]
+
+.source[Source: [Wikipedia](https://en.wikipedia.org/wiki/Lorenz_curve#/media/File:Lorenz_curve_global_income_2011.svg)]
+
+---
+
+# (In)equality *within* Countries: Lower in Wealthier Countries
+
+.center[
+![:scale 62%](https://www.dropbox.com/s/bkqtnuku1seduvy/economic-inequality-gini-index.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Income Inequality](https://ourworldindata.org/income-inequality)]
+
+---
+
+# (In)equality *within* Countries: But Changing Over Time
+
+.center[
+![:scale 62%](https://www.dropbox.com/s/fvkcw6esmehkniu/inequality1.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Income Inequality](https://ourworldindata.org/income-inequality)]
+
+---
+
+# (In)equality *Across* Countries Over Time
+
+.center[
+![:scale 30%](https://www.dropbox.com/s/zl1m3gjfj6xcn6z/Global-inequality-in-1800-1975-and-2015.png?raw=1)
+]
+
+.source[Source: [Our World in Data: Income Inequality](https://ourworldindata.org/income-inequality)]
+
+---
+
+# Aside: Equality vs. Equity
+
+.center[
+![:scale 90%](https://www.dropbox.com/s/5utu86mxwib929k/equalityequity.jpg?raw=1)
+]
+
+---
+
+# Why Development Matters II
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/8rqega4jkxezbzm/easterly.png?raw=1)
+
+William Easterly
+
+1957-
+
+]
+]
+.right-column[
+
+> "The majority of the world’s people live in poor nations where women are oppressed, far too many babies die, and far too many people don’t have enough to eat. We care about economic growth for the poor nations because it makes the lives of poor people like those in Gulvera better. Economic growth frees the poor from hunger and disease. Economy-wide GDP growth per capita translates into rising incomes for the poorest of the poor, lifting them out of poverty," (p.8)
+
+]
+.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press]
+
+---
+
+# Why Development Matters III
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/8rqega4jkxezbzm/easterly.png?raw=1)
+
+William Easterly
+
+1957-
+
+]
+]
+.right-column[
+
+> "The typical rate of infant mortality in the richest fifth of countries is 4 out of every 1,000 births; in the poorest fifth of countries, it is 200 out of every 1,000 births. Parents in the poorest countries are fifty times more likely than in the richest countries to know grief rather than joy from the birth of a child. Researchers have found that a 10 percent decrease in income is associated with about a 6 percent higher infant mortality rate.," (p.9)
+
+> "The deaths of about half a million children in 1990 would have been averted if Africa’s growth in the 1980s had been 1.5 percentage points higher," (p.10)
+]
+.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press]
+
+---
+
+# Why Development Matters IV
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/8rqega4jkxezbzm/easterly.png?raw=1)
+
+William Easterly
+
+1957-
+
+]
+]
+.right-column[
+
+> "The improvement in hunger, mortality, and poverty as GDP per capita rises over time motivates us on our quest for growth. Poverty is not just low GDP; it is dying babies, starving children, and oppression of women and the downtrodden. The well-being of the next generation in poor countries depends on whether our quest to make poor countries rich is successful," (pp.14-15)
+]
+.source[Easterly, William, 2010, *The Elusive Quest for Growth: Economists Adventures and Misadventures in the Tropics* Cambridge: MIT Press]
+
+---
+
 # Visualizing Economic Development I
 
 .center[
@@ -959,3 +1598,16 @@ $=\frac{72}{\text{GDP Growth Rate}}$
 .center[
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/hans_rosling_and_the_magic_washing_machine" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 ]
+
+--- 
+
+# Good Sources for Data
+
+- [IMF](https://www.imf.org/en/Data)
+- [World Bank World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
+- [gapminder.org](http://gapminder.org/tools/): amazing visualizations between countries and over time
+- [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+- [Quality of Government](https://qog.pol.gu.se/data/datadownloads/qogstandarddata)
+- [Polity IV](https://www.systemicpeace.org/polity/polity4.htm)
+- [Fraser Institute: Economic Freedom](https://www.fraserinstitute.org/economic-freedom/map)
+- [Freedom House: Freedom in the World](https://freedomhouse.org/report/freedom-world/freedom-world-2018)
