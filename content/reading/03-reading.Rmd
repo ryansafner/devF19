@@ -5,6 +5,25 @@ bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-# Recommended Readings:
+This will be the first major reading and discussion that we will have this semester. On Monday I will explain how we will hold discussions, as well as provide more context for you to interpret the readings.  
+
+# Required Readings:
 
 - [<i class="fas fa-file-pdf"></i> Mises (1920), "Economic Calculation in the Socialist Commonwealth"](/readings/Mises-1920-Economic-Calculation.pdf)
+
+# Recommended Readings:
+
+- [<i class="fab fa-youtube"></i> "What if There Were No Prices?"](https://www.youtube.com/watch?v=zkPGfTEZ_r4)
+- Marx and Engels, 1848, [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
+
+
+# Questions to Guide Your Reading
+
+This paper by Mises (1920) launched what is called "the socialist calculation debate" among economists across German-speaking, and later, English-speaking Europe. Throughout the 1920s-1940s, economists debated the *technical* mechanics of howa central planner might optimally run an economy. Socialist writers, agitators, and political parties emerged especially after 1840s I should make clear, the content of this specific debate was *not* ideological (though that certainly is in the background), but the very *technical* and mathematical mechanisms of how to replace the market process with state control to attain optimal outcomes.
+
+- Is socialism as a viable political and economic system “disproven?"
+- If socialism is inefficient, impossible, or has poor incentives, how did socialism and central planning in the USSR last so long? Was it *really* socialism and central planning?
+- What do you make of the economists’ claims that we could centrally plan, or simulate, a market economy, for socialist ends?
+- Mises argues that "*Every step that takes us away from private ownership of the means of production and from the use of money also takes us away from rational economics.*” While there are no serious attempts at socialist societies anymore, and all societies are some variant of capitalism, democracy, and/or a mixed economy, does Mises’ quote (and broader claim) still have relevance today?
+- Why do people still advocate for socialism today? Is it the same kind socialism as Marx envisioned, or the Soviet experience?
+- How can we trace the differences and divergences between the Marxian view of the State and the liberal (Smith, Locke, etc) view of the State? 
