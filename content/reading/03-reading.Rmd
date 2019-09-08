@@ -13,6 +13,10 @@ This will be the first major reading and discussion that we will have this semes
 
 # Recommended Readings:
 
+I will often try to find some "readings" that are also short, and/or are in other media formats (like videos or podcasts). Your emailed questions and our discussion can also be based on them. If you find yourself interested in the topic, I can point you towards more (accessible) academic sources.
+
+- [<i class="fas fa-external-link-square-alt"></i> "The Reductive Seduction of Other People's Problems"](https://brightthemag.com/the-reductive-seduction-of-other-people-s-problems-3c07b307732d)
+- [<i class="fas fa-podcast"></i> NPR's *Planet Money*: "The Invention of the Economy"](https://www.npr.org/sections/money/2014/03/05/286366404/episode-521-the-invention-of-the-economy)
 - [<i class="fab fa-youtube"></i> "What if There Were No Prices?"](https://www.youtube.com/watch?v=zkPGfTEZ_r4)
 - Marx and Engels, 1848, [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 
@@ -21,8 +25,13 @@ This will be the first major reading and discussion that we will have this semes
 
 This paper by Mises (1920) launched what is called "the socialist calculation debate" among economists across German-speaking, and later, English-speaking Europe. Throughout the 1920s-1940s, economists debated the *technical* mechanics of howa central planner might optimally run an economy. Socialist writers, agitators, and political parties emerged especially after 1840s I should make clear, the content of this specific debate was *not* ideological (though that certainly is in the background), but the very *technical* and mathematical mechanisms of how to replace the market process with state control to attain optimal outcomes.
 
-We are doing this before we fully cover the market process and the role of market prices (next lesson), but the video linked to above is perhaps the easiest to understand and best distillation of Mises' argument I have ever seen.
+We are doing this before we fully cover the market process and the role of market prices (next lesson), but the video linked to above ("What if there were no prices") is perhaps the easiest to understand and best distillation of Mises' argument I have ever seen.
 
+Beyond a "capitalism-vs-socialism" context, this week's lesson (which will be oft repeated this semester) is intended to make you hesitant to think you have "the answer" that you can just "give" to developing countries to get them to develop. The short Medium essay "The Reductive Seduction of Other People's Problems" will get you to recognize how many assumptions we are making (and ignoring) about other countries problems and think we can just reduce them down to just one thing that we can fix.^[Not to mention, there's quite a bit of implicit cultural bias and privilege going on.] We remember how complicated things are in our own country, but think the problems in others are just so crystal clear and fixable. Lastly, the Planet Money podcast will show you the strong relationship between what we (think we can) control and what we can measure. It's often like the drunk who *only* looks for his car keys under a streetlight because [that's what he can see](https://en.wikipedia.org/wiki/Streetlight_effect).
+
+
+- What's the relationship between what we can measure/model, and what we can "do" in terms of development?
+- How would a centrally planned (and/or socialist) economy function?
 - Is socialism as a viable political and economic system “disproven?"
 - If socialism is inefficient, impossible, or has poor incentives, how did socialism and central planning in the USSR last so long? Was it *really* socialism and central planning?
 - What do you make of the economists’ claims that we could centrally plan, or simulate, a market economy, for socialist ends?
