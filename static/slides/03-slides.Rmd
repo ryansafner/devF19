@@ -224,7 +224,7 @@ Adam Ferguson
 
 .right-column[
 
-> "Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which are indeed the result of human action, but not the execution of any human design," (Book III, Chapter 1).
+> "Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which are indeed **the result of human action, but not the execution of any human design**," (Book III, Chapter 1).
 ]
 
 .source[Ferguson, Adam, 1767, [*An Essay on the History of Civil Society*](https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society)]
@@ -268,7 +268,7 @@ Economics Nobel 1974
 
 .right-column[
 
-> "It may indeed prove to be far the most difficult and not the least important task for human reason rationally to comprehend its own limitations...The most dangerous stage in the growth of civilization may well be that in which man...refuses to accept or to submit to anything which he does not rationally understand. The rationalist whose reason is not sufficient to teach him those limitations of the powers of conscious reason, and who despises all the institutions and customs which have not been consciously designed, would thus become the destroyer of the civilization built upon them...Common acceptance of formal rules is indeed the only alternative to direction by a single will man has yet discovered," (p.162).
+> "**The most dangerous stage in the growth of civilization may well be that in which man...refuses to accept or to submit to anything which he does not rationally understand.** The rationalist whose reason is not sufficient to teach him those limitations of the powers of conscious reason, and who despises all the institutions and customs which have not been consciously designed, would thus become the destroyer of the civilization built upon them...Common acceptance of formal rules is indeed the only alternative to direction by a single will man has yet discovered," (p.162).
 ]
 
 .source[Hayek, F. A., 1980, *The Counterrevolution of Science: Studies in the Abuse of Reason*]
@@ -291,11 +291,11 @@ Economics Nobel 1974
 
 .right-column[
 .font80[
-> "There are two ways of looking at the pattern of human activities which lead to very different conclusions concerning both its explanation and the possibilities of deliberately altering it. The first one is based on conceptions which are demonstrably false, yet are so pleasing to human vanity that they have gained great influence and are constantly employed even by people who know that they rest on a fiction...The [second]...leads in some respects to conclusions so unwelcome that few are willing to follow through to the end."
+> "There are **two ways of looking at the pattern of human activities** which lead to very different conclusions concerning both its explanation and the possibilities of deliberately altering it. The first one is based on conceptions which are demonstrably false, yet are so pleasing to human vanity that they have gained great influence and are constantly employed even by people who know that they rest on a fiction...The [second]...leads in some respects to conclusions so unwelcome that few are willing to follow through to the end."
 
-> "The first gives us a sense of unlimited power to realize our wishes, while the second leads to the insight that there are limitations to what we can deliberately bring about, and to the recognition that some of our present hopes are delusions. Yet the effect of allowing ourselves to be deluded by the first view has always been that man has actually limited the scope of what he can achieve. For it has always been the recognition of the limits of the possible which has enabled man to make full use of his powers..." (pp.19-20)
+> "The **first gives us a sense of unlimited power to realize our wishes, while the second leads to the insight that there are limitations to what we can deliberately bring about, and to the recognition that some of our present hopes are delusions.** Yet the effect of allowing ourselves to be deluded by the first view has always been that man has actually limited the scope of what he can achieve. For it has always been the recognition of the limits of the possible which has enabled man to make full use of his powers..." (pp.19-20)
 
-> "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." (p.76)
+> "**The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.**" (p.76)
 ]
 ]
 
@@ -321,9 +321,9 @@ Economics Nobel 1974
 .font80[
 > "To early thinkers the existence of an order of human activities transcending the vision of an ordering mind seemed impossible," (p. 11).
 			
-> "I call `='the fatal conceit:' the idea that the ability to acquire skills [to direct society] stems from reason. For it is the other way around: our reason is as much the result of an evolutionary selection process as is our morality...the evolution of the extended order...is ...beyond instinct and often opposed to it, and which is...incapable of being created or designed by reason," (p. 21).
+> "I call **'the fatal conceit'** the idea that the ability to acquire skills [to direct society] stems from reason. For it is the other way around: our reason is as much the result of an evolutionary selection process as is our morality...the evolution of the extended order...is ...beyond instinct and often opposed to it, and which is...incapable of being created or designed by reason," (p. 21).
 			
-> "[Too many eminent scientists] call on human reason...to seize the reins and control future [social] development. Such wishful thinking is encouraged by what I have elsewhere called `constructivist rationalism,'" (p.22).
+> "[Too many eminent scientists] call on human reason...to seize the reins and control future [social] development. Such wishful thinking is encouraged by what I have elsewhere called **'constructivist rationalism,'**" (p.22).
 
 > "[The evolution of the extended order] is a process of continuous adaptation to unforeseeable events, to contingent circumstances which could not have been forecast. The is another reason why evolutionary theory can never put us in the position of rationally predicting and controlling future evolution," (p.25)
 ]
@@ -349,7 +349,7 @@ Economics Nobel 1974
 
 .right-column[
 
-> "Moreover, the structures of the extended order are made up not only of individuals but also of many, often overlapping, [groups] within which old instinctual responses, such as solidarity and altruism, continue to retain some importance by assisting voluntary collaboration...Part of our present difficulty is that we must constantly adjust our lives, our thoughts and our emotions, in order to live simultaneously within different kinds of orders according to different rules. If we were to apply the unmodified, uncurbed, rules of the micro-cosmos (i.e., of the small band or troop, or of, say, our families) to the macro-cosmos (our wider civilisation), as our instincts and sentimental yearnings often make us wish to do, *we would destroy it*. Yet if we were always to apply the rules of the extended order to our more intimate groupings, *we would crush them*. So we must learn to live in two sorts of worlds at once," (p.18)
+> "Moreover, the structures of the extended order are made up not only of individuals but also of many, often overlapping, [groups] within which old instinctual responses, such as solidarity and altruism, continue to retain some importance by assisting voluntary collaboration...Part of our present difficulty is that **we must constantly adjust our lives, our thoughts and our emotions, in order to live simultaneously within different kinds of orders according to different rules.** If we were to apply the unmodified, uncurbed, rules of the micro-cosmos (i.e., of the small band or troop, or of, say, our families) to the macro-cosmos (our wider civilisation), as our instincts and sentimental yearnings often make us wish to do, *we would destroy it*. Yet if we were always to apply the rules of the extended order to our more intimate groupings, *we would crush them*. **So we must learn to live in two sorts of worlds at once**," (p.18)
 
 ]
 
@@ -372,7 +372,7 @@ c.428-c.348 B.C.
 
 .right-column[
 
-> "[T]he law is not concerned with making any one class in this city do outstandingly well, but is contriving to produce this condition in the city as a whole, harmonizing the citizens together through persuasion or compulsion, and making them share with each other the benefit they can confer on the community. It produces such men in the city, not in order to allow them to turn in whatever direction each one wants, but to make use of them to bind the city together," (Book VII)
+> "[T]he law is not concerned with making any one class in this city do outstandingly well, but is **contriving to produce this condition in the city as a whole, harmonizing the citizens together through persuasion or compulsion**, and making them share with each other the benefit they can confer on the community. It produces such men in the city, not in order to allow them to turn in whatever direction each one wants, but **to make use of them to bind the city together**," (Book VII)
 
 - Hierarchical society where all are assigned roles via the "noble lie"
 - "Guardians" and philosopher-kings plan society under common ownership of property, childrearing, etc.
@@ -554,9 +554,9 @@ Woodrow Wilson
 
 .right-column[
 
-> "The field of [public] administration is a field of business. [It] lies outside the proper sphere of politics...Although politics sets the tasks for administration, it should not be suffered to manipulate its offices"
+> "The field of [public] administration is a field of business. **[It] lies outside the proper sphere of politics**...Although **politics sets the tasks for administration**, **it should not be suffered to manipulate its offices**"
 
-> "[P]ublic attention must be easily directed, in each case of good or bad administration, to just the man deserving of praise or blame. There is no danger in power, if only it be not irresponsible. If it be divided, dealt out in share to many, it is obscured."
+> "[P]ublic attention must be easily directed, in each case of good or bad administration, to just the man deserving of praise or blame. **There is no danger in power, if only it be not irresponsible.** If it be divided, dealt out in share to many, it is obscured."
 
 ]
 
