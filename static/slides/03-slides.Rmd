@@ -448,7 +448,7 @@ August Comte
 
 .pull-right[
 
-- French Revolution (1789-199), revolutionaries overthrow the Ancien regime
+- French Revolution (1789-1799), revolutionaries overthrow the Ancien regime
 
 - New republican government aims to .whisper[rebuild all social institutions from scratch via positivist science]
 
@@ -1205,9 +1205,7 @@ Economics Nobel 1970
 ]
 ]
 
-.source[Samuelson, Paul A, 1989, *Economics*
-
-Levy, David M and Sandra J Peart, 2009, ["Soviet Growth & American Textbooks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1517983), manuscript]
+.source[Samuelson, Paul A, 1989, *Economics*; Levy, David M and Sandra J Peart, 2009, ["Soviet Growth & American Textbooks"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1517983), manuscript]
 
 ---
 
@@ -1266,7 +1264,7 @@ Ludwig von Mises
 
 - $\implies$ no feedback to determine if an allocation is efficient
 
-- Therefore, whisper.[it is impossible under socialism to rationally allocate productive resources]
+- Therefore, .whisper[it is impossible under socialism to rationally allocate productive resources]
 
 
 ]
@@ -1495,7 +1493,7 @@ Oskar Lange
 
 - We can achieve competitive market equilibria through central planning
 
-- Pure socialism (without prices) is indeed impossible, but with central planning, we can still achieve optimal outcomes while avoiding capitalism's problems
+- Pure socialism (without prices) is indeed impossible (thanks, Mises), but with central planning, we can still achieve optimal outcomes while avoiding capitalism's problems
 
 - .shout[Market Socialism]: maintaining a price system (or importing one) but having the State direct economic activity
 ]
@@ -1544,7 +1542,7 @@ Oskar Lange
 
 .right-column[
 
-> "The economic problem is a problem of choice between different alternatives. To solve the problem three data are needed: (1) a preference scale...(2) knowledge of `the terms on which alternatives are offered,' and finally (3) knowledge of the amount of resources available. Those three data given, the problem of choice is soluable," (p.54).
+> "The economic problem is a problem of choice between different alternatives. To solve the problem three data are needed: (1) a preference scale...(2) knowledge of 'the terms on which alternatives are offered,' and finally (3) knowledge of the amount of resources available. Those three data given, the problem of choice is soluable," (p.54).
 
 ]
 
