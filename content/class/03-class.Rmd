@@ -1,0 +1,31 @@
+---
+title: "Lesson 3: Can We Plan an Economy?"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Overview
+
+Can we plan an economy? We will cover the "socialist calculation debate" and its implications for development policy. I will lecture on Monday and part of Wednesday, and then we will hold our first discussion on Wednesday. 
+
+Check back here for an update to the slides for Wednesday.
+
+# Slides
+
+- [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/03-slides.html)
+
+
+# Readings
+
+See this week's [readings page](/reading/03-reading) for required readings, suggested readings, descriptions, and some questions to help guide your reading. 
+
+# Assignments: Discussion on Wednesday Sept 11
+
+Please see the [discussion rules and grading](https://devf19.classes.ryansafner.com/assignments). **You are to email me two questions based on the reading before class begins on Wednesday.**

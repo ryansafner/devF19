@@ -18,7 +18,7 @@ I will often try to find some "readings" that are also short, and/or are in othe
 - [<i class="fas fa-external-link-square-alt"></i> "The Reductive Seduction of Other People's Problems"](https://brightthemag.com/the-reductive-seduction-of-other-people-s-problems-3c07b307732d)
 - [<i class="fas fa-podcast"></i> NPR's *Planet Money*: "The Invention of the Economy"](https://www.npr.org/sections/money/2014/03/05/286366404/episode-521-the-invention-of-the-economy)
 - [<i class="fab fa-youtube"></i> "What if There Were No Prices?"](https://www.youtube.com/watch?v=zkPGfTEZ_r4)
-- Marx and Engels, 1848, [The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
+- [<i class="fas fa-external-link-square-alt"></i>[Marx and Engels, 1848, *Manifesto of the Communist Party*](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 
 
 # Questions to Guide Your Reading
@@ -27,14 +27,14 @@ This paper by Mises (1920) launched what is called "the socialist calculation de
 
 We are doing this before we fully cover the market process and the role of market prices (next lesson), but the video linked to above ("What if there were no prices") is perhaps the easiest to understand and best distillation of Mises' argument I have ever seen.
 
-Beyond a "capitalism-vs-socialism" context, this week's lesson (which will be oft repeated this semester) is intended to make you hesitant to think you have "the answer" that you can just "give" to developing countries to get them to develop. The short Medium essay "The Reductive Seduction of Other People's Problems" will get you to recognize how many assumptions we are making (and ignoring) about other countries problems and think we can just reduce them down to just one thing that we can fix.^[Not to mention, there's quite a bit of implicit cultural bias and privilege going on.] We remember how complicated things are in our own country, but think the problems in others are just so crystal clear and fixable. Lastly, the Planet Money podcast will show you the strong relationship between what we (think we can) control and what we can measure. It's often like the drunk who *only* looks for his car keys under a streetlight because [that's what he can see](https://en.wikipedia.org/wiki/Streetlight_effect).
+Beyond a "capitalism-vs-socialism" context, this week's lesson (which will be oft repeated this semester) is intended to make you hesitant to think you have "the answer" that you can just "give" to developing countries to get them to develop. The short Medium essay "The Reductive Seduction of Other People's Problems" will get you to recognize how many assumptions we are making (and ignoring) about other countries problems and think we can just reduce them down to just one thing that we can fix.^[Not to mention, there's quite a bit of implicit cultural bias and privilege going on.] We remember how complicated things are in our own country, but think the problems in others are just so crystal clear and fixable. Lastly, the Planet Money podcast will show you the relationship between what we (think we can) control and what we can measure. It's often like the drunk who *only* looks for his car keys under a streetlight because [that's what he can see](https://en.wikipedia.org/wiki/Streetlight_effect).
 
 
 - What's the relationship between what we can measure/model, and what we can "do" in terms of development?
 - How would a centrally planned (and/or socialist) economy function?
 - Is socialism as a viable political and economic system “disproven?"
 - If socialism is inefficient, impossible, or has poor incentives, how did socialism and central planning in the USSR last so long? Was it *really* socialism and central planning?
-- What do you make of the economists’ claims that we could centrally plan, or simulate, a market economy, for socialist ends?
+- What do you make of the *economists*’ claims that we could centrally plan, or simulate, a market economy, with mainstream economic models (such as [general equilibrium theory](https://en.wikipedia.org/wiki/General_equilibrium_theory)) for socialist ends?
 - Mises argues that "*Every step that takes us away from private ownership of the means of production and from the use of money also takes us away from rational economics.*” While there are no serious attempts at socialist societies anymore, and all societies are some variant of capitalism, democracy, and/or a mixed economy, does Mises’ quote (and broader claim) still have relevance today?
 - [A majority of young Americans](https://www.cnbc.com/2018/08/14/fewer-than-half-of-young-americans-are-positive-about-capitalism.html) have positive feelings towards socialism, and negative feelings towards capitalism. Why do people still advocate for socialism today? Is it the same kind socialism as Marx envisioned, or the Soviet experience? What about "capitalism?"
-- How can we trace the differences and divergences between the Marxian view of the State and the liberal (Smith, Locke, etc) view of the State? 
+- How can we trace the differences and divergences between the Marxian view of the State and the liberal (Smith, Locke, etc) view of the State?
