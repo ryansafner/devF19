@@ -13,7 +13,13 @@ editor_options:
 
 # Overview
 
-Can we plan an economy? We will cover the "socialist calculation debate" and its implications for development policy. I will lecture on Monday and part of Wednesday, and then we will hold our first discussion on Wednesday. 
+Can we plan an economy? We will cover the ["socialist calculation debate"](https://en.wikipedia.org/wiki/Socialist_calculation_debate) and its implications for development policy. I will lecture on Monday and part of Wednesday, and then we will hold our first discussion on Wednesday. 
+
+My lecture slides will contain *a lot* of quotes from participants, for a few reasons:
+
+1. There is a background of ideological contestation, so I don't want to put words in the mouths of various sides, or people I may disagree with.
+2. Since there is only one reading, and it is from a primary protagonist in the debate, I don't want you to only think I am giving you "one side"
+3. You can always go back read them and see the sources if you are interested, so I can move faster through the general trends in class
 
 Check back here for an update to the slides for Wednesday.
 
@@ -24,7 +30,7 @@ Check back here for an update to the slides for Wednesday.
 
 # Readings
 
-See this week's [readings page](/reading/03-reading) for required readings, suggested readings, descriptions, and some questions to help guide your reading. 
+See this week's [readings page](/reading/03-reading) for required readings, suggested readings, descriptions, and some questions to help guide your reading.
 
 # Assignments: Discussion on Wednesday Sept 11
 

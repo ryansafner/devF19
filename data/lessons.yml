@@ -15,6 +15,7 @@ lessons:
   - title: "Can We Plan an Economy?"
     class: "03-class"
     reading: "03-reading"
+    slides: "03-slides"
     
   - title: '<span class="fake-header-table">Models of Economic Development</span>'
     header: True
