@@ -327,9 +327,12 @@ Adam Smith
 
 .pull-left[
 
-- The .shout[division of labor] refers to the process where people *specialize* in production and then *exchange* their produce with others to acquire all of their desired goods, two senses:
-    1. *Factory system*: splitting up one production process into specialized discrete steps enhances productivity
+- .shout[Division of labor]: process where people *specialize* in production and then *exchange* their produce with others to acquire all of their desired goods
+
+- Two senses: 
+    1. *Factory system*: splitting up production process into specialized discrete steps boosts productivity
     2. *Economic system*: an economy of people specialize & exchange for all needs, leading to widespread prosperity
+    
 - The more trading opportunities, the greater the benefits of specialization
 
 ]
@@ -388,11 +391,15 @@ Allyn Young
 
 .pull-left[
 
-- Larger trading opportunities create .onfire[economies of scale]
+- More trading opportunities create .onfire[economies of scale]
     - As $\uparrow$ output, $\downarrow$ average cost
     
 - Makes large investments in capital & technology profitable
     - Spreads fixed cost over a larger volume of sales
+    
+- Labor-saving technologies
+    - May replace labor entirely with capital
+    - Might create new complex tasks for labor
 ]
 
 .pull-right[
@@ -683,7 +690,6 @@ The only answer I can think of is: **we just cared more**.
 .pull-right[
 .center[
 ![](https://www.dropbox.com/s/60q8uepk12z3zv4/kiviqauction.png?raw=1)
-]
 ]
 ]
 
