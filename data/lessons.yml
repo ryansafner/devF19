@@ -20,8 +20,11 @@ lessons:
   - title: '<span class="fake-header-table">Models of Economic Development</span>'
     header: True
 
-  - title: "The Division of Labor, Entrepreneurship, and Price Theory"
-
+  - title: "The Microeconomics of Development"
+    class: "04-class"
+    reading: "04-reading"
+    slides: "04-slides"
+    
   - title: "Macroeconomics of Development: Growth Theory"
   
   - title: '<span class="fake-header-table">Policies & Exogenous Factors</span>'

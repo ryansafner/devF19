@@ -1,0 +1,13 @@
+---
+title: "4. The Microeconomics of Development - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+This lesson will have no discussion, I will lecture for 2 periods, and then we will transition to the next lesson, which will end in a discussion.  
+
+# Recommended Readings:
+
+- [<i class="fas fa-external-link-square-alt"></i> Smith (1776), *Wealth of Nations*, Book I, Chs. 1-3](https://www.econlib.org/library/Smith/smWN.html)
+- [<i class="fas fa-file-pdf"></i> Bauer (2000), "From Subsistence to Exchange"](/readings/Bauer-2000-Ch1.pdf)
