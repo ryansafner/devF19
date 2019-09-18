@@ -13,6 +13,7 @@ I will lecture for 1.5-3 periods, and then we will have a discussion on either W
 
 # Recommended Readings:
 
+- Marginal Revolution University Videos on [Growth, Capital Accumulation, and the Economics of Ideas](https://mru.org/courses/principles-economics-macroeconomics/solow-model-economic-growth)
 - [<i class="fas fa-file-pdf"></i> Nordhaus (2000), "Do Real-Output and Real-Wage Measures Capture Reality?"](https://www.nber.org/chapters/c6064.pdf)
 - [<i class="fas fa-podcast"></i> *NPR Planet Money Podcast*: The History of Light, Nobel Edition "](https://www.npr.org/sections/money/2018/10/08/655597272/episode-534-the-history-of-light-nobel-edition)
 
