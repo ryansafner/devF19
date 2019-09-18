@@ -1,0 +1,174 @@
+---
+title: "Lesson 5: The Macroeconomics of Development"
+subtitle: "ECON 317 · Economics of Development · Fall 2019"
+author: 'Ryan Safner<br> Assistant Professor of Economics <br> <a href="mailto:safner@hood.edu"><i class="fa fa-paper-plane fa-fw"></i> safner@hood.edu</a> <br> <a href="https://github.com/ryansafner/devf19"><i class="fa fa-github fa-fw"></i> ryansafner/devf19</a><br> <a href="https://devF19.classes.ryansafner.com"> <i class="fa fa-globe fa-fw"></i> devF19.classes.ryansafner.com</a><br>'
+#date:
+output:
+  xaringan::moon_reader:
+    mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML" # rescales math with css changes https://github.com/yihui/xaringan/issues/143
+    lib_dir: libs
+    #seal: false
+    css: [custom.css, custom-fonts.css, "hygge"] #, metropolis, metropolis-fonts
+    nature:
+      beforeInit: ["macros.js", "https://platform.twitter.com/widgets.js"] # first is for rescaling images , second is for embedding tweets, https://github.com/yihui/xaringan/issues/100
+      highlightStyle: ocean #rainbow #monokai rainbow solarized-light #tomorrow-night -blue -eighties zenburn
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+    includes:
+      in_header: header.html # for font awesome, used in title  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(message=F,
+                      warning=F,
+                      echo=F)
+```
+
+class: inverse, middle, center
+
+### [The Division of Labor](#4)
+
+### [Why Markets Tend Towards an Equilibrium](#30)
+
+### [When and Why Markets are Great](#40)
+
+### [The Social Functions of Market Prices](#55)
+
+---
+
+# Real Productivity
+
+- The **only** way to increase income and standards of living (i.e. GDP per capita) is to increase .shout[real productivity], the amount of output produced per unit of input (i.e. per work-hour)
+
+- Recall the idea of a .shout[production function]:
+$$Y=f(L,K)$$
+
+- where $Y$ is output, $L$ is labor, and $K$ is capital (both inputs)
+
+---
+
+# An Aggregate Production Function
+
+.pull-left[
+- Consider an **aggregate production function** for a country's entire economy:<sup>.red[1]</sup>
+
+$$Y=f(A,eL,K)$$
+- where the factors of production (inputs) are:
+    - $A$: technology
+    - $e$: education ("human capital")
+    - $L$: labor (population)
+    - $K$: physical capital 
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/f5echyv5gt9iypy/productivity1.png?raw=1)
+]
+]
+
+.footnote[<sup>.red[1]</sup> This is an extremely simplified version of the famous economic model of growth, the Solow model or neoclassical growth model, we'll see soon.]
+
+---
+
+# An Aggregate Production Function II 
+
+.pull-left[
+
+$$Y=f(A, eL, K)$$
+
+- Increases in $L$: population growth
+- Increase in $K$: more physical capital
+- Increase in $e$: more education
+- Increase in $A$: more technology 
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/f5echyv5gt9iypy/productivity1.png?raw=1)
+]
+]
+
+---
+
+# Output Per Worker
+
+
+- A common way to measure .shout[real (labor) productivity] is output per worker
+    - Simply divide the production function through by $L$
+
+$$\frac{Y}{L}=f(\frac{A}{L}, e, \frac{K}{L})$$
+
+- $\frac{Y}{L}$: output per worker (labor productivity) 
+- Comes from having higher levels of 
+    - $\frac{K}{L}$: capital per worker
+    - $\frac{A}{L}$: technology per worker
+    - $e$: human capital/education
+
+---
+
+# Measuring Productivity I
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/bxm4mi02b2yydn6/blsproductivity.png?raw=1)
+
+[Bureau of Labor Statistics: Labor Productivity and Costs](https://www.bls.gov/lpc/)
+
+]
+
+---
+
+# Real Productivity Increases I
+
+.center[
+![:scale 80%](https://www.dropbox.com/s/36xwyqu6n0uegt3/productivityovertime.png?raw=1)
+]
+
+.source[Cox, Michael and Richard Alm, 1999, *Myths of Rich and Poor*, p. 43]
+
+---
+
+# Real Productivity Increases II
+
+.center[
+![](https://www.dropbox.com/s/2ckbeefhhgd1acq/caloriesovertime.png?raw=1)
+]
+.footnote[ Biologically, a human needs approximately 2,500 calories a day to survive, with obvious variations based on height, weight, and sex.]
+
+.source[Source: [J. Bradford Delong](http://bradford-delong.com)]
+
+---
+
+# Real Productivity Increases III
+
+.center[
+![](https://www.dropbox.com/s/2hxtzy7zhxyr7d4/lightovertime.png?raw=1)
+]
+
+.source[Nordhaus, William D, 1996, ["Do Real-Output and Real-Wage Measures Capture Reality?"](https://www.nber.org/chapters/c6064.pdf), *NBER Working Paper Series*]
+
+---
+
+# What Causes Productivity (Differences)?
+
+.pull-left[
+
+- Why isn't the whole world equally productive?
+- Different countries have different resources (factors of production)
+    - Land, labor, capital, education, technology, etc. 
+- Why not take machines and technology from wealthy countries and transfer them to poor countries?
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/c9l1458sy0vrrzz/technologytransfer.jpg?raw=1)
+]
+]

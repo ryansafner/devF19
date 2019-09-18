@@ -26,7 +26,9 @@ lessons:
     slides: "04-slides"
     
   - title: "Macroeconomics of Development: Growth Theory"
-  
+    reading: "05-reading"
+    slides: "05-slides"
+    
   - title: '<span class="fake-header-table">Policies & Exogenous Factors</span>'
   
   - title: "Good Intentions, Poor Policies: Foreign Aid and Structural Adjustment"

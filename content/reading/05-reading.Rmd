@@ -1,0 +1,19 @@
+---
+title: "5. The Macroeconomics of Development - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+I will lecture for 1.5-3 periods, and then we will have a discussion on either Wednesday Sept 25 or Monday Sept 30, depending on how far we get on Monday Sept 23 (I will let you know that day which date the discussion will be).
+
+# Required Readings:
+
+- <i class="fas fa-book"></i>Chapter 3 in @Easterly2002
+
+# Recommended Readings:
+
+- [<i class="fas fa-file-pdf"></i> Nordhaus (2000), "Do Real-Output and Real-Wage Measures Capture Reality?"](https://www.nber.org/chapters/c6064.pdf)
+- [<i class="fas fa-podcast"></i> *NPR Planet Money Podcast*: The History of Light, Nobel Edition "](https://www.npr.org/sections/money/2018/10/08/655597272/episode-534-the-history-of-light-nobel-edition)
+
+
