@@ -38,13 +38,13 @@ class: inverse, middle, center
 
 ### [Growth Models: A History](#9)
 
-### [Working Tools](#26)
+### [Working Tools](#27)
 
-### [The Solow (Exogenous) Growth Model](#37)
+### [The Solow (Exogenous) Growth Model](#38)
 
-### [Cross-Country Comparisons](#68)
+### [Cross-Country Comparisons](#69)
 
-### [Growth Accounting](#78)
+### [Growth Accounting](#79)
 
 ### [The Romer (Endogenous) Growth Model](#)
 
@@ -272,6 +272,24 @@ David Ricardo
     - Extend cultivation into worse marginal land and worse marginal land...
     - As more land is used, more and more labor and capital would be needed to increase output (diminishing returns to land)
 
+]
+
+---
+
+# Classical Economists on Growth VI
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/2lfmrgfcrswf9s4/ricardo2.jpg?raw=1)
+
+David Ricardo
+
+1772-1823
+]
+]
+
+.right-column[
+
 - Ultimately, marginal product of land would fall to 0 $\implies$ economy in a permanent stationary state<sup>.red[1]</sup>
     - Profits to capital fall to 0
     - Wages to laborers fall to subsistence level
@@ -284,7 +302,7 @@ David Ricardo
 
 ---
 
-# Classical Economists on Growth VI
+# Classical Economists on Growth VII
 
 .left-column[
 .center[
@@ -307,7 +325,7 @@ Rev. Thomas Malthus
 .source[Malthus, Thomas, 1798, [*An Essay on the Principle of Population*](https://www.econlib.org/library/Malthus/malPop.html)]
 ---
 
-# Classical Economists on Growth VII
+# Classical Economists on Growth VIII
 
 .left-column[
 .center[
@@ -332,7 +350,7 @@ Rev. Thomas Malthus
 ---
 
 
-# Classical Economists on Growth VIII
+# Classical Economists on Growth IX
 
 .left-column[
 .center[
@@ -492,7 +510,8 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 .right-column[
 
 - "**Financing gap"** between "required" investment rate (from model) and a country's actual saving rate
-    - Low income countries can't increase savings $\implies$ **foreign aid** from countries with higher savings will lead directly to rapid growth<sup>.red[1]</sup>
+
+- Low income countries can't increase savings $\implies$ **foreign aid** from countries with higher savings will lead directly to rapid growth<sup>.red[1]</sup>
 
 ]
 
