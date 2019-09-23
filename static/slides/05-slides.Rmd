@@ -40,11 +40,11 @@ class: inverse, middle, center
 
 ### [Working Tools](#26)
 
-### [The Solow (Exogenous) Growth Model](#38)
+### [The Solow (Exogenous) Growth Model](#37)
 
-### [Cross-Country Comparisons](#69)
+### [Cross-Country Comparisons](#68)
 
-### [Growth Accounting](#89)
+### [Growth Accounting](#78)
 
 ### [The Romer (Endogenous) Growth Model](#)
 
@@ -331,15 +331,8 @@ Rev. Thomas Malthus
 
 ---
 
+
 # Classical Economists on Growth VIII
-
-.center[
-![:scale 35%](https://www.dropbox.com/s/w3tjpbj41wiriuk/malthusianmeme.jpg?raw=1)
-]
-
----
-
-# Classical Economists on Growth IX
 
 .left-column[
 .center[
@@ -1965,7 +1958,7 @@ convergence %>%
   geom_text_repel(aes(color=country, label=country))+
   labs(x = "GDP in 1870",
        y = "Average GDP Growth Rate (1980-1994)",
-       caption = "Data Source: Pritchett (1997) Table II")+
+       caption = "Data Source: Pritchett (1997) Table I")+
   guides(color = F)+
   scale_x_continuous(labels = scales::dollar)+
   scale_y_continuous(breaks = 1:3, labels = function(x){paste(x, "%")})+
@@ -2113,7 +2106,7 @@ Economics Nobel 1987
 .right-column[
 
 .center[
-![](https://www.dropbox.com/s/yylo45vj2jrhxfx/solowcalculations.png?raw=1)
+![:scale 80%](https://www.dropbox.com/s/yylo45vj2jrhxfx/solowcalculations.png?raw=1)
 ]
 
 ]
