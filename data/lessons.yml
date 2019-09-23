@@ -2,17 +2,17 @@ lessons:
   - title: '<span class="fake-header-table">Fundamentals of Economic Development</span>'
     header: True
 
-  - title: "What is Development?"
+  - title: "1. What is Development?"
     slides: "01-slides"
     class: "01-class"
     reading: "01-reading"
 
-  - title: "Measuring Development"
+  - title: "2. Measuring Development"
     slides: "02-slides"
     class: "02-class"
     reading: "02-reading"
 
-  - title: "Can We Plan an Economy?"
+  - title: "3. Can We Plan an Economy?"
     class: "03-class"
     reading: "03-reading"
     slides: "03-slides"
@@ -20,38 +20,38 @@ lessons:
   - title: '<span class="fake-header-table">Models of Economic Development</span>'
     header: True
 
-  - title: "The Microeconomics of Development"
+  - title: "4. The Microeconomics of Development"
     class: "04-class"
     reading: "04-reading"
     slides: "04-slides"
     
-  - title: "Macroeconomics of Development: Growth Theory"
+  - title: "5. The Macroeconomics of Development"
     class: "05-class"
     reading: "05-reading"
     slides: "05-slides"
     
   - title: '<span class="fake-header-table">Policies & Exogenous Factors</span>'
   
-  - title: "Good Intentions, Poor Policies: Foreign Aid and Structural Adjustment"
+  - title: "6. Good Intentions, Poor Policies: Foreign Aid and Structural Adjustment"
   
-  - title: "What Else? Geography, Health, Demographics"
+  - title: "7. What Else? Geography, Health, Demographics"
   
   - title: '<span class="fake-header-table">Institutions and Political Economy</span>'
     header: True
 
-  - title: "Political Economy"
+  - title: "8. Political Economy"
 
-  - title: "The Pre-modern Malthusian Economy"
+  - title: "9. The Pre-modern Malthusian Economy"
 
-  - title: "The Natural State and the Violence Trap"
+  - title: "10. The Natural State and the Violence Trap"
 
   - title: '<span class="fake-header-table">Making Comparisons and Case Studies</span>'
     header: True
 
-  - title: 'Western Europe: The Transition to Liberal Democracy'
+  - title: '11. Western Europe: The Transition to Liberal Democracy'
 
-  - title: 'Russia and Post-Communist Development'
+  - title: '12. Russia and Post-Communist Development'
 
-  - title: 'State Capitalism: China and Korea'
+  - title: '13. State Capitalism: China and Korea'
 
-  - title: "Extractive Institutions: Latin America and Africa"
+  - title: "14. Extractive Institutions: Latin America and Africa"

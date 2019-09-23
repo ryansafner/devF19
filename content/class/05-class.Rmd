@@ -1,5 +1,5 @@
 ---
-title: "Lesson 4: The Macroeconomics of Development - Class Notes"
+title: "Lesson 5: The Macroeconomics of Development - Class Notes"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -23,7 +23,6 @@ We later turn to the famous Romer model, or "*endogenous* growth" model of Paul 
 
 In thinking about how to "model" an economy in a way that policymakers can exploit (e.g. manipulate key choice variables that can be changed) and assess the results, consider again: what exactly are we able to control? What knowledge must policymakers possess? What incentives ensure it gets implemented "the way we want?"
 
-
 # Slides
 
 - [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/05-slides.html)
@@ -31,6 +30,17 @@ In thinking about how to "model" an economy in a way that policymakers can explo
 # Readings
 
 See this week's [readings page](/reading/05-reading) for *required* readings for our discussion.
+
+# Interactive Solow Model
+
+- [Visualizing the Solow Model](https://ryansafner.shinyapps.io/Solow/)
+
+This is an example that I wrote in R/Shiny in previously, to visualize what it is we are looking at in the Solow Model. As I find more time, I may update this and integrate it into our slides, but until then, I will just post a link. 
+
+You can adjust things about the (Cobb-Douglas) production function, savings rate, depreciation rate, population growth rate, and TFP growth rate, and see how it would affect the graph and the equilibrium. 
+
+Note I have not added calculations or the golden rule yet. Moving $k$ around just shows where $k$ would start, and then it would have to grow/shrink to get to $k^*$. 
+
 
 # Math Appendices
 
