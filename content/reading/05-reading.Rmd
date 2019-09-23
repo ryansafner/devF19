@@ -22,5 +22,5 @@ I will lecture for 1.5-3 periods, and then we will have a discussion on either W
 # Primary Sources
 
 - [<i class="fas fa-file-pdf"></i> Solow (1956), "A Contribution to the Theory of Economic Growth"](/readings/Solow-1956)
-- [<i class="fas fa-file-pdf"></i> Solow (1957), "Technical Change and the Aggregate Production Function"](/readings/Solow-1956)
+- [<i class="fas fa-file-pdf"></i> Solow (1957), "Technical Change and the Aggregate Production Function"](/readings/Solow-1957)
 

@@ -36,43 +36,28 @@ library(ggrepel)
 
 class: inverse, middle, center
 
-### [The Division of Labor](#4)
+### [Growth Models: A History](#9)
 
-### [Growth Models: A History](#12)
+### [Working Tools](#26)
 
-### [Working Tools](#28)
+### [The Solow (Exogenous) Growth Model](#38)
 
-### [The Solow Model](#40)
+### [Cross-Country Comparisons](#69)
 
-### [Cross-Country Comparisons](#71)
+### [Growth Accounting](#89)
 
-### [Growth Accounting](#81)
+### [The Romer (Endogenous) Growth Model](#)
+
+### [The Economics of Ideas](#)
 
 ---
 
 # Real Productivity
 
+.pull-left[
+
 - The **only** way to increase income and standards of living (i.e. GDP per capita) is to increase .shout[real productivity], the amount of output produced per unit of input (i.e. per work-hour)
 
-- Recall the idea of a .shout[production function]:
-$$Y=f(L,K)$$
-
-- where $Y$ is output, $L$ is labor, and $K$ is capital (both inputs)
-
----
-
-# An Aggregate Production Function
-
-.pull-left[
-- Consider an **aggregate production function** for a country's entire economy:<sup>.red[1]</sup>
-
-$$Y=f(A,eL,K)$$
-- where the factors of production (inputs) are:
-    - $A$: technology
-    - $e$: education ("human capital")
-    - $L$: labor (population)
-    - $K$: physical capital 
-
 ]
 
 .pull-right[
@@ -80,45 +65,6 @@ $$Y=f(A,eL,K)$$
 ![](https://www.dropbox.com/s/f5echyv5gt9iypy/productivity1.png?raw=1)
 ]
 ]
-
-.footnote[<sup>.red[1]</sup> This is an extremely simplified version of the famous economic model of growth, the Solow model or neoclassical growth model, we'll see soon.]
-
----
-
-# An Aggregate Production Function II 
-
-.pull-left[
-
-$$Y=f(A, eL, K)$$
-
-- Increases in $L$: population growth
-- Increase in $K$: more physical capital
-- Increase in $e$: more education
-- Increase in $A$: more technology 
-
-]
-
-.pull-right[
-.center[
-![](https://www.dropbox.com/s/f5echyv5gt9iypy/productivity1.png?raw=1)
-]
-]
-
----
-
-# Output Per Worker
-
-
-- A common way to measure .shout[real (labor) productivity] is output per worker
-    - Simply divide the production function through by $L$
-
-$$\frac{Y}{L}=f(\frac{A}{L}, e, \frac{K}{L})$$
-
-- $\frac{Y}{L}$: output per worker (labor productivity) 
-- Comes from having higher levels of 
-    - $\frac{K}{L}$: capital per worker
-    - $\frac{A}{L}$: technology per worker
-    - $e$: human capital/education
 
 ---
 
@@ -169,8 +115,10 @@ $$\frac{Y}{L}=f(\frac{A}{L}, e, \frac{K}{L})$$
 .pull-left[
 
 - Why isn't the whole world equally productive?
+
 - Different countries have different resources (factors of production)
     - Land, labor, capital, education, technology, etc. 
+
 - Why not take machines and technology from wealthy countries and transfer them to poor countries?
 ]
 
@@ -529,6 +477,27 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
     - Tendency to think "Development" $=$ Growth $=$ Industrialization
     - Ripe for Development planning from above
 
+]
+
+
+---
+
+# The Harrod-Domar Model III
+
+.left-column[
+
+.center[
+![:scale 49%](https://www.dropbox.com/s/r7uxmndxw4pky5i/harrod.jpg?raw=1) ![:scale 49%](https://www.dropbox.com/s/97bvdtm5akmmjup/domar.jpg?raw=1)
+
+**L**: Roy Harrod (1900-1978)
+
+**R**: Evsey Domar (1914-1997)
+
+]
+]
+
+.right-column[
+
 - "**Financing gap"** between "required" investment rate (from model) and a country's actual saving rate
     - Low income countries can't increase savings $\implies$ **foreign aid** from countries with higher savings will lead directly to rapid growth<sup>.red[1]</sup>
 
@@ -538,7 +507,7 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 
 ---
 
-# The Harrod-Domar Model III
+# The Harrod-Domar Model IV
 
 .left-column[
 .center[
@@ -584,6 +553,8 @@ class: inverse, center, middle
 
 # An Aggregate Production Function I
 
+.pull-left[
+
 - .shout[Aggregate production function]: rate at which an economy converts inputs into output<sup>.red[1]</sup>
 
 $$Y=A*f(L,K,T)$$
@@ -603,11 +574,21 @@ tribble(
 - "A" is called .onfire[total factor productivity], augments all factors to improve output
     - Often called "technology" but more like "ideas, incentives, and institutions"
 
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/cg5lbqrxsjij5iu/factors.jpg?raw=1)
+]
+
+]
 .footnote[<sup>.red[1]</sup> Technically this concept is borrowed from microeconomics, where it describes a firm's "technology."]
 
 ---
 
 # Theoretical Microfoundations I
+
+.pull-left[
 
 - $N$ firms $(i=1,2,\cdots N)$ all have the **same** production technology
 $$y_i=a*f(L_i,K_i,T_i)$$
@@ -617,6 +598,14 @@ $$y_i=a*f(L_i,K_i,T_i)$$
     - $p_L=w=MP_L$
     - $p_K=i=MP_K$
     - $p_T=r=MP_T$
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/f59prr1nm5u2cbx/corporation.jpg?raw=1)
+]
+]
 
 .footnote[<sup>.red[1]</sup> With the assumption of competitive markets, all factor prices (wages, interest, rents) are equal to the marginal productivity of labor, capital, and land, respectively.]
 
@@ -754,7 +743,7 @@ plot_ly(x = x_vec,
 
 .pull-left[
 
-- Look at Labor, holding other factors constant,<sup>.red[1]</sup>: 
+- Look at Labor, holding other factors constant:<sup>.red[1]</sup>
 
 .content-box-green[
 .green[**Example**]: When `\\(\bar{K}=9\\)`
@@ -772,7 +761,7 @@ srl=function(x){3*x^(0.5)}
 ```{r, fig.retina=3, fig.height=5, fig.align="center"}
 ggplot(data.frame(x=c(0,10)), aes(x=x))+
   stat_function(fun=srl, geom="line", size=2, color = "#73D055FF")+
-    #geom_label(aes(x=9,y=mpl(9)), color = "#73D055FF", label="", size = 6)+
+    geom_label(aes(x=8,y=srl(8)), color = "blue", label=expression(Y=3*L^{0.5}), size = 6)+
     scale_x_continuous(breaks=seq(0,10,1),
                      limits=c(0,10),
                      expand=expand_scale(mult=c(0,0.1)))+
@@ -795,7 +784,7 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 
 .pull-left[
 
-- Look at Labor, holding other factors constant,<sup>.red[1]</sup>: 
+- Look at Labor, holding other factors constant: 
 
 - The .shout[marginal product of labor]: the additional output produced by an additional unit of labor (holding other factors constant)
 
@@ -808,8 +797,6 @@ $$AP_L=\frac{Y}{L}$$
 ]
 
 .pull-right[
-
-$$Y(\bar{K},L) = 3L^{0.5}$$
 
 ```{r}
 mpl=function(x){1.5*x^(-0.5)}
@@ -842,7 +829,7 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 
 .pull-left[
 
-- Look at Capital, holding other factors constant,<sup>.red[1]</sup>: 
+- Look at Capital, holding other factors constant:
 
 .content-box-green[
 .green[**Example**]: When `\\(\bar{L}=9\\)`
@@ -853,8 +840,6 @@ $$Y=3K^{0.5}$$
 
 .pull-right[
 
-$$Y(K, \bar{L}) = 3K^{0.5}$$
-
 ```{r}
 srk=function(x){3*x^(0.5)} 
 ```
@@ -862,7 +847,7 @@ srk=function(x){3*x^(0.5)}
 ```{r, fig.retina=3, fig.height=5, fig.align="center"}
 ggplot(data.frame(x=c(0,10)), aes(x=x))+
   stat_function(fun=srk, geom="line", size=2, color = "#73D055FF")+
-    #geom_label(aes(x=9,y=mpl(9)), color = "#73D055FF", label="", size = 6)+
+    geom_label(aes(x=8,y=srk(8)), color = "blue", label=expression(Y=3*K^{0.5}), size = 6)+
     scale_x_continuous(breaks=seq(0,10,1),
                      limits=c(0,10),
                      expand=expand_scale(mult=c(0,0.1)))+
@@ -895,8 +880,6 @@ $$AP_K=\frac{Y}{K}$$
 
 .pull-right[
 
-$$Y(K, \bar{L}) = 3K^{0.5}$$
-
 ```{r}
 mpl=function(x){1.5*x^(-0.5)}
 apl=function(x){3*x^(-0.5)}
@@ -906,8 +889,8 @@ apl=function(x){3*x^(-0.5)}
 ggplot(data.frame(x=c(0,10)), aes(x=x))+
   stat_function(fun=mpl, geom="line", size=2, color = "blue")+
   stat_function(fun=apl, geom="line", size=2, color = "red")+
-    geom_label(aes(x=8,y=mpl(8)), color = "blue", label=expression(MP[L]), size = 6)+
-    geom_label(aes(x=6,y=apl(6)), color = "red", label=expression(AP[L]), size = 6)+
+    geom_label(aes(x=8,y=mpl(8)), color = "blue", label=expression(MP[K]), size = 6)+
+    geom_label(aes(x=6,y=apl(6)), color = "red", label=expression(AP[K]), size = 6)+
     scale_x_continuous(breaks=seq(0,10,1),
                      limits=c(0,10),
                      expand=expand_scale(mult=c(0,0.1)))+
@@ -1031,36 +1014,36 @@ Economics Nobel 1987
 
 # The "Simple" Solow Model: Equations
 
-1. $C_t+I_t=Y_t=f(K,L)$
+- $C_t+I_t=Y_t=f(K,L)$
     - Income is equal to consumption plus investment
     - Output is equal to the production function
     - Income = Output 
 
 --
 
-2. $I_t=sf(K_t,L_t)$
-    - Investment is equal to the amount of income (output) saved $s$
+- $I_t=sf(K_t,L_t)$
+    - Investment is equal to the fraction of income (output) saved $s$ times output
 
 --
 
-3. $K_{t+1}=K_t (1-\delta) + I_t$
-    - The stock of capital $K$ changes over time from depreciation $(\delta)$ and new investment $I$
+- $K_{t+1}=K_t (1-\delta) + I_t$
+    - The stock of capital $K$ changes over time from depreciation $(\delta)$ and new investment $I_t$
 
 --
 
-4. $L_t=L$
+- $L_t=L$
     - The stock of labor is constant over time
     
 ---
 
 # The "Simple" Solow Model: Implications
 
-1. $K_{t+1}=K_t(1-\delta)+sf(K_t,L_t)$
+- $K_{t+1}=K_t(1-\delta)+sf(K_t,L_t)$
     - Plugging equation 2 into equation 3
 
 --
 
-2. Steady-State equilibrium: $\delta K = sf(K,L)$
+- Steady-State equilibrium: $\delta K = sf(K,L)$
     - Savings rate is equal to depreciation rate
 
 ---
@@ -1326,7 +1309,9 @@ ggplot(data = tibble(x=c(0,10)))+
 
 - Steady state output increases $y_t^*$
 
-- Steady state amount of consumption $c_t^*$ increases
+- Steady state amount of consumption
+    - Decreases at first from more savings 
+    - Increases from more output produced
 ]
 
 .pull-right[
@@ -1514,7 +1499,8 @@ ggplot(data = tibble(x=c(0,10)))+
 
 - Different values of $s$ lead to different steady state levels of $k^*$, which is *best*?
 
-- The best steady state is one where there is the highest possible consumption per person $c^*=(1-s)f(k^*)$
+- The best steady state is one where there is the highest possible consumption per person 
+$$c^*=(1-s)f(k^*)$$
 
 - Increase in $s$
     - Reduces consumption's share of income $(1-s)$
@@ -1704,6 +1690,8 @@ sp
 
 # The "Full" Solow Model I
 
+.pull-left[
+
 - Add two new "laws of motion" beyond just capital: 
 
 - **Population** grows at constant rate $n$ over time
@@ -1717,6 +1705,13 @@ sp
 - Redefine $k \equiv \frac{K_t}{A_tL_t}$ as capital per *effective* worker
   - Labor is being augmented by technology, hence $A_t \times L_t$
   - $A_{t+1}L_{t+1} = A_tL_t(1+n)(1+g)$
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/ab87jtj63ls8hy8/popgrowth.jpg?raw=1)
+]
+]
 
 ---
 
@@ -1823,9 +1818,9 @@ sp2
 
 4. Capital and labor's share of output $(\alpha$ and $1-\alpha$, respectively) do not change over time (Kaldor's Fact 4)
 
-5. The return to capital is constant (it can be shown to be equal to $\alpha(k^*)^{\alpha-1}$)
+5. The return to capital is constant (it can be shown to be $r=\alpha(k^*)^{\alpha-1}$)
 
-- What about 6: levels of output per worker vary widely across countries?
+- What about Kaldor's Fact 6: levels of output per worker vary widely across countries?
 
 ---
 
@@ -1970,7 +1965,7 @@ convergence %>%
   geom_text_repel(aes(color=country, label=country))+
   labs(x = "GDP in 1870",
        y = "Average GDP Growth Rate (1980-1994)",
-       caption = "Source: Pritchett (1997)")+
+       caption = "Data Source: Pritchett (1997) Table II")+
   guides(color = F)+
   scale_x_continuous(labels = scales::dollar)+
   scale_y_continuous(breaks = 1:3, labels = function(x){paste(x, "%")})+
@@ -2014,6 +2009,7 @@ convergence %>%
 > "While unconditional convergence was singularly absent in the past, there has been unconditional convergence, beginning (weakly) around 1990 and emphatically for the last two decades."
 
 ]
+
 .source[Johnson, Paul and Chris Papageorgiou, 2018, "What Remains of Cross-Country Convergence?" *Journal of Economic Literature*, forthcoming]
 
 ---
@@ -2084,7 +2080,11 @@ $$g_Y=\frac{F_A A}{Y}*g_A+ \alpha g_K+(1-\alpha)g_L$$
 
 - Output growth $g_Y$ can be explained as the growth of "technology" $g_A$ and the growth of factors $(\alpha g_K + (1-\alpha)g_L)$<sup>.red[1]</sup>
 
+--
+
 - Used to determine how much of total output can be explained by growth in factors and "everything else," known as the .shout[Solow Residual] - often interpreted as "technology" 
+
+--
 
 - We can directly measure (roughly) $Y, L, K$ and $\alpha$, but not $\frac{F_A A}{Y}$, the Solow residual
     - Measure it as $\text{Solow Residual}=g_Y- \alpha g_K-(1-\alpha)g_L$
@@ -2097,6 +2097,32 @@ $$g_Y=\frac{F_A A}{Y}*g_A+ \alpha g_K+(1-\alpha)g_L$$
 
 # The Solow Model: Growth Accounting II
 
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/lbaq4sn3omma38k/solow.jpg?raw=1)
+
+Robert Solow
+
+(1924-)
+
+Economics Nobel 1987
+]
+]
+
+.right-column[
+
+.center[
+![](https://www.dropbox.com/s/yylo45vj2jrhxfx/solowcalculations.png?raw=1)
+]
+
+]
+
+.source[Solow, Robert, 1957, "Technical Change and the Aggregate Production Function," *The Review of Economics and Statistics* 39(3): 312-320]
+
+---
+
+# The Solow Model: Growth Accounting III
 .left-column[
 
 .center[
@@ -2128,7 +2154,7 @@ Solow's findings for 1909-1949 in the United States:
 
 ---
 
-# The Solow Model: Growth Accounting III
+# The Solow Model: Growth Accounting IV
 
 ```{r}
 solow<-read_csv("../data/solow_growth_accounting.csv")
@@ -2140,8 +2166,6 @@ solow<-solow %>%
          A_change = Y_change-K_change-L_change)
 
 ```
-
----
 
 ```{r, fig.retina=3, fig.align="center"}
 
