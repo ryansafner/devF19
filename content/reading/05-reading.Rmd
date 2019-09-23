@@ -16,5 +16,11 @@ I will lecture for 1.5-3 periods, and then we will have a discussion on either W
 - Marginal Revolution University Videos on [Growth, Capital Accumulation, and the Economics of Ideas](https://mru.org/courses/principles-economics-macroeconomics/solow-model-economic-growth)
 - [<i class="fas fa-file-pdf"></i> Nordhaus (2000), "Do Real-Output and Real-Wage Measures Capture Reality?"](https://www.nber.org/chapters/c6064.pdf)
 - [<i class="fas fa-podcast"></i> *NPR Planet Money Podcast*: The History of Light, Nobel Edition "](https://www.npr.org/sections/money/2018/10/08/655597272/episode-534-the-history-of-light-nobel-edition)
+- [<i class="fas fa-external-link-square-alt"></i> "Everything You Know About Cross-Country Convergence is Now Wrong"](https://www.cgdev.org/blog/everything-you-know-about-cross-country-convergence-now-wrong)
 
+
+# Primary Sources
+
+- [<i class="fas fa-file-pdf"></i> Solow (1956), "A Contribution to the Theory of Economic Growth"](/readings/Solow-1956)
+- [<i class="fas fa-file-pdf"></i> Solow (1957), "Technical Change and the Aggregate Production Function"](/readings/Solow-1956)
 
