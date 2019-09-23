@@ -586,7 +586,7 @@ class: inverse, center, middle
 
 - .shout[Aggregate production function]: rate at which an economy converts inputs into output<sup>.red[1]</sup>
 
-$$Y=f(L,K,T)$$
+$$Y=A*f(L,K,T)$$
 
 - Economists often classify inputs into broad categories:
 
@@ -599,6 +599,9 @@ tribble(
 ) %>%
   knitr::kable(., format="html")
 ```
+
+- "A" is called .onfire[total factor productivity], augments all factors to improve output
+    - Often called "technology" but more like "ideas, incentives, and institutions"
 
 .footnote[<sup>.red[1]</sup> Technically this concept is borrowed from microeconomics, where it describes a firm's "technology."]
 
@@ -651,7 +654,7 @@ Under constant returns:
 
 - Labor productivity $\left(\frac{Y}{L}\right)$, output-per-worker/hour, is determined only by $\left(\frac{K}{L}\right)$, capital-per-worker/hour
 
-$$Y = MP_LL + MPK_K + MP_T T$$
+$$Y = MP_LL + MP_KK + MP_T T$$
 
 - With competitive markets, firms pay each factor its marginal product, firms earn no profits<sup>.red[1]</sup>
 
