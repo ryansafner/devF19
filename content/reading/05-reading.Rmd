@@ -5,7 +5,7 @@ bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
-I will lecture for 1.5-3 periods, and then we will have a discussion on either Wednesday Sept 25 or Monday Sept 30, depending on how far we get on Monday Sept 23 (I will let you know that day which date the discussion will be).
+I will lecture for 1.5-3 periods, and then we will have a discussion on either Monday Sept 30.
 
 # Required Readings:
 
@@ -17,10 +17,28 @@ I will lecture for 1.5-3 periods, and then we will have a discussion on either W
 - [<i class="fas fa-file-pdf"></i> Nordhaus (2000), "Do Real-Output and Real-Wage Measures Capture Reality?"](https://www.nber.org/chapters/c6064.pdf)
 - [<i class="fas fa-podcast"></i> *NPR Planet Money Podcast*: The History of Light, Nobel Edition "](https://www.npr.org/sections/money/2018/10/08/655597272/episode-534-the-history-of-light-nobel-edition)
 - [<i class="fas fa-external-link-square-alt"></i> "Everything You Know About Cross-Country Convergence is Now Wrong"](https://www.cgdev.org/blog/everything-you-know-about-cross-country-convergence-now-wrong)
-
+- [<i class="fas fa-external-link-square-alt"></i> "Science Is Getting Less Bang for Its Buck"](https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/)
+- [<i class="fas fa-podcast"></i> *Freakonomics Radio*: "Are We Running Out of Ideas?"](http://freakonomics.com/podcast/no-new-ideas/)
 
 # Primary Sources
 
 - [<i class="fas fa-file-pdf"></i> Solow (1956), "A Contribution to the Theory of Economic Growth"](/readings/Solow-1956)
 - [<i class="fas fa-file-pdf"></i> Solow (1957), "Technical Change and the Aggregate Production Function"](/readings/Solow-1957)
+- [<i class="fas fa-file-pdf"></i> Pritchett (1997), "Divergence, Big Time"](/readings/Pritchett-1997)
+- [<i class="fas fa-file-pdf"></i> Romer (1990), "Endogenous Technological Change"](/readings/Romer-1990)
 
+# Questions to Guide Your Reading
+
+- Easterly accuses the Solow model of "capital fundamentalism." What does he mean by this? How are (other) ideas about development and development policy affected by "capital fundamentalism?"
+
+- Easterly's primary accusation against "capital fundamentalism" is that it is incompatible with "people respond to incentives." How is this evident (or not) in the Solow model? The Romer model?
+
+- How do the events of the early to mid 20<sup>th</sup> Century (the Great Depression, industrialization and forced savings in the Soviet Union, etc) find their way into mid-century growth models?
+
+- If (physical, human, etc) capital is so important for growth, why can't we just "send" capital to developing countries and watch them grow?
+
+- Consider the difference between "catch up growth" and "cutting-edge growth." How does this explain the rapid growth of countries like Singapore, Hong Kong, China, South Korea, Taiwan, etc?
+
+- The U.S. is on the frontier, and fighting hard for "cutting-edge growth." Do you think we "are running out of ideas" or that we are growing slowly because there are diminishing returns to innovation? 
+
+- 

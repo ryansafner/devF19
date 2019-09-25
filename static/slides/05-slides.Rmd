@@ -46,9 +46,11 @@ class: inverse, middle, center
 
 ### [Growth Accounting](#79)
 
-### [The Romer (Endogenous) Growth Model](#)
+### [Endogenous Growth](#96)
 
-### [The Economics of Ideas](#)
+### [Digression: The Economics of Ideas](#103)
+
+### [The Romer Model](#115)
 
 ---
 
@@ -1056,7 +1058,7 @@ Economics Nobel 1987
 --
 
 - Steady-State equilibrium: $\delta K = sf(K,L)$
-    - Savings rate is equal to depreciation rate
+    - Amount of capital depreciation is the same as the amount saved & invested
 
 ---
 
@@ -1731,7 +1733,7 @@ sp
 
 - Long story short, our new takeaway implications:
 
-1. $\Delta k = sf(k_t)+[1-(\delta+n+g)]k_t$
+1. $\Delta k = sf(k_t)-(\delta+n+g)k_t$
   - Capital per effective worker is equal to investment (first term) minus **break-even investment**
 
 2. Break even investment: $(\delta+n+g)k$
@@ -1805,8 +1807,12 @@ sp2
 | Capital per effective worker | $k=\frac{K}{AL}$ | 0 |
 | Output per effective worker | $y=\frac{Y}{AL}$ | 0 |
 | Output per worker | $\frac{Y}{L}=Ay$ | $g$ |
-| Total Output | $Y = yAL$ | $n+g$ | 
+| TFP | $A$ | $g$ |
+| Labor (population) | $L$ | $n$ |
+| Total Capital | $K=ALk$ | $n+g$ |
+| Total Output | $Y = yAL$ | $n+g$ |
 
+- Interesting: growth rate of output per worker grows *solely* from rate of TFP progress $(g)$!
 ]
 
 .pull-right[
@@ -1855,6 +1861,16 @@ class: inverse, center, middle
 ![:scale 100%](https://www.dropbox.com/s/5atmnkr35zz8ph2/convergence.jpg?raw=1)
 ]
 ]
+
+---
+
+# Convergence: Technical
+
+- Near the balanced growth path $k \rightarrow (k^*)$ at a speed proportional to its distance from $k^*$:
+
+$$k(t) \approx k^* + e^{-[1-\alpha k^*](n+g+\delta) t}(k_0-k^*)$$
+
+- In other words - **the further away from (closer to) $k^*$ your country is, the faster (slower) you should grow**
 
 ---
 
@@ -2081,6 +2097,44 @@ ggplot(tibble(x=1:10))+
 
 ---
 
+# Growth on the Frontier is Hard I
+
+.pull-left[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/d6z5b94c86xozbg/sciencedmr.png?raw=1)
+
+Source: [The Atlantic (Nov 16, 2018)](https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/)
+]
+]
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/7aed5qqdxgncgc6/runningoutofideas.png?raw=1)
+
+Source: [Freakonomics (Nov 29, 2017)](http://freakonomics.com/podcast/no-new-ideas/)
+]
+
+]
+
+---
+
+# Growth on the Frontier is Hard II
+
+.pull-left[
+.center[
+![:scale 60%](https://www.dropbox.com/s/6j0vtfi1syalcbz/gordonriseandfall.png?raw=1)
+]
+]
+
+.pull-right[
+.center[
+![:scale 70%](https://www.dropbox.com/s/u2igo8d8ixi5p6s/greatstagnation.jpg?raw=1)
+]
+]
+
+---
+
 class: inverse, center, middle
 # Growth Accounting
 
@@ -2112,7 +2166,7 @@ $$g_Y=\frac{F_A A}{Y}*g_A+ \alpha g_K+(1-\alpha)g_L$$
 .left-column[
 
 .center[
-![:scale 75%](https://www.dropbox.com/s/lbaq4sn3omma38k/solow.jpg?raw=1)
+![:scale 65%](https://www.dropbox.com/s/lbaq4sn3omma38k/solow.jpg?raw=1)
 
 Robert Solow
 
@@ -2200,4 +2254,758 @@ ggplot(data = solow)+
        caption = "Data Sources: BEA")+
   theme_classic(base_family = "Fira Sans Condensed", base_size=20)
 ```
+
+---
+
+# Growth Accounting: TFP
+
+```{r, fig.retina=3}
+ggplot(data = solow)+
+  aes(x = Year)+
+  geom_line(aes(y = A_change, color="Technology (A)"),  size = 1)+
+  geom_hline(aes(yintercept=mean(A_change,na.rm=T)), color = "black", linetype="dashed")+
+  geom_text(aes(x=1980, y=0.5+mean(A_change,na.rm=T)), label="Average TFP Growth: 1.373%")+
+  scale_x_continuous(breaks=seq(1950,2010,10),
+                     limits=c(1948,2012))+
+  #scale_y_continuous(breaks=seq(0,10,1),
+  #                   limits=c(0,10),
+  #                   expand=expand_scale(mult=c(0,0.1)))+
+  scale_colour_manual("Series", values = line_colors)+
+  labs(x = "Time",
+       y = "Growth Rates (%)",
+       title = "Growth Accounting for 1950-2010",
+       caption = "Data Sources: BEA")+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=20)
+```
+
+---
+
+# Exogenous Growth, With Human Capital I
+
+.pull-left[
+
+- Solow model(s) can't account for all differences between countries (based on $\frac{K}{L}$ ratio)
+
+- What about if we add .shout[*human* capital] - skills and education embodied in people, such that it augments labor productivity?
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# Exogenous Growth, With Human Capital II
+
+.pull-left[
+
+$$Y_t=K_t^\alpha \left(A_tH_t\right)^{1-\alpha}$$
+
+- Replacing $L$ with $AH$
+
+- $A$ again grows at (exogenous) rate $g_A=g$
+
+- $H_t = L_tG(E)$
+    - Labor $L_t$ is affected by $G(E)$, where $E$ is .shout[education]
+    - $G(E)$ is the function that describes how education affects labor $L_t$
+
+- How to model $G(E)$? 
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# Exogenous Growth, With Human Capital II
+
+.pull-left[
+
+$$Y_t=K_t^\alpha \left(A_tH_t\right)^{1-\alpha}$$
+
+- How to model $G(E)$? 
+
+- Presumably positive (more education $\implies$ more human capital)
+
+- Diminishing returns? Signalling theory of education?
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# Exogenous Growth, With Human Capital III
+
+.pull-left[
+
+$$Y_t=K_t^\alpha \left(A_tH_t\right)^{1-\alpha}$$
+
+- The dynamics of this model are virtually identical to Solow's
+
+- Good: easy to solve
+
+- Bad: we fail to explain $g$ (still exogenously assumed)
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# Exogenous Growth, With Human Capital IV
+
+.pull-left[
+
+"In 1988 output per worker in the United States was more than 35 times higher than output per worker in Niger. In just over ten days the average worker in the United States produced as much as an average worker in Niger produced in an entire year."
+
+"Differences among countries can be attributed to differences in human capital, physical capital, and productivity...**Different capital intensities** in the two countries **contributed a factor of 1.5** to the income differences, while **different levels of educational attainment contributed a factor of 3.1**. The **remaining difference - a factor of 7.7 remains as the productivity residual**, (p.83).
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/hq1aglwa3aabtbt/halljones.png?raw=1)
+]
+
+]
+
+.source[Hall, Robert E, and Charles I Jones, 1999, "Why Do Some Countries Produce So Much More Output Per Worker Than Others?" *Quarterly Journal of Economics* 114(1): 83-116]
+---
+
+# Exogenous Growth, With Human Capital V
+
+.pull-left[
+
+"Our hypothesis is that differences in capital accumulation, productivity, and therefore output per worker are **fundamentally related to differences in social infrastructure across countries**. By social infrastructure we mean the **institutions and government policies that determine the economic environment** within which individuals accumulate skills, and firms accumulate capital and produce output," (p. 84).
+
+]
+
+.pull-right[
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/4qc8quxymhsfqcy/socialinf.png?raw=1)
+]
+
+]
+
+.source[Hall, Robert E, and Charles I Jones, 1999, "Why Do Some Countries Produce So Much More Output Per Worker Than Others?" *Quarterly Journal of Economics* 114(1): 83-116]
+
+---
+
+
+class: inverse, center, middle
+
+# Endogenous Growth
+
+---
+
+# The Romer Model I
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/zj5nl5b7y5036ja/paulromer.jpg?raw=1)
+
+Paul Romer
+
+(1955-)
+
+Economics Nobel 2018
+]
+]
+
+.right-column[
+
+> "**Growth in this model is driven by technological change** that arises **from intentional investment decisions made by profit-maximizing agents**. The distinguishing feature of the **technology** as an input is that it is neither a conventional good nor a public good; it **is a non-rival, partially excludable good.** Because of the nonconvexity introduced by a nonrival good, **price-taking competition cannot be supported.** Instead, the **equilibrium is one with monopolistic competition.**
+
+> "The main conclusions are that the **stock of human capital determines the rate of growth,** that** too little human capital is devoted to research in equilibrium**, that **integration into world markets will increase growth rates**, and that **having a large population is not sufficient to generate growth,**" (pp.S71).
+
+- Paper cited [28,747 times](https://scholar.google.com/scholar?q=endogenous+technological+change&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
+]
+
+.source[Romer, Paul M, 1990, "Endogenous Technological Change," *Journal of Political EConomy* 98(5-2): S71-S102]
+
+---
+
+# Aside: Paul Romer
+
+.pull-left[
+.center[
+![:scale 75%](https://www.dropbox.com/s/b48ee2xym3m8wr9/romerburningman.png?raw=1)
+
+Source: [New York Times: Sept 5, 2019](https://www.nytimes.com/2019/09/05/upshot/paul-romer-burning-man-nobel-economist.html)
+]
+]
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/69zy566ehnfwo3w/romerworldbank.png?raw=1)
+
+Source: [Financial Times: Jan 25, 2018](https://www.ft.com/content/be72f8e2-0144-11e8-9650-9c0ad2d7c5b5)
+]
+]
+
+---
+
+# The Romer Model II
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/zj5nl5b7y5036ja/paulromer.jpg?raw=1)
+
+Paul Romer
+
+(1955-)
+
+Economics Nobel 2018
+]
+]
+
+.right-column[
+
+- We'll explore the *features* of Romer's model, equations and graphs are far too complicated<sup>.red[1]</sup>
+
+- Romer's model builds on 30 years of macro models since Solow (1956):
+
+.footnote[<sup>.red[1]</sup> But otherwise, his first 8 pages are quite easy and enjoyable to read!]
+]
+
+---
+
+# Macro Models In the 30 Years Since Solow (1956)
+
+- **Ramsey-Kass-Koopmans model** (1965): Solow model with .onfire[microfoundations]!
+  - Savings rate $s$ is endogenized: 
+  - "infinitely-lived" utility-maximizing individuals decide to supply labor and rent capital to cost-minimizing firms in order to earn income, which they can consume and save for future periods
+  - single steady state equilibrium
+  - groundwork for all modern macro dynamic stochastic general equilibrium (DSGE) models
+
+--
+
+- **Overlapping Generations (Diamond) model** (1965):
+  - Individuals live for 2 periods only (work and retire), determine the savings rate
+  - Multiple steady state equilibria possible
+  - Economy subject to dynamic inefficiency
+
+---
+
+# The Motivations for Romer
+
+- Problems with how Solow models the aggregate economy:
+
+1. "Knowledge" (TFP) has a non-rival component to it
+
+2. Markets/aggregate production function cannot possibly be competitive and constant returns to scale
+    - Market power/monopolistic competition
+    - Increasing returns to scale
+
+3. Knowledge does not grow exogenously, but is the result of market forces and optimizing choices: people and firms face incentives to create and exploit it (or not)
+
+---
+
+class: inverse, center, middle
+
+# Digression: The Economics of Ideas
+
+---
+
+# The Economic *Problem* with Ideas I
+
+.pull-left[
+
+.center[
+![](https://www.dropbox.com/s/32yfwsk7g4sfvvr/privatesign.png?raw=1)
+]
+
+]
+
+--
+
+.pull-right[
+
+```{r, results="asis"}
+library(kableExtra)
+
+publicgoods<-tribble(
+  ~"", ~Rivalrous, ~Nonrival,
+  "Excludable", "PRIVATE GOODS", "COMMON RESOURCES",
+  "Excludable", "(Houses, Jeans)", "(Fisheries, Environment)",
+  "Nonexcludable", "CLUB GOODS", "PUBLIC GOODS",
+  "Nonexcludable", "(Wifi, Cable TV)", "(Asteroid Defense)"
+)
+
+kable(publicgoods, format="html") %>%
+  kable_styling(full_width=F) %>%
+  #add_header_above(c(" " = 1, "Column" = 2)) %>%
+  column_spec(c(1,1), bold=T) %>%
+  collapse_rows(columns = 1, latex_hline = "major", valign = "middle")
+```
+]
+
+---
+
+# The Economic *Problem* with Ideas II
+
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/wyifyyvs8xbyijc/jefferson1.jpg?raw=1)
+
+Thomas Jefferson
+
+(1743-1826)
+]
+]
+
+.right-column[
+
+> "He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me. That ideas should freely spread from one to another over the globe, for the moral and mutual instruction of man, and improvement of his condition, seems to have been peculiarly and benevolently designed by nature, when she made them, like fire, expansible over all space, without lessening their density in any point, and like the air in which we breathe, move, and have our physical being, incapable of confinement or exclusive appropriation."
+
+]
+
+.source[Jefferson, Thomas, 13 Aug 1813, "Letter to Isaac MacPherson," ]
+
+
+---
+
+# The Economic *Problem* with Ideas II
+
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/8xrpsdf2mj2z4fj/macaulay.png?raw=1)
+
+Thomas Macaulay
+
+(1800-1859)
+]
+]
+
+.right-column[
+
+> "It is then on men whose profession is literature, and whose private means are not ample, that you must rely for a supply of valuable books. Such men must be remunerated for their literary labour...It is desirable that we should have a supply of good books; we cannot have such a supply unless men of letters are liberally remunerated, and the least objectionable way of remunerating them is by means of copyright...The system of copyright has great advantages, and great disadvantages...Copyright is monopoly, and produces all the effects which the general voice of mankind attributes to monopoly...Monopoly is an evil...For the sake of the good we must submit to the evil; but the evil ought not to last a day longer than is necessary for the purpose of securing the good..."
+
+]
+
+.source[Macaulay, Thomas, 1841 Parliamentay speech against Serjeant Talfourd's 1841 Copyright Bill]
+
+---
+
+# High Fixed Costs, Low Marginal Costs I
+
+.pull-left[
+
+.center[
+![](https://www.dropbox.com/s/j5rxriut8sinvob/pharmaceutical.png?raw=1)
+]
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/4ibyb8oohmmge5z/genericpill.jpg?raw=1)
+]
+]
+
+- It costs about $1,000,000,000 and 10 years on average to create a new drug. Once discovered, it costs the firm (or it's competitors!) about $0.50/pill to manufacture.
+
+---
+
+# High Fixed Costs, Low Marginal Costs II
+
+.pull-left[
+
+.center[
+![](https://www.dropbox.com/s/5kfldu00lodqa1s/got1.png?raw=1)
+]
+]
+
+--
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/lt9c30lpwho7uh8/gotpirated.png?raw=1)
+
+Source: [Washington Post (Sept 8, 2017)](https://www.washingtonpost.com/news/morning-mix/wp/2017/09/08/game-of-thrones-was-pirated-more-than-a-billion-times-far-more-than-it-was-watched-legally/)
+]
+]
+
+---
+
+# Positive Spillovers
+
+.left-column[
+
+.center[
+![:scale 70%](https://www.dropbox.com/s/10htmt0dupcb3kb/nordhaus.jpg?raw=1)
+
+William Nordhaus
+
+(1941-)
+
+Economics Nobel 2018
+]
+]
+
+.right-column[
+
+> "We conclude that [about 2.2%] of the social returns from technological advances over the 1948-2001 period was captured by producers, indicating that most of the benefits of technological change are passed on to consumers rather than captured by producers," (p.1)
+
+
+]
+
+.source[Nordhaus, William, 2004, ["Schumpeterian Profits in the American Economy: Theory and Measurement,"](https://www.nber.org/papers/w10433) *NBER Working Paper* 10433]
+
+---
+
+# Property Rights in Innovation
+
+.pull-left[
+
+- For these economic reasons, .shout[patent] (for ideas and inventions) and .shout[copyright] (for expressions) laws exist
+
+- Grant *temporary* monopoly to holder in order to recover their fixed costs and provide incentive to undertake (risky and expensive) research/creativity
+
+- A utilitarian *tradeoff* between incentives and access
+
+]
+
+.pull-right[
+
+.center[
+![:scale 60%](https://www.dropbox.com/s/cihnj15juyus7wj/patent.png?raw=1)
+
+![:scale 60%](https://www.dropbox.com/s/l4vep529mbzckfh/copyright.png?raw=1)
+
+]
+
+]
+
+---
+
+# This Implies Market Power
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/zj5nl5b7y5036ja/paulromer.jpg?raw=1)
+
+Paul Romer
+
+(1955-)
+
+Economics Nobel 2018
+]
+]
+
+.right-column[
+
+> "If all inputs were paid their value marginal product, the firm would suffer losses," (p.S76).
+
+> "There is little doubt that much of the value to society of any given innovation or discovery is not captured by the inventor, and any model that missed these spillovers would miss important elements of the growth process. Yet it is still the case that private, profit-maximizing agents make investments in the creation of new knowledge and that they earn a return on these investments by charging a price for the resulting goods that is greater than the marginal cost of producing the goods," (p.S90).
+
+]
+
+.source[Romer, Paul M, 1990, "Endogenous Technological Change," *Journal of Political EConomy* 98(5-2): S71-S102]
+
+---
+
+# Are Intellectual Property Rights in the Model? 
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/zj5nl5b7y5036ja/paulromer.jpg?raw=1)
+
+Paul Romer
+
+(1955-)
+
+Economics Nobel 2018
+]
+]
+
+.right-column[
+
+> "Although other assumptions about secrecy and property rights could be considered, the equilibrium here is based on the assumption that anyone engaged in research has free access to the entire stock of knowledge. This is feasible because knowledge is a nonrival input. All researchers can take advantage of $A$ at the same time," (p.S83).
+
+]
+
+.source[Romer, Paul M, 1990, "Endogenous Technological Change," *Journal of Political EConomy* 98(5-2): S71-S102]
+
+---
+
+
+class: inverse, center, middle
+
+# The Romer Model
+
+---
+
+# Romer Model: Assumptions I
+
+.pull-left[
+
+- Population (or labor supply) and the total stock of human capital in the population are fixed $(\bar{L}, \bar{H})$
+
+- Four factors of production:
+
+1. Labor $L$
+2. Physical capital $K$
+  - a stock of "machines" that can be accumulated
+  - diminishing returns
+3. Human capital $H$
+  - rivalrous, embodied in $L$ and $K$
+4. Technology $A$
+  - nonrival, exists beyond individuals, grow indefinitely
+  - a stock, like $K$, that can be accumulated
+  - no restrictions on returns!
+  - measured as countable "new designs" for capital
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/cg5lbqrxsjij5iu/factors.jpg?raw=1)
+]
+
+]
+
+---
+
+# Romer Model: Assumptions II
+
+- The economy has three sectors:
+
+1. **Research sector**
+    - Uses inputs $H$ and the existing stock of knowledge $A_{t-1}$ to produce new knowledge, $A_t$
+    - Measured in "new designs" for capital $K$
+
+--
+
+2. **Intermediate goods sector**
+    - Takes inputs $H$ and $A_t$ to produce $K$ for use in final goods sector
+
+--
+
+3. **Final goods sector**
+    - uses $L$, $H$, and $K$ to produce final output $Y$
+
+--
+
+- Output can be consumed, or saved (to be used to make new capital, $K)$:
+    $$Y_t=C_t+S_t$$
+
+- Fixed supply of human capital is allocated to research sector or manufacturing based on relative manufacturing wages and return to new designs
+$$\bar{H}=H_A+H_Y$$
+
+---
+
+# The Nature of "Knowledge" I
+
+.pull-left[
+- Knowledge $(A)$ is a stock that can be accumulated, like physical capital $(K)$
+
+- To produce new knowledge, you need to use the existing stock of knowledge
+    - i.e. need the idea of gravity to get relativity, we need both to get quantum mechanics, etc. 
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# The Nature of "Knowledge" II
+
+.pull-left[
+
+> "[A] college-educated engineer working today and one working 100 years ago have the same human capital, which is measured in terms of years of forgone participation in the labor market. The engineer working today is more productive because he or she can take advantage of all of the additional knowledge accumulated as design problems were solved during the last 100 years," (pp. S83-S84).
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+
+---
+
+# The Nature of "Knowledge" III
+
+.pull-left[
+
+$$\Delta A = \delta H_A A$$
+
+- $\delta$: a productivity parameter
+- $H_A$: fraction of human capital available $(\bar{H})$ allocated to research
+
+- Knowledge need not exhibit constant returns to scale
+
+- Would doubling human capital and doubling the existing stock of knowledge lead to *twice* the new knowledge produced?
+
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# The Nature of "Knowledge" IV
+
+.pull-left[
+
+- Takeaways from knowledge:
+
+1. Devoting more human capital to research $(H_A)$ leads to more knowledge $\Delta A$
+
+2. The larger the total stock of knowledge $(A)$, the higher the productivity of labor in the research sector
+
+]
+
+.pull-right[
+
+.center[
+![](https://www.dropbox.com/s/ioqj00n8fb87xe3/mind.png?raw=1)
+]
+
+]
+
+---
+
+# The Model's Equilibrium
+
+.left-column[
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/zj5nl5b7y5036ja/paulromer.jpg?raw=1)
+
+Paul Romer
+
+(1955-)
+
+Economics Nobel 2018
+]
+]
+
+.right-column[
+
+- In the model's equilibrium (p.S88):
+
+1. Consumers decide between $C$ and $S$ based on interest rate $r$
+
+2. Holders of $H$ decide whether to work in Research sector $(H_A)$ or in Manufacturing $(H_Y)$ based on existing stock of knowledge $A$, price of designs, and wages in manufacturing
+
+3. Final goods producers choose cost-minimizing inputs of $L$, $H$, and $K$
+
+4. Each firm owning $A$ (designs) sets prices to maximize profit given interest rate and market demand curves in final product market
+
+5. Potential entrants to market consider price of designs in entry decision
+
+6. Supply equals demand for each good
+
+]
+
+.source[Romer, Paul M, 1990, "Endogenous Technological Change," *Journal of Political EConomy* 98(5-2): S71-S102]
+
+---
+
+# Romer Model: Growth Rate
+
+- As in full Solow model, growth rate of output per worker $\frac{Y}{L}$ is the growth rate of knowledge $(A)$, i.e. $g$
+
+- Main problem with Solow (exogenous) growth model(s): $g$ is assumed as a constant number
+
+- Romer *endogenizes* $g$, sp how does it grow?
+
+--
+
+$$g=\frac{\delta H - \Lambda \rho}{\sigma \Lambda + 1}$$
+
+- $\Lambda = \frac{\alpha}{(1-\alpha-\beta)(\alpha+\beta)}$<sup>.red[1]</sup>
+- $\delta$: a productivity parameter (of $H)$
+- $\rho$: discount rate (from Ramsey-Kass-Koopmans model)
+- $\sigma$: growth rate of utility (from Ramsey-Kass-Koopmans model)
+
+.footnote[<sup>.red[1]</sup> `\\(\alpha\\)` and `\\(\beta\\)` are exponents from Cobb-Douglas production function: `\\(Y=H^\alpha L^\beta K^{1-\alpha-\beta}\\)`]
+
+---
+
+# Romer Model Implication I - R&D Is Critical
+
+- Economies tend to undersupply human capital to research:
+
+> The most obvious reason is that research has positive external effects. An additional design raises the productivity of all future individuals who do research, but because this benefit is nonexcludable, it is not reflected at all in the market price for designs. The second and an equally important reason...is that research produces an input that is purchased by a sector that engages in monopoly pricing. The markup of price over marginal cost forces a wedge between the marginal social product of an input used in this sector and its market compensation," (p.S96)
+
+- Policy implications:
+
+> "Within the confines of the model, the social optimum can be achieved by subsidizing the accumulation of A," (p.S97)
+
+> "A subsidy to physical capital accumulation may be a very poor substitute for direct subsidies that increase the incentive to undertake research. In the absence of feasible policies that can remove the divergence between the social and private returns to research, a second-best policy would be to subsidize the accumulation of total human capital," (p.S99)
+
+---
+
+# Romer Model Implication II - Trade Liberalization
+
+- A large population is *not* sufficient for greater technology (and thus, economic growth), it requires access to a *larger market* (division of labor)!
+
+> If access to a large number of workers or consumers were all that mattered, having a large population would be a good substitute for trade with other nations. The model here suggests that what is important for growth is integration not into an economy with a large number of people but rather into one with a large amount of human capital, (p.S98)
+
+> "The most interesting positive implication of the model is that an economy with a larger total stock of human capital will experience faster growth. This finding suggests that free international trade can act to speed up growth. It also suggests a way to understand what it is about developed economies in the twentieth century that permitted rates of growth of income per capita that are unprecedented in human history. The model also suggests that low levels of human capital may help explain why growth is not observed in underdeveloped economies that are closed and why a less developed economy with a very large population can still benefit from economic integration with the rest of the world," (p.S99)
+
+---
+
+# Test of the Model: "Market Access" Literature
+
+- Sokoloff (1988): counties in the U.S. in the 19<sup>th</sup> century that had access to navigable waterways had higher rates of patenting (proxy for innovation, adding to $A)$ than those that did not
+    - Even clearer: counties that *gained* access to new waterway (i.e. a new canal) saw sharp increase in patenting!
+
+
+
+.source[Sokoloff, Kenneth L, 1988, ["Inventive Activity in Early Industrial America: Evidence From Patent Records, 1790-1846,"]() *NBER Working Paper* 2707]
+
+---
 
