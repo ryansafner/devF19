@@ -1,0 +1,10 @@
+---
+title: "6. Foreign Aid - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+# Required Readings:
+
+- <i class="fas fa-book"></i>Chapters 2,6 in @Easterly2002

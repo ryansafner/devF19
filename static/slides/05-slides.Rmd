@@ -2880,7 +2880,7 @@ $$\Delta A = \delta H_A A$$
 - Knowledge need not exhibit constant returns to scale
 
 - Would doubling human capital and doubling the existing stock of knowledge lead to *twice* the new knowledge produced?
-
+ 
 
 ]
 
@@ -2980,6 +2980,8 @@ $$g=\frac{\delta H - \Lambda \rho}{\sigma \Lambda + 1}$$
 
 > The most obvious reason is that research has positive external effects. An additional design raises the productivity of all future individuals who do research, but because this benefit is nonexcludable, it is not reflected at all in the market price for designs. The second and an equally important reason...is that research produces an input that is purchased by a sector that engages in monopoly pricing. The markup of price over marginal cost forces a wedge between the marginal social product of an input used in this sector and its market compensation," (p.S96)
 
+--
+
 - Policy implications:
 
 > "Within the confines of the model, the social optimum can be achieved by subsidizing the accumulation of A," (p.S97)
@@ -2998,14 +3000,181 @@ $$g=\frac{\delta H - \Lambda \rho}{\sigma \Lambda + 1}$$
 
 ---
 
-# Test of the Model: "Market Access" Literature
+# One Test of the Model: "Market Access" Literature
 
 - Sokoloff (1988): counties in the U.S. in the 19<sup>th</sup> century that had access to navigable waterways had higher rates of patenting (proxy for innovation, adding to $A)$ than those that did not
     - Even clearer: counties that *gained* access to new waterway (i.e. a new canal) saw sharp increase in patenting!
-
 
 
 .source[Sokoloff, Kenneth L, 1988, ["Inventive Activity in Early Industrial America: Evidence From Patent Records, 1790-1846,"]() *NBER Working Paper* 2707]
 
 ---
 
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+2. The accumulation of physical capital itself explains a very small part of differences in income
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+2. The accumulation of physical capital itself explains a very small part of differences in income
+3. "Knowledge" or "TFP" explains the overhelming part of growth differences across the world
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+2. The accumulation of physical capital itself explains a very small part of differences in income
+3. "Knowledge" or "TFP" explains the overhelming part of growth differences across the world
+4. Solow model predicts LICs should grow at faster rates than HICs
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+2. The accumulation of physical capital itself explains a very small part of differences in income
+3. "Knowledge" or "TFP" explains the overhelming part of growth differences across the world
+4. Solow model predicts LICs should grow at faster rates than HICs
+5. The evidence for (4) is mixed and controversial
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+2. The accumulation of physical capital itself explains a very small part of differences in income
+3. "Knowledge" or "TFP" explains the overhelming part of growth differences across the world
+4. Solow model predicts LICs should grow at faster rates than HICs
+5. The evidence for (4) is mixed and controversial
+6. Growth literature suggests economies can grow faster by subsidizing the accumulation of capital, or human capital, or "knowledge"
+    - The evidence that we are able to do this, or have been able to, is *quite poor*
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+
+# Takeaways from Growth Models
+
+.pull-left[
+
+1. HICs have more output per worker and capital per worker than LICs
+2. The accumulation of physical capital itself explains a very small part of differences in income
+3. "Knowledge" or "TFP" explains the overhelming part of growth differences across the world
+4. Solow model predicts LICs should grow at faster rates than HICs
+5. The evidence for (4) is mixed and controversial
+6. Growth literature suggests economies can grow faster by subsidizing the accumulation of capital, or human capital, or "knowledge"
+    - The evidence that we are able to do this, or have been able to, is *quite poor*
+7. An economy's "TFP" is more sensitive to its institutions and incentives than simply amassing $K$ or $H$ or $A$
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
+
+---
+
+# Takeaways from Growth Models II
+
+.center[
+![](https://www.dropbox.com/s/ggqgre7j2eg3c09/growthpuzzle.png?raw=1)
+]
+
+---
+
+# Growth Models: An Appraisal
+
+.pull-left[
+- For all of their flaws, growth models are part of the "shared" language of development experts, policy makers, and macroeconomists
+
+- Explain (some) mechanisms of growth that we can model and predict (some) consequence of (some) policy changes
+
+- Give us a measure of how much we *can* explain based on what we understand, and how much we *cannot* explain and *need* to understand
+
+> All models are wrong. Some are useful. - George Box
+
+]
+
+.pull-right[
+
+.center[
+![:scale 100%](https://www.dropbox.com/s/i1c37p6ue7pvtl2/economicgrowth.jpeg?raw=1)
+]
+]
