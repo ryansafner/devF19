@@ -32,8 +32,10 @@ lessons:
     
   - title: '<span class="fake-header-table">Policies & Exogenous Factors</span>'
   
-  - title: "Good Intentions, Poor Policies: Foreign Aid and Structural Adjustment"
+  - title: "Foreign Aid"
+    class: "06-class"
     reading: "06-reading"
+    slides: "06-slides"
     
   - title: "What Else? Geography, Health, Demographics"
   
