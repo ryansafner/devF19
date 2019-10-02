@@ -801,6 +801,27 @@ class: inverse, center, middle
 
 ---
 
+# The Incentives of Foreign Aid
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/gsgahe1hqkxcy9w/ptbauer2.jpg?raw=1)
+
+P. T. Bauer
+
+1915-2002
+]
+]
+
+.right-column[
+
+> "[Foreign aid is] an excellent method for transferring money from poor people in rich countries to rich people in poor countries."
+]
+
+.source[Bauer, Peter, 2000, "From Subsistence to Exchange," in Bauer, P. T., *From Subsistence to Exchange, and Other Essays*, Princeton University Press]
+
+---
+
 # Foreign Aid and Incentives I
 
 .pull-left[
@@ -953,27 +974,3 @@ P. T. Bauer
 
 .source[Bauer, Peter, 2000, "From Subsistence to Exchange," in Bauer, P. T., *From Subsistence to Exchange, and Other Essays*, Princeton University Press]
 
----
-
-class: inverse, center, middle
-
-# The Incentives of Foreign Aid
-
----
-
-.left-column[
-.center[
-![:scale 80%](https://www.dropbox.com/s/gsgahe1hqkxcy9w/ptbauer2.jpg?raw=1)
-
-P. T. Bauer
-
-1915-2002
-]
-]
-
-.right-column[
-
-> "[Foreign aid is] an excellent method for transferring money from poor people in rich countries to rich people in poor countries."
-]
-
-.source[Bauer, Peter, 2000, "From Subsistence to Exchange," in Bauer, P. T., *From Subsistence to Exchange, and Other Essays*, Princeton University Press]
