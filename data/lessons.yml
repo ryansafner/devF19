@@ -38,7 +38,11 @@ lessons:
     slides: "06-slides"
     
   - title: "What Else? Geography, Health, Demographics"
-  
+    reading: "07-reading"
+    
+  - title: '<i class="fas fa-laptop-code"></i> **Short Paper 1**'
+    assignment: "01-short-paper"
+    
   - title: '<span class="fake-header-table">Institutions and Political Economy</span>'
     header: True
 

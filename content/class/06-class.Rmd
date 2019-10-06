@@ -1,0 +1,30 @@
+---
+title: "Lesson 6: Foreign Aid - Class Notes"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Overview
+
+This week we consider a controversial topic, the role of foreign aid in promoting economic development (growth) in developing countries. I don't want to lecture too much, as our reading can provide much better insight, as Easterly was a central participant in this debate. I will give you an overview of the history of foreign aid and its major stages/programs (structural adjustment lending, etc.), the theoretical arguments for aid's necessity (Harrod-Domar model, financing gap/poverty trap, etc) and an empirical assessment of its effectiveness (or lack thereof). 
+
+We will have our discussion on Monday, October 7.
+
+# Slides
+
+- [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/06-slides.html)
+
+# Readings
+
+See this week's [readings page](/reading/06-reading) for *required* readings for our discussion.
+
+# Math Appendices
+
+Many papers this week^[None are required reading! But if you want to understand foreign aid, or development economics at all, you *need* to become familiar with the empirical literature.] are empirical, as the entire debate (and many, many things in development economics) revolves around the empirical effect of foreign aid on growth. Thus, the papers have regression models and a series of regression tables. I cover the very basics at a 10,000 foot level in the slides this week (what a regression model is - essentially fitting a line to data points - and how to interpret the results in a table). If you want to understand it better, see my [econometrics class](https://metricsf19.classes.ryansafner.com/schedule/), particularly class 2.3 for the basics.
