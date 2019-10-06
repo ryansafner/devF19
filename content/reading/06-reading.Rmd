@@ -8,3 +8,50 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required Readings:
 
 - <i class="fas fa-book"></i>Chapters 2,6 in @Easterly2002
+
+# Recommended Readings
+
+- [<i class="fas fa-external-link-square-alt"></i> Sachs (2014), "The Case for Aid," *Foreign Policy*](https://foreignpolicy.com/2014/01/21/the-case-for-aid/)
+- [<i class="fas fa-file-pdf"></i> Easterly (2015), "The Father of Millions" *Wall Street Journal*](/readings/Easterly-2015-review.pdf)
+
+# Primary Sources
+
+- [<i class="fas fa-file-pdf"></i> Burnside and Dollar (2000), "Aid, Policies, and Growth"](/readings/Burnside-Dollar-2000.pdf)
+- [<i class="fas fa-file-pdf"></i> Easterly et. al (2003), "New Data, New Doubts: Comment on Burnside and Dollar"](/readings/Easterly-Levine-Roodman-2003.pdf)
+- [<i class="fas fa-file-pdf"></i> Ovaska (2003), "The Failure of Development Aid"](/readings/Ovaska-2003.pdf)
+- [<i class="fas fa-file-pdf"></i> Rodrik (2006), "Goodbye Washington Consensus, Hello Washington Confusion?"](/readings/Rodrik-2006.pdf)
+- [<i class="fas fa-file-pdf"></i> Djankov et. al (2008), "The Curse of Aid"](/readings/Djankov-2008.pdf)
+- [<i class="fas fa-file-pdf"></i> Easterly et. al (2003), "New Data, New Doubts: Comment on Burnside and Dollar"](/readings/Easterly-Levine-Roodman-2003.pdf)
+- [<i class="fas fa-file-pdf"></i> Easterly (2009), "Can the West Save Africa?"](/readings/Easterly-2009.pdf)
+- [<i class="fas fa-file-pdf"></i> Skarbek and Leeson (2009), "What Can Aid Do?"](/readings/Skarbek-Leeson-2009.pdf)
+
+
+# Questions to Read For
+
+- Advocates for foreign aid, such as Sachs, cite the very real successes in health outcomes in the Developing world (e.g. infant mortality rates, malaria and tuberculosis rates, etc). Is this about *economic growth* or something else?
+
+- Read Easterly (2015)'s short book review in the Wall Street Journal. What does Easterly say aid has been *successful* for?
+
+- Perhaps we just need *better*, more targetted, *smarter* (in whatever metric chosen) foreign aid?
+
+- What can foreign aid do *well*? See Skarbek and Leeson (2009) for more.
+
+- Some papers (e.g. Burnside and Dollar, 2000) find that receiving aid can boost growth under the right conditions (good institutions, good policies, good governance, etc).
+
+- We specifically focused on foreign aid intended to improve economic development (GDP per capita growth) in low-income countries. What do you think about the role of *other* types of foreign aid for other purposes? Does it accomplish *those* purposes? Is this related to *economic* development as well?
+
+- What, specifically, went wrong with structural adjustment lending?
+
+- Look at the list of recommendations that comprise the "Washington Consensus" (slide 9, or see Rodrik 2006). Which of these do you agree or disagree with? If you agree with some or all, what's wrong with these?
+
+- Easterly's common refrain is that these (and other policies) are not compatible with the phrase "people respond to incentives." What does he mean, specifically? Do you agree?
+
+- What are the incentives of the governments of donor countries and their constituents? What are the incentives of the governments of recipient countries'?
+
+- What do you make of Easterly's proposed "Scrooge" development agency?
+
+- Take financing gap/poverty trap argument. Do you agree with its premises (growth requires investment, investment requires savings, low-income people/countries can't save)? If you *do*, doesn't the conclusion seem inevitable?
+
+- If developing countries are supposed to grow with foreign aid, pr are unable to grow without it, how did the countries that are wealthy today get rich? From "foreign aid?" 
+
+- Foreign aid for growth is a transfer between government and government (a wealthy donor country's government gives to a poor country's government). Regardless of how you feel about the arguments for/against foreign aid for growth, what would be different if at least one side (donor/recipient) were *not* a government? Income, investment, and finance coming from other countries can come from sources *other* than governments, and be given *to* recipients other than governments. What about the private sector, civil society, non-profits, family remittances, etc?
