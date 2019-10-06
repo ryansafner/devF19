@@ -21,7 +21,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 - [<i class="fas fa-file-pdf"></i> Ovaska (2003), "The Failure of Development Aid"](/readings/Ovaska-2003.pdf)
 - [<i class="fas fa-file-pdf"></i> Rodrik (2006), "Goodbye Washington Consensus, Hello Washington Confusion?"](/readings/Rodrik-2006.pdf)
 - [<i class="fas fa-file-pdf"></i> Djankov et. al (2008), "The Curse of Aid"](/readings/Djankov-2008.pdf)
-- [<i class="fas fa-file-pdf"></i> Easterly et. al (2003), "New Data, New Doubts: Comment on Burnside and Dollar"](/readings/Easterly-Levine-Roodman-2003.pdf)
 - [<i class="fas fa-file-pdf"></i> Easterly (2009), "Can the West Save Africa?"](/readings/Easterly-2009.pdf)
 - [<i class="fas fa-file-pdf"></i> Skarbek and Leeson (2009), "What Can Aid Do?"](/readings/Skarbek-Leeson-2009.pdf)
 
