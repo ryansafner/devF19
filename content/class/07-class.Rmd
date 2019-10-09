@@ -1,5 +1,5 @@
 ---
-title: "Lesson 7: Geography and All That - Class Notes"
+title: "Lesson 7: Geography and Other Uncontrollable Factors - Class Notes"
 citeproc: false
 bibliography: ../../static/bib/references.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl

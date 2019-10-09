@@ -36,9 +36,9 @@ library(ggrepel)
 
 class: inverse, center, middle
 
-### [Guns, Germs, and Steel]()
-### [Geography and the "Deep Roots" of Development]()
-### [Geography's Mechanisms: Trade and Health]()
+### [Guns, Germs, and Steel](#3)
+### [Geography and the "Deep Roots" of Development](#30)
+### [Geography's Mechanisms: Trade and Health](#43)
 ### [The Curse of Resources]()
 ### [Is Geography Destiny? The Reversal of Fortune]()
 
@@ -913,8 +913,3 @@ Adam Smith
 ]
 
 .source[Gallup, John Luke, Jeffrey D. Sachs, and Andrew D. Mellinger, 1999, "Geography and Economic Development," *International Regional Science Review* 22(2): 179-232]
-
-
----
-
-# 

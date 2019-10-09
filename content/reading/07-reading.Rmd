@@ -20,7 +20,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 - [<i class="fas fa-file-pdf"></i> Acemoglu, Johnson, and Robinson (2002), "The Reversal of Fortune"](/readings/Acemoglu-Johnson-Robinson-2002.pdf)
 - [<i class="fas fa-file-pdf"></i> Alsan (2015), "The Effect of the Tse Tse Fly on African Development"](/readings/Alsan-2015.pdf)
 - [<i class="fas fa-file-pdf"></i> Comin, Easterly, and Gong (2010), "Was the Wealth of Nations Determined in 1000 BC?"](/readings/Comin-Easterly-Gong-2010.pdf)
-- [<i class="fas fa-file-pdf"></i> Spolaore and Wacziarg (2013), "Was the Wealth of Nations Determined in 1000 BC?"](/readings/Spolaore-Wacziarg-2013.pdf)
+- [<i class="fas fa-file-pdf"></i> Spolaore and Wacziarg (2013), "The Deep Roots of Economic Development"](/readings/Spolaore-Wacziarg-2013.pdf)
 
 
 # Questions to Read For
