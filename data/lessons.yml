@@ -37,8 +37,10 @@ lessons:
     reading: "06-reading"
     slides: "06-slides"
     
-  - title: "What Else? Geography, Health, Demographics"
+  - title: "Geography and Other Uncontrollable Factors"
     reading: "07-reading"
+    class: "07-class"
+    slides: "07-slides"
     
   - title: '<i class="fas fa-laptop-code"></i> **Short Paper 1**'
     assignment: "01-short-paper"

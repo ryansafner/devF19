@@ -1,0 +1,26 @@
+---
+title: "7. Geography and Uncontrollable Factors - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+# Required Readings:
+
+- <i class="fas fa-book"></i>Chapter 2 in @Acemoglu2008
+
+# Recommended Readings
+
+# Primary Sources
+
+- [<i class="fas fa-file-pdf"></i> Gallup, Sachs, and Mellinger (1999), "Geography and Economic Development"](/readings/Gallup-Sachs-Mellinger-1999.pdf)
+- [<i class="fas fa-file-pdf"></i> Mellinger, Sachs, and Gallup (1999), "Climate, Water Navigability, and Economic Development"](/readings/Gallup-Sachs-Mellinger-1999.pdf)
+- [<i class="fas fa-file-pdf"></i> Sachs and Warner (2001), "The Curse of Natural Resources"](/readings/Sachs-Warner-2001.pdf)
+- [<i class="fas fa-file-pdf"></i> Sachs, Mellinger, and Warner (2001), "The Geography of Poverty"](/readings/Sachs-Mellinger-Warner-2001.pdf)
+- [<i class="fas fa-file-pdf"></i> Acemoglu, Johnson, and Robinson (2002), "The Reversal of Fortune"](/readings/Acemoglu-Johnson-Robinson-2002.pdf)
+- [<i class="fas fa-file-pdf"></i> Alsan (2015), "The Effect of the Tse Tse Fly on African Development"](/readings/Alsan-2015.pdf)
+- [<i class="fas fa-file-pdf"></i> Comin, Easterly, and Gong (2010), "Was the Wealth of Nations Determined in 1000 BC?"](/readings/Comin-Easterly-Gong-2010.pdf)
+- [<i class="fas fa-file-pdf"></i> Spolaore and Wacziarg (2013), "Was the Wealth of Nations Determined in 1000 BC?"](/readings/Spolaore-Wacziarg-2013.pdf)
+
+
+# Questions to Read For
