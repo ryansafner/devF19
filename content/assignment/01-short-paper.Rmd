@@ -14,15 +14,11 @@ source(file.path(here::here(), "lib", "graphics.R"))
 
 > "How can I know what I think until I see what I say?" --- E. M. Forster on Writing
 
-> "No economist has achieved scientific success as a result of a statistically significant coefficient. Massed observations, clever common sense, elegant theorems, new policies, sagacious economic reasoning, historical perspective, relevant accounting, these have all led to scientific success. Statistical significance has not." --- McCloskey and Ziliak, "The Cult of Statistical Significance" (1996: 112)
-
 - [<i class="fas fa-external-link-square-alt"></i> Writing and Reading Empirical Papers Slides](/slides/paper-slides.html)
-
 
 # Overview 
 
 Your task is to write a short paper on a theme that we have discussed or addressed in this course thus far -- whether in my lectures, our discussions, or your reading. 
-
 This assignment has several purposes. First, it is my way of gauging whether you understand the material and are attempting to grapple with the challenges it brings to understanding economics. You are perfectly free to accept it, reject it, or find a way to synthesize it with your current understanding of economic issues and research, so long as you argue why!  Second, it is a chance for you to stimulate and develop your own thinking on some of the issues raised in this course, as well as an opportunity to develop your writing and communication skills. These skills are vital to any profession, and in truth, you do not fully understand an idea unless you engage it in writing. Finally, this assignment will be good preparation for your research paper (you could even reuse a topic with appropriate changes).
 
 I am *NOT* looking for a survey of existing research, a series of block quotes showing what economists have said about $x$, a regurgitation of my lectures, a list of pros and cons with a last minute conclusion, a book review, and so on. I also do *NOT* want you to compress *everything* you have learned so far into a single paper. You should only use those insights that you believe are relevant to your topic and your argument. 
@@ -55,7 +51,7 @@ Here is the rubric that I will use to grade your paper:
 
 Here are a few **suggestions**, based on trains of thought that I think would be interesting, or ideas that I myself am currently grappling with. You are welcome to use these as motivating questions or jumping-off points to develop your own thoughts on an issue, *just make sure to write a paper that has a reasonably clear thesis and argument.* **Do not think of these as a required set of questions that you must choose and specifically answer (i.e. this is not an exam)**. In fact, each bullet point contains multiple related questions, any one of which might spark a separate interesting paper.
 
-**You are _not_ required to pick one of these questions**. That is, you can write on your own topic that is interesting to you so long as it is relevant and builds off of what we have discussed so far. One suggestion would be to take a discussion question that you turned in or found interesting from the readings and lectures as a jumping off point. 
+**You are _not_ required to pick one of these questions**. That is, you can write on your own topic that is interesting to you so long as it is relevant and builds off of what we have discussed so far. One suggestion would be to take a discussion question that you turned in or found interesting from the readings and lectures as a jumping off point.
 
 1. Explore the nature of "the knowledge problem" in economic development. What limits what "we" (economists, policymakers, development organizations, etc) are able to know or control about an economy. How does this show up in economic models, policy proposals for promoting growth, and outcomes in terms of economic growth? Is there a fundamental misunderstanding of what is knowable?
 
