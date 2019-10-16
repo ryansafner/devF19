@@ -21,6 +21,7 @@ Sachs, Mellinger, and Gallup are famous for papers emphasizing the role of geogr
 - [<i class="fas fa-file-pdf"></i> Sachs and Warner (2001), "The Curse of Natural Resources"](/readings/Sachs-Warner-2001.pdf)
 - [<i class="fas fa-file-pdf"></i> Sachs, Mellinger, and Gallup (2001), "The Geography of Poverty"](/readings/Sachs-Mellinger-Warner-Gallup.pdf)
 - [<i class="fas fa-file-pdf"></i> Acemoglu, Johnson, and Robinson (2002), "The Reversal of Fortune"](/readings/Acemoglu-Johnson-Robinson-2002.pdf)
+- [<i class="fas fa-file-pdf"></i> Rodrik, Subramanian, and Trebbi (2002), "Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development"](https://www.nber.org/papers/w9305.pdf) 
 - [<i class="fas fa-file-pdf"></i> Comin, Easterly, and Gong (2010), "Was the Wealth of Nations Determined in 1000 BC?"](/readings/Comin-Easterly-Gong-2010.pdf)
 - [<i class="fas fa-file-pdf"></i> Spolaore and Wacziarg (2013), "How Deep are the Roots of Economic Development"](/readings/Spolaore-Wacziarg-2013.pdf)
 - [<i class="fas fa-file-pdf"></i> Alsan (2015), "The Effect of the Tse Tse Fly on African Development"](/readings/Alsan-2015.pdf)
@@ -39,6 +40,8 @@ Sachs, Mellinger, and Gallup are famous for papers emphasizing the role of geogr
 - How might geography influence institutions?
 
 - Some countries have unfavorable geography due to being landlocked, consisting of unproductive marshland, or are endowed with no resources, yet are incredibly wealthy today (e.g. Switzerland, Luxemborg, Singapore). How can we explain this?
+
+- If you believe geography is important for determining economic development, is Africa uniquely disadvantaged for development because of its geography? If so, does it require foreign aid for growth to overcome these disadvantages?
 
 - Acemoglu and Robinson argue against not only what they call "the geography hypothesis" but also the "culture hypothesis" and the "ignorance hypothesis" as explanations for variation in income per capita around the world today. What are each of these hypotheses? How do Acemoglu and Robinson argue they are problematic? Do you agree or disagree?
 

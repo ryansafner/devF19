@@ -14,8 +14,6 @@ source(file.path(here::here(), "lib", "graphics.R"))
 
 > "How can I know what I think until I see what I say?" --- E. M. Forster on Writing
 
-- [<i class="fas fa-external-link-square-alt"></i> Writing and Reading Empirical Papers Slides](/slides/paper-slides.html)
-
 # Overview 
 
 Your task is to write a short paper on a theme that we have discussed or addressed in this course thus far -- whether in my lectures, our discussions, or your reading. 
