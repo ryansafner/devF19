@@ -48,8 +48,11 @@ lessons:
   - title: '<span class="fake-header-table">Institutions and Political Economy</span>'
     header: True
 
-  - title: "Political Economy"
-
+  - title: "Introduction to Political Economy"
+    reading: "08-reading"
+    class: "08-class"
+    slides: "08-slides"
+    
   - title: "The Pre-modern Malthusian Economy"
 
   - title: "The Natural State and the Violence Trap"
