@@ -37,10 +37,10 @@ update_geom_defaults("label", list(family = "Fira Sans Condensed"))
 
 class: inverse, center, middle
 
-### [Institutions and Political Economy](#30)
-### [Markets are Disruptive: Creative Destruction](#30)
-### [Profit-Seeking and Rent-Seeking](#43)
-### [Back to Institutions: Rent-Seeking and Elites](#)
+### [Institutions and Political Economy](#3)
+### [Markets are Disruptive: Creative Destruction](#22)
+### [Profit-Seeking and Rent-Seeking](#35)
+### [Back to Institutions: Rent-Seeking and Elites](#74)
 ---
 
 class: inverse, center middle
