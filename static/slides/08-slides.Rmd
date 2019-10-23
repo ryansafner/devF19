@@ -1569,10 +1569,239 @@ class: inverse, middle, center
 
 ---
 
-# Political Losers as Barriers to Development
+# Institutions Matter
+
+```{r, load-data, echo=F}
+library("tidyverse")
+library("ggrepel")
+institutions<-read_csv("../data/institutions.csv")
+```
+
+```{r}
+institutions<-institutions %>%
+  rename(Country=worldbankcode,
+         logGDP="Log GDP per capita (2000)",
+         constraints="Executive constraints (1960-2000)",
+         Exprop=`Expropriation risk (1982-1997)`,
+         Autocracy = `Autocracy -- Alvarez (1960-1990)`,
+         effectiveness=`Government effectiveness (1998-2000)`,
+         indep=`Judicial independence (1995)`)
+```
+
+.pull-left[
+.center[
+```{r, echo=F, fig.retina=3}
+ggplot(data=institutions, aes(x=constraints,y=logGDP))+
+  geom_point()+ #aes(color=continent)
+  geom_smooth(data=institutions,method="lm")+
+  geom_text_repel(aes(label=Country))+
+  #geom_label_repel(data=interest, aes(ef, Total, label=ISO,color=continent),alpha=0.6)+
+  labs(x = "Executive Constraints",
+      y = "Log GDP per Capita",
+      caption="Data Source: Glaesar et. al (2004)")+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=16)
+```
+]
+]
+
+.pull-right[
+.font80[
+**Executive Constraints**: A **measure of the extent of institutionalized constraints on the decision making powers of chief executives.** The variable takes seven different values: (1) Unlimited authority(there are no regular limitations on the executive's actions, as distinct from irregular limitations such as the threat or actuality of coups and assassinations); (2) Intermediate category; (3) Slight to moderate limitation on executive authority (there are some real but limited restraints on the executive); (4) Intermediate category; (5) Substantial limitations on executive authority (the executive has more effective authority than any accountability group but is subject to substantial constraints by them); (6) Intermediate category; (7) Executive parity or subordination (accountability groups have effective authority equal to or greater than the executive in most areas of activity). This **variable ranges from one to seven where higher values equal a greater extent of institutionalized constraints on the power of chief executives.** This variable is **calculated as the average from 1960 through 2000**, or for specific years as needed in the tables. Source:Jaggers and Marshall (2000).]
+
+.source[Glaesar, Edward L, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer, 2004, "Do Institutions Cause Growth?" *Journal of Economic Growth* 9: 271-303]
+]
+
+---
+
+# Institutions Matter II
+
+.pull-left[
+.center[
+```{r, fig.retina=3}
+ggplot(data=institutions, aes(x=Exprop,y=logGDP))+
+  geom_point()+ #aes(color=continent)
+  geom_smooth(data=institutions,method="lm")+
+  geom_text_repel(aes(label=Country))+
+  #geom_label_repel(data=interest, aes(ef, Total, label=ISO,color=continent),alpha=0.6)+
+  labs(x = "Expropriation Risk",
+      y = "Log GDP per Capita",
+      caption="Data Source: Glaesar et. al (2004)")+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=16)
+```
+]
+]
+
+.pull-right[
+
+**Expropriation Risk**: Risk of "outright confiscation and forced nationalization" of property. This variable **ranges from zero to ten where higher values are equals a lower probability of expropriation.** This variable is **calculated as the average from 1982 through 1997**, or for specific years as needed in the tables. Source: International Country Risk Guide at http://www.countrydata.com/datasets/.
+
+.source[Glaesar, Edward L, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer, 2004, "Do Institutions Cause Growth?" *Journal of Economic Growth* 9: 271-303]
+]
+
+
+---
+
+# Institutions Matter III
+
+.pull-left[
+.center[
+```{r, fig.retina=3}
+ggplot(data=institutions, aes(x=Autocracy,y=logGDP))+
+  geom_point()+ #aes(color=continent)
+  geom_smooth(data=institutions,method="lm")+
+  geom_text_repel(aes(label=Country))+
+  #geom_label_repel(data=interest, aes(ef, Total, label=ISO,color=continent),alpha=0.6)+
+  labs(x = "Autocracy",
+      y = "Log GDP per Capita",
+      caption="Data Source: Glaesar et. al (2004)")+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=16)
+```
+]
+]
+
+.pull-right[
+
+**Autocracy**: A measure of the **degree of autocracy in a given country** based on: (1) the competitiveness of political participation; (2) the regulation of political participation; (3) the openness and competitiveness of executive recruitment; and (4) constraints on the chief executive. This variable **ranges from zero to ten where higher values equal a higher degree of institutionalized autocracy.** This variable is **calculated as the average from 1960 through 2000**, or for specific years as needed in the tables. Source:J aggers and Marshall (2000).
+
+.source[Glaesar, Edward L, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer, 2004, "Do Institutions Cause Growth?" *Journal of Economic Growth* 9: 271-303]
+]
+---
+
+# Institutions Matter IV
+
+.pull-left[
+.center[
+```{r, fig.retina=3}
+ggplot(data=institutions, aes(x=effectiveness,y=logGDP))+
+  geom_point()+ #aes(color=continent)
+  geom_smooth(data=institutions,method="lm")+
+  geom_text_repel(aes(label=Country))+
+  #geom_label_repel(data=interest, aes(ef, Total, label=ISO,color=continent),alpha=0.6)+
+  labs(x = "Government Effectiveness",
+      y = "Log GDP per Capita",
+      caption="Data Source: Glaesar et. al (2004)")+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=16)
+```
+]
+]
+
+.pull-right[
+**Government effectiveness**: This variable measures the quality of public service provision, the quality of the bureaucracy, the competence of civil servants, the independence of the civil service from political pressures, and the credibility of the government's commitment to policies. The main focus of this index is on "inputs" required for the government to be able to produce and implement good policies and deliver public goods. This variable **ranges from $-2.5$ to 2.5 where higher values equal higher government effectiveness.** This variable is **measured as the average from 1998 through 2000.** Source: Kaufman et al. (2003).
+
+.source[Glaesar, Edward L, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer, 2004, "Do Institutions Cause Growth?" *Journal of Economic Growth* 9: 271-303]
+
+]
+
+---
+
+# Political Institutions
+
+.pull-left[
+
+- .shout[Politics]: process by which society chooses rules that will govern it
+
+- AJR<sup>.red[1]</sup>: 
+
+Economic performance $\leftarrow$ economic institutions $\leftarrow$ politics $\leftarrow$ political institutions $\leftarrow$ distribution of political power
+
+- Key role of .shout[state capacity] or .shout["political centralization"] in development
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/irr1i7f7c1fwgas/romansenate.jpg?raw=1)
+]
+]
+
+.footnote[<sup>.red[1]</sup> The colloquial term for "Acemoglu, Johnson, and Robinson" who frequently collaborate together on these issues!]
+
+---
+
+# AJR: Inclusive vs. Extractive Institutions
+
+.pull-left[
+.center[
+![](https://www.dropbox.com/s/z8mansavqsyemaj/encomienda1.jpg?raw=1)
+
+Extractive Institutions/Colonies
+]
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/3wohf12mfnt5pvb/jamestown.jpg?raw=1)
+
+Inclusive Institutions/Colonies
+
+]
+]
+
+---
+
+# Political Institutions
+
+.pull-left[
+
+- Strong feedback loops:
+
+- under extractive institutions, political & economic elite can structure institutions to maintain their wealth and power to extract rents at the expense of the population
+
+- under inclusive institutions, more equitable distribution of wealth and power, competition prevents any one group from creating and maintaining enough rents to exert control
+
+- institutions are maintained by elites who control power, choose economic institutions with few constraints or opposing forces to them!
+
+- **Why would elites ever permit reform?**
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/irr1i7f7c1fwgas/romansenate.jpg?raw=1)
+]
+]
+
+---
+
+
+# AJR's Ultimate Framework
+
+.center[
+![](https://www.dropbox.com/s/ci3wk61f28btjdl/AJRdiagram.png?raw=1)
+]
+
+.source[Acemoglu, Daron, Simon Johnson, and James A. Robinson, 2006, "Institutions as a Fundamental Cause of Long-Run Growth," *Handbook of Economic Growth*, Phillippe Aghion and Steven N. Durlauf, eds., pp.385-414]
+
+---
+
+# Economic Losers as Barriers to Development?
 
 .center[
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVs0Yr3GbRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ]
 
 ---
+
+# Luddites
+
+.center[
+![:scale 80%](https://www.dropbox.com/s/lyg5mys6beqhy0q/luddites.jpg?raw=1)
+
+The "Luddites" destroying power looms in early 19<sup>th</sup> century Britain
+]
+
+---
+
+# AJR: *Political* Losers, Not Economic Losers, Block Development
+
+> "There are problems with this story, however. First, despite the intuitive appeal of the idea, there are relatively few instances where major economic changewas blockedby economic losers. Mokyr (1990) emphasizes the attemptsof many skilled artisansto block the introduction of new machines.The most famous example is the Luddites,skilled weavers who were thrown out of work by mechanization. Interestingly, however, many of these groups, including the Luddites, were ultimately unable to block economic progress. Equally important, the economic-losers hypothesis relies on the presumption that certain groups have the political power to block innovation. But if so, why not use this power to simply tax the gains generated by the introductionof the new technology? This might be because there are limits on the nature of fiscal instruments,though it seems plausible that groups with sufficient political power to block innovationwould be able subsequentlyto lobby effectively for redistribution. A more important reason, however, may be that the introductionof new technology, and economic change more generally, may simultaneously affect the distributionof political power," (126).
+
+.source[Acemoglu, Daron and James A. Robinson, 2000, "Political Losers as a Barrier to Economic Development," *American Economic Review* 90(2): 126-130]
+
+---
+
+# AJR: *Political* Losers, Not Economic Losers, Block Development
+
+> "We arguethatthe effect of economic change on political power is a key factor in determining whether technological advances and beneficial economic changes will be blocked. In other words, we propose a "political-loser hypothesis." We argue that it is groupswhose political power (not economic rents) is eroded who will block technological advances.If agents are economic losers but have no political power, they cannot impede technological progress. If they have and maintain political power (i.e., are not political losers), then they have no incentive to block progress.It is therefore agents who have political power and fear losing it who will have incentives to block. Our analysis suggests that we should look more to the nature of political institutions and the determinants of the distribution of political power if we want to understand technological backwardness," (pp.126-127)
+
+.source[Acemoglu, Daron and James A. Robinson, 2000, "Political Losers as a Barrier to Economic Development," *American Economic Review* 90(2): 126-130]
