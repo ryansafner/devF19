@@ -28,7 +28,11 @@ Chapter 1 sets the stage with a number of stories that emphasize the differences
 - [<i class="fas fa-file-pdf"></i> Tullock (1967), "The Welfare Cost of Tariffs, Monopolies, and Theft"](/readings/Tullock-1967.pdf)
 - [<i class="fas fa-file-pdf"></i> Alchian (1950), "Uncertainty, Evolution, and Economic Theory"](/readings/Alchian-1950.pdf)
 - [<i class="fas fa-file-pdf"></i> Murphy, Shleifer, Vishny (1991), "The Allocation of Talent: Implications for Growth"](/readings/Murphy-Shleifer-Vishny-1991.pdf)
+- [<i class="fas fa-file-pdf"></i> Glaesar et. al (2004), "Do Institutions Cause Growth?"](/readings/Glaesar-et-al-2004.pdf)
 
 
 # Questions to Read For:
 
+- According to Acemoglu and Robinson, what is the difference between "inclusive" institutions and "extractive" institutions?
+
+- What causes 

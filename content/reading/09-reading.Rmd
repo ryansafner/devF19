@@ -1,0 +1,39 @@
+---
+title: "9. The Pre-Modern Malthusian World - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+# Required Readings:
+
+- [<i class="fas fa-book"></i>Chapter 1 in @Scott](/readings/Scott-1998-Ch1.pdf)
+- [<i class="fas fa-file-pdf"></i> Olson (1993), "Dictatorship, Democracy, and Development"](/readings/Olson-1993.pdf)
+
+James Scott is a political scientist and anthropologist who specializes in agrarian and non-State societies. This is one of several provocative books, but the main contribution of this particular book (and chapter) is to highlight the lack of state capacity and its implications. It will really give you a detailed description of how States require "legibility" to command and control resources, and just how illegible societies really are, particularly before the rise of powerful States. I also strongly recommend Slate Star Codex's review of the book (see below) to give you the full picture in an accessible manner.
+
+Second, Mancur Olson's work is a very famous model that describes the different incentives of dominant groups that wield political power (i.e. the State) and how that affects economic development. Think about how Acemoglu and Robinson's inclusive vs. extractive institutions fit into Olson's model (which came first).
+
+Overall, we will be considering economic history from the very beginning of human society up through the modern era. This was characterized by Malthusian population pressures, so we will explore this as well.
+
+# Recommended
+
+- [<i class="fas fa-external-link-square-alt"></i> Alexander, (2017), "Book Review: Seeing Like a State" (Slate Star Codex blog)](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
+- [<i class="fab fa-youtube"></i> Bill Wurtz: history of the entire world i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
+- [<i class="fas fa-external-link-square-alt"></i> Diamond, (1987), "The Worst Mistake in the History of the Human Race"](http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race)
+
+Silly as it is, I recommend watching Bill Wurtz' amazing "history of the entire world i guess," to give you some proper context of the broad stretches of history we'll ultimately be covering.
+
+Additionally, as Malthusian pre-modern economies are primarily subsistence agriculture, we should consider the impact that farming has had on humans. See Jared Diamond's provocative argument for all the downsides of the Neolithic Revolution (the human transition from nomadic hunter-gatherers to settled agriculture about 12,000 years ago). This also fits into Olson's argument.
+
+# Primary Sources
+
+- [<i class="fas fa-external-link-square-alt"></i> Malthus, (1798), "An Essay on the Principle of Population"](https://www.econlib.org/library/Malthus/malPop.html)
+- [<i class="fas fa-file-pdf"></i> Kremer (1993), "Population Growth and Technological Change: One Million B.C. to 1990"](/readings/Kremer-1993.pdf)
+
+
+# Questions to Read For:
+
+- According to Acemoglu and Robinson, what is the difference between "inclusive" institutions and "extractive" institutions?
+
+- What causes 

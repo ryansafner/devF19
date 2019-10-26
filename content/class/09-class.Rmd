@@ -1,0 +1,30 @@
+---
+title: "Lesson 9: The Pre-Modern Malthusian World - Class Notes"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Overview
+
+We continue our exploration of the role of economic and political institutions on economic development and economic history. We start by going back hundreds to thousands of years, to describe common institutional patterns in the pre-modern (i.e. before c.1500-1800) world. We look will examine three major themes:
+
+First, the Malthusian trap and population dynamics of a pre-modern economy. Thomas Malthus' famous essay about population growth outstripping natural resources is much maligned today (for failing to predict unprecedented productivity growth), but actually described the essential economics of societies for thousands of years.
+
+Second, we examine the economics of the State, or more accurately, the economics of dominant groups. How do rulers emerge over a territory, and what are the incentives of terroritorial rulers? How might they be conducive to development, and how might they not be conducive? We read a very famous model by Mancur Olson that outlines the incentives. We will see specifically how ruling groups operated in future lessons. 
+
+Finally, the role of state capacity is critical in development (Acemoglu and Robinson seem to call this "political centralization"). As we'll see, for most of human history, people did not live under the rule of States in the way that we do today. Despite the freedom that this appears to bring, it does not bring economic development. States, to the extent that they existed in a recognizable form, had very low capacity and could not interact much with their citizens.  
+
+# Slides
+
+- [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/09-slides.html)
+
+# Readings
+
+See this week's [readings page](/reading/09-reading) for *required* readings for our discussion.

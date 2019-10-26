@@ -1,0 +1,26 @@
+---
+title: "Lesson 7: Geography and Other Uncontrollable Factors - Class Notes"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Overview
+
+We come to the last key arguments for what causes some nations to become wealthy and others poor. While we cannot cover an exhaustive list of important factors (this class would be several semesters), we can cover the remaining major arguments. I will over-simplify and lump several into what we might call "geographic determinism:" countries are destined to be wealthy or poor based on their geographies.
+
+This comes into play in several ways, first, the famous geographic determinist argument in Jared Diamond's famous *Guns, Germs, and Steel*: regions that span across a single latitude (East-West) were destined to develop before those that span across longitude (North-South) due to climate and geographically-driven variation domesticable plant and animal species. Second, some more empirical work (read: growth regressions) in geography affecting growth via market (in)access from lack of coastline, navigable waterways, etc. Third, "geography" can impact human (and animal!) health in an adverse way that limits development (particularly via insect and disease environment). Finally, we also consider the famous "resource curse" - sometimes having abundant natural resources can *hurt* the quality of a country's institutions, and therefore its ability to develop. A not insignificant number of these theories address whether there is something unique about Africa that makes it even harder to develop.
+
+# Slides
+
+- [<i class="fas fa-external-link-square-alt"></i> Lecture Slides](/slides/07-slides.html)
+
+# Readings
+
+See this week's [readings page](/reading/07-reading) for *required* readings for our discussion.
