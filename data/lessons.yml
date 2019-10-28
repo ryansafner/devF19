@@ -56,7 +56,8 @@ lessons:
   - title: "The Pre-modern Malthusian Economy"
     reading: "09-reading"
     class: "09-class"
-
+    slides: "09-slides"
+    
   - title: "The Natural State and the Violence Trap"
 
   - title: '<span class="fake-header-table">Making Comparisons and Case Studies</span>'
