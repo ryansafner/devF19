@@ -23,6 +23,8 @@ Overall, we will be considering economic history from the very beginning of huma
 - [<i class="fas fa-external-link-square-alt"></i> Diamond, (1987), "The Worst Mistake in the History of the Human Race"](http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race)
 - [<i class="fas fa-podcast"></i> NPR's *Planet Money*: "A Bet On The Future Of Humanity"](https://www.npr.org/sections/money/2018/01/19/579192124/episode-508-a-bet-on-the-future-of-humanity)
 - [<i class="fas fa-podcast"></i> *Economics Detective Radio*: "The Second Ehrlich-Simon Wager with Joanna Szurmak"](https://economicsdetective.com/2016/11/second-ehrlich-simon-wager-joanna-szurmak/)
+- [<i class="fas fa-podcast"></i> *99% Invisible*: Vernacular Economics: How Building Codes & Taxes Shape Regional Architecture](https://99percentinvisible.org/article/vernacular-economics-building-codes-taxes-shape-regional-architecture/)
+
 
 Silly as it is, I recommend watching Bill Wurtz' amazing "history of the entire world i guess," to give you some proper context of the broad stretches of history we'll ultimately be covering.
 
@@ -34,6 +36,7 @@ The last two are podcasts on the Simon-Ehrlich wager. The first (*Planet Money*)
 
 - [<i class="fas fa-external-link-square-alt"></i> Malthus, (1798), "An Essay on the Principle of Population"](https://www.econlib.org/library/Malthus/malPop.html)
 - [<i class="fas fa-file-pdf"></i> Kremer (1993), "Population Growth and Technological Change: One Million B.C. to 1990"](/readings/Kremer-1993.pdf)
+- [<i class="fas fa-file-pdf"></i> Koyama and Johnson (2016), "States and Economic Growth: Capacity and Constraints"](/readings/Koyama-Johnson-2016.pdf)
 
 
 # Questions to Read For:
