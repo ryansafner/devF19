@@ -26,12 +26,22 @@ The second podcast is with Bruce Bueno de Mesquita on *Econtalk*^[One of the ori
 
 # Primary Sources
 
-- [<i class="fas fa-book"></i>Bueno de Mesquita, Smith, Siverson, and Morrow (2005) *The Logic of Political Survival*](https://www.amazon.com/Logic-Political-Survival-MIT-Press/dp/0262524406)
-- [<i class="fas fa-book"></i>North, Wallis, and Weingast (2009) *Violence and Social Orders: A Conceptual Framework for Interpreting Recorded Human History*](https://www.amazon.com/Violence-Social-Orders-Conceptual-Interpreting/dp/1107646995)
-- [<i class="fas fa-external-link-square-alt"></i> Malthus, (1798), "An Essay on the Principle of Population"](https://www.econlib.org/library/Malthus/malPop.html)
+- [<i class="fas fa-book"></i> Bueno de Mesquita, Smith, Siverson, and Morrow (2005) *The Logic of Political Survival*](https://www.amazon.com/Logic-Political-Survival-MIT-Press/dp/0262524406)
+- [<i class="fas fa-book"></i> North, Wallis, and Weingast (2009) *Violence and Social Orders: A Conceptual Framework for Interpreting Recorded Human History*](https://www.amazon.com/Violence-Social-Orders-Conceptual-Interpreting/dp/1107646995)
 - [<i class="fas fa-file-pdf"></i> Tullock (1971), "The Paradox of Revolution"](/readings/Tullock-1971.pdf)
 - [<i class="fas fa-file-pdf"></i> Kuran (1989), "Sparks and Prarie Fires: A Theory of Unanticipated Political Revolution"](/readings/Kuran-1989.pdf)
 
 
 # Questions to Read For:
 
+- What do economists miss when they focus only on "the light side of the force" i.e. voluntary exchange and trade? What can we learn from studying violence and coercion as well?
+- We pretty much know what policies and institutions generate prosperity (property rights, rule of law, etc). Leaders of developing countries probably know this as well (or can quickly find out). Why don't they implement them? Or, more accurately, what would happen if they implement them?
+- What is the difference between the State and the Mafia?
+- How does a Limited Access Order (LAO, also called "natural state") function?
+- What are the differences between a Limited Access Order and an Open Access Order? How does one transition to the other?
+- Successful societies "*wage peace.*" Explain how this is an apt summary for the politics of a LAO/natural state.
+- Bueno de Mesquita's "selectorate" theory is also famous for a much more complex (yet verifiable!) application of Olson's logic. What is the selectorate? How is the selectorate different for democracies and non-democracies? What is the "winning/dominant coalition"?
+- How does the allocation of public goods vs. private goods (i.e. rents for cronies) differ based on the selectorate? 
+- Is a dictator all-powerful? Why or why not?
+- Why does it commonly appear that support for an oppressive regime is higher than it actual is?
+- Why are there few (or no?) success stories of popular revolutions that overthrew an autocratic government and replaced it with a democratic government?
