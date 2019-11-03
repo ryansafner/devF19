@@ -59,6 +59,9 @@ lessons:
     slides: "09-slides"
     
   - title: "The Natural State and the Violence Trap"
+    reading: "10-reading"
+    class: "10-class"
+    slides: "10-slides"
 
   - title: '<span class="fake-header-table">Making Comparisons and Case Studies</span>'
     header: True
