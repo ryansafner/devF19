@@ -1,0 +1,229 @@
+---
+title: "Country Profile Assignment"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(tidyverse)
+library(pander)
+source(file.path(here::here(), "lib", "graphics.R"))
+```
+
+- *Due last day of class*
+
+# Overview 
+
+Each of you will write a short profile of a different developing country and give a short presentation to the class. The countries that may be chosen will be restricted to developing economies in Latin America, Asia, Africa, and Eastern Europe. Students born outside of the U.S. may *not* choose the country of their birth. The purpose of this assignment is to "get you out of your comfort zone" and see the world from the perspective of a culture and an economy radically different than the one(s) you are familiar with.
+
+# Countries List
+
+The following countries all have a GDP/capita of less than $20,000 USD, and are available for you to choose. 
+
+Please **email me** with the country you would like to choose. I will remove countries from this list in the order that I recieve emails claiming them. You may decide to change your country at any time, at which point, I will re-release the country into the pool for others to select, and update the list below:
+
+**Last Update: 9:48 PM Sunday Nov 3**
+
+- Iran
+- Turkmenistan
+- Thailand
+- Montenegro
+- Barbados
+- Gabon
+- Dominican Republic
+- Azerbaijan
+- Botswana
+- Iraq
+- Costa Rica
+- Serbia
+- Grenada
+- Brazil
+- North Macedonia
+- Algeria
+- Suriname
+- Palau
+- Colombia
+- Lebanon
+- Saint Lucia
+- Peru
+- South Africa
+- Bosnia and Herzegovina
+- Mongolia
+- Sri Lanka
+- Paraguay
+- Egypt
+- Albania
+- Indonesia
+- Tunisia
+- Nauru
+- Saint Vincent and the Grenadines
+- Ecuador
+- Kosovo
+- Georgia
+- Libya
+- Namibia
+- Eswatini
+- Fiji
+- Armenia
+- Dominica
+- Bhutan
+- Jamaica
+- Jordan
+- Ukraine
+- Philippines
+- Morocco
+- Guyana
+- Belize
+- Guatemala
+- El Salvador
+- Laos
+- Uzbekistan
+- Vietnam
+- Bolivia
+- Cape Verde
+- Moldova
+- Angola
+- Republic of the Congo
+- Myanmar
+- Ghana
+- Tonga
+- Nigeria
+- Samoa
+- Nicaragua
+- Pakistan
+- Timor-Leste
+- Honduras
+- Bangladesh
+- Cambodia
+- Sudan
+- Côte d'Ivoire
+- Zambia
+- Tuvalu
+- Mauritania
+- Kyrgyzstan
+- Cameroon
+- Djibouti
+- Marshall Islands
+- Kenya
+- Papua New Guinea
+- Senegal
+- Federated States of Micronesia
+- Tanzania
+- Tajikistan
+- Lesotho
+- São Tomé and Príncipe
+- Nepal
+- Vanuatu
+- The Gambia
+- Zimbabwe
+- Uganda
+- Benin
+- Chad
+- Mali
+- Yemen
+- Ethiopia
+- Guinea
+- Rwanda
+- Solomon Islands
+- Kiribati
+- Afghanistan
+- Burkina Faso
+- Guinea-Bissau
+- Haiti
+- Togo
+- Eritrea
+- Comoros
+- Madagascar
+- Sierra Leone
+- South Sudan
+- Liberia
+- Mozambique
+- Niger
+- Malawi
+- Democratic Republic of the Congo
+- Burundi
+- Central African Republic
+
+# Assignment
+
+I want you to compile statistics on your country (described below), as well as provide a short write up about the country. You will give a presentation on your country during the last week of class.
+
+## Country at a Glance
+
+Get data from a reputable source (United Nations, World Bank, International Monetary Fund, OECD, etc.) on the following statistics. You may write down just the number or descriptor for each of the following on your report.^[You might wish to make a table to organize it.] **For each, please indicate both the source of your data, and the year for the data (try to get the latest possible)**. Note that some countries may not have data available on all statistics (and be sure to not if none is available).
+
+### Macroeconomic Data
+
+1. Real Gross Domestic Product (and growth rate)
+2. Real GDP/capita (and growth rate)
+3. Unemployment rate
+4. Labor force participation rate
+5. Inflation rate
+6. Budget deficit/surplus as percent of GDP
+7. Debt as percent of GDP
+8. Currency, and exchange rate for 1 U.S. Dollar
+
+### Demographic, Equality, and Health Data
+
+1. Population
+2. Population growth rate
+3. Human development index 
+4. Gini coefficient
+5. Life expectancy at birth
+6. Infant mortality rate
+7. % of population living in extreme poverty (under $\approx$ $2 per day)
+
+### Trade and Economy Data
+
+1. What are the top 5 exports by value?
+2. Who are the top 5 trading partners?
+3. Trade (imports + exports) as percent of GDP
+4. [Doing Business Index](https://www.doingbusiness.org/) score
+5. Amount of Foreign Aid recieved
+
+### Institutions
+
+1. [Polity IV](http://www.systemicpeace.org/polity/polity4.htm) score
+2. [Freedom house](https://freedomhouse.org/report/freedom-world/freedom-world-2018) freedom score
+3. [Economic freedom](https://www.fraserinstitute.org/economic-freedom/map) score
+4. [Corruption Perceptions Index](https://www.transparency.org/research/cpi/overview) score
+5. Who colonized it? From when to when? Date of independence?
+6. Major religions (and percentage breakdown); National relgion(s)?
+7. Major languages (and percentage breakdown); National language(s)?
+8. What kind of legal system (e.g. Common Law, Civil Law, etc.)?
+9. [Rule of law index](https://worldjusticeproject.org/our-work/research-and-data/wjp-rule-law-index-2019) score
+
+# Write Up
+
+Write a short (4 double-spaced pages maximum) write up of the country's:
+
+- **History**: describe an overview of the country's history. Was it involved in major wars (civil, foreign, colonial, etc.)? Was it colonized by another country? When and how did it gain independence?
+Did it align with a particular bloc during WWII, the Cold War, etc? 
+
+- **Political system**: how is the government organized, how are leaders chosen, how long has the current regime been in power, are there current political issues, ongoing conflicts, etc? What is/has been the ideology of governments and leaders?
+
+- **Geography**: where is the country in the world, what kind of geography does it have?
+
+- **Economy**: is the country known for particular industries? Is it primarily agricultural? Export-driven? Does/did the country have particular development or industrial policies?
+
+At the end, include a short bibliography of the sources which you used to compile your overview. I do not care about the formatting, just be consistent, and use reputable sources (again, e.g. World Bank, IMF, OECD, UN, CIA World Factbook).
+
+# Presentation
+
+On the last week of class, each student will have 5 minutes to present their country. I expect each of you to have slides to describe your country. The goal is for you to immerse yourself a bit in your selected country, and to give us all a sense of what it is like to live in that country, and how it fits in the world in terms of economic development. Your presentation should include:
+
+1. Some At a Glance statistics from above
+2. A few graphs of key development variables over time (e.g. GDP per capita, Unemployment, Gini) to point out any major trends or changes^[You should make these yourself. Download data from the relevant source, and track it over time, and make a chart using Microsoft Excel or your other favorite software.]
+3. An overview of the history and institutions that you find relevant to explain the "story" of the country and its performance over time
+
+# Grading Rubric
+
+Here is the rubric that I will use to grade your profile:
+
+| Category | Points |
+|----------|-------:|
+| Write Up | 60 |
+| At a Glance Data | 25 |
+| Presentation Slides | 10 |
+| Presentation | 5 |
+| TOTAL | 100 |
