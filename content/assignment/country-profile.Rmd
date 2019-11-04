@@ -16,7 +16,7 @@ source(file.path(here::here(), "lib", "graphics.R"))
 
 Each of you will write a short profile of a different developing country and give a short presentation to the class. The countries that may be chosen will be restricted to developing economies in Latin America, Asia, Africa, and Eastern Europe. Students born outside of the U.S. may *not* choose the country of their birth. The purpose of this assignment is to "get you out of your comfort zone" and see the world from the perspective of a culture and an economy radically different than the one(s) you are familiar with.
 
-# Countries List
+# Available Countries List
 
 The following countries all have a GDP/capita of less than $20,000 USD, and are available for you to choose. 
 
@@ -150,7 +150,7 @@ I want you to compile statistics on your country (described below), as well as p
 
 ## Country at a Glance
 
-Get data from a reputable source (United Nations, World Bank, International Monetary Fund, OECD, etc.) on the following statistics. You may write down just the number or descriptor for each of the following on your report.^[You might wish to make a table to organize it.] **For each, please indicate both the source of your data, and the year for the data (try to get the latest possible)**. Note that some countries may not have data available on all statistics (and be sure to not if none is available).
+Get data from a reputable source (United Nations, World Bank, International Monetary Fund, OECD, etc.) on the following statistics.^[You might want to look at the [last slide](https://devf19.classes.ryansafner.com/slides/02-slides#114) of our lesson on measuring development for some data sources!] You may write down just the number or descriptor for each of the following on your report.^[You might wish to make a table to organize it.] **For each, please indicate both the source of your data, and the year for the data (try to get the latest possible)**. Note that some countries may not have data available on all statistics (and be sure to not if none is available).
 
 ### Macroeconomic Data
 
@@ -172,6 +172,7 @@ Get data from a reputable source (United Nations, World Bank, International Mone
 5. Life expectancy at birth
 6. Infant mortality rate
 7. % of population living in extreme poverty (under $\approx$ $2 per day)
+8. [Happiness index](https://worldhappiness.report/) score 
 
 ### Trade and Economy Data
 
