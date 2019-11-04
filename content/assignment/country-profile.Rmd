@@ -22,7 +22,7 @@ The following countries all have a GDP/capita of less than $20,000 USD, and are 
 
 Please **email me** with the country you would like to choose. I will remove countries from this list in the order that I recieve emails claiming them. You may decide to change your country at any time, at which point, I will re-release the country into the pool for others to select, and update the list below:
 
-**Last Update: 9:48 PM Sunday Nov 3**
+**Last Update: 4:00 PM Monday Nov 4**
 
 - Iran
 - Turkmenistan
@@ -67,7 +67,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Armenia
 - Dominica
 - Bhutan
-- Jamaica
+- **Jamaica (CLAIMED)**
 - Jordan
 - Ukraine
 - Philippines
@@ -96,7 +96,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Bangladesh
 - Cambodia
 - Sudan
-- Côte d'Ivoire
+- **Côte d'Ivoire (CLAIMED)**
 - Zambia
 - Tuvalu
 - Mauritania
@@ -104,7 +104,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Cameroon
 - Djibouti
 - Marshall Islands
-- Kenya
+- **Kenya (CLAIMED)**
 - Papua New Guinea
 - Senegal
 - Federated States of Micronesia
