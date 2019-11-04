@@ -700,7 +700,7 @@ Louis XIV of France
 - Important: .onfire[a successful Natural State wages peace]
   - Elite groups *do not disarm*! Always able to threaten violence!
 ]
-]
+
 
 ---
 
@@ -997,6 +997,6 @@ President of Afghanistan (2001-2014)
 .pull-right[
 
 .center[
-![:scale 80%](https://www.dropbox.com/s/t4i1uwiciisuej1/doorstep.png?raw=1)
+![:scale 60%](https://www.dropbox.com/s/t4i1uwiciisuej1/doorstep.png?raw=1)
 ]
 ]
