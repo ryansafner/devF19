@@ -8,21 +8,19 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required Readings:
 
 - [<i class="fas fa-book"></i>Chapter 1 in North, Wallis, Webb, Weingast (2013) *In the Shadow of Violence: Politics, Economics, and the Problems of Development*](/readings/North-Wallis-Webb-Weingast-2013.pdf)
+- [<i class="fas fa-podcast"></i> *Econtalk* (2006): "Bruce Bueno de Mesquita on the Political Economy of Power"](http://www.econtalk.org/archives/2006/08/the_political_e.html)
 
 This chapter (from an edited volume of essays) outlines the theory of what North, Wallis, and Weingast call "limited-access orders" (LAOs) in contrast to "open access orders." Their theory is fully spelled out in the excellent book *Violence and Social Orders* (2009), where they alternatively call limited access orders "natural states." This will give you an overview of the difference, and, importantly, how LAOs work, and why all societies either *once* were LAOs (but have since developed into open access orders), or *remain* LAOs.
 
-I strongly encourage you to listen to at least one, if not both, of the podcasts below. This is an alternative to assigning more book chapters or papers. See the description of each below.
+The podcast is with Bruce Bueno de Mesquita on *Econtalk*^[One of the original episodes back in 2006!] talking about his book (with coauthors), *The Logic of Political Survival*. It is a wide-ranging conversation, but centers on his "Selectorate theory," and how this model explains both autocratic and democratic behavior. Some development concepts, including foreign aid, are discussed. Very eye-opening. This is an alternative to assigning more book chapters or papers. See the description of each below.
 
 
 # Recommended
 
 - [<i class="fas fa-file-pdf"></i> Cox, North, and Weingast (2015), "The Violence Trap"](/readings/Cox-North-Weingast-2015.pdf)
 - [<i class="fas fa-podcast"></i> *Econtalk* (2013): "Barry Weingast on the Violence Trap"](http://www.econtalk.org/archives/2013/08/weingast_on_the.html)
-- [<i class="fas fa-podcast"></i> *Econtalk* (2006): "Bruce Bueno de Mesquita on the Political Economy of Power"](http://www.econtalk.org/archives/2006/08/the_political_e.html)
 
-The first podcast (and the paper it is based off of) is Barry Weingast on *Econtalk* talking about the "violence trap." This idea is strongly connected to North, Wallis, and Weingast's LAOs/Natural State framework. Reforms of the political and economic system that might improve economic development (and GDP/capita) and lead to a more open access order are often prevented by ruling elites. It is neither in their interest to open up, and it might provoke chaos, disorder, and violence in a society (think Olson's roving bandits). Such a tumultous outcome, while it has a chance of leading to democracy and wealth, is a worse outcome than the existing system, as unfair, inefficient, and peverse as it may be. This is the violence trap.
-
-The second podcast is with Bruce Bueno de Mesquita on *Econtalk*^[One of the original episodes back in 2006!] talking about his book (with coauthors), *The Logic of Political Survival*. It is a wide-ranging conversation, but centers on his "Selectorate theory," and how this model explains both autocratic and democratic behavior. Some development concepts, including foreign aid, are discussed. Very eye-opening.
+The podcast (and the paper it is based off of) is Barry Weingast on *Econtalk* talking about the "violence trap." This idea is strongly connected to North, Wallis, and Weingast's LAOs/Natural State framework. Reforms of the political and economic system that might improve economic development (and GDP/capita) and lead to a more open access order are often prevented by ruling elites. It is neither in their interest to open up, and it might provoke chaos, disorder, and violence in a society (think Olson's roving bandits). Such a tumultous outcome, while it has a chance of leading to democracy and wealth, is a worse outcome than the existing system, as unfair, inefficient, and peverse as it may be. This is the violence trap.
 
 # Primary Sources
 
