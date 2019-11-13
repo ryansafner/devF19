@@ -1,5 +1,5 @@
 ---
-title: "Lesson 11: The Origins of Liberal Democracy in Western Europe"
+title: "Lesson 11: The Origins of Liberal Democracy in W. Europe"
 subtitle: "ECON 317 · Economics of Development · Fall 2019"
 author: 'Ryan Safner<br> Assistant Professor of Economics <br> <a href="mailto:safner@hood.edu"><i class="fa fa-paper-plane fa-fw"></i> safner@hood.edu</a> <br> <a href="https://github.com/ryansafner/devf19"><i class="fa fa-github fa-fw"></i> ryansafner/devf19</a><br> <a href="https://devF19.classes.ryansafner.com"> <i class="fa fa-globe fa-fw"></i> devF19.classes.ryansafner.com</a><br>'
 #date:
