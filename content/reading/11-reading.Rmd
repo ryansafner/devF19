@@ -1,0 +1,19 @@
+---
+title: "11. The Origins of Liberal Democracy in Western Europe - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+# Required Readings:
+
+- <i class="fas fa-book"></i>Chapters 4, 7 in @Acemoglu2008
+
+# Recommended
+
+
+# Primary Sources
+
+
+# Questions to Read For:
+

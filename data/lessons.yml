@@ -66,8 +66,11 @@ lessons:
   - title: '<span class="fake-header-table">Making Comparisons and Case Studies</span>'
     header: True
 
-  - title: 'Western Europe: The Transition to Liberal Democracy'
-
+  - title: 'The Origins of Liberal Democracy in Western Europe'
+    reading: "11-reading"
+    class: "11-class"
+    slides: "11-slides"
+    
   - title: 'Russia and Post-Communist Development'
 
   - title: 'State Capitalism: China and Korea'
