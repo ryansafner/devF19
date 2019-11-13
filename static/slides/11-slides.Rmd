@@ -953,3 +953,42 @@ Anglo-Saxon king with his *witan*
 
 ---
 
+# Monarch's Role as Head of Patronage Networks I
+
+.pull-left[
+- Monarch is head of many patronage networks, often from the most powerful/wealthiest family 
+
+- Has siblings and many blood relations that expect patronage or else they might challenge claim to throne
+
+- Monarch must redistribute as patronage (land, titles, marriages, inheritances) to loyal supporters to maintain support
+
+]
+
+.pull-right[
+.center[
+![:scale 90%](https://www.dropbox.com/s/g32bewg1h34zrhu/noblemarriage.jpg?raw=1)
+]
+]
+
+---
+
+# Monarch's Role as Head of Patronage Networks II
+
+.pull-left[
+- After 1066 conquest, William I the Conquerer claims *all* land in England
+
+- Nobody owns land in their own right, all land is property of the King
+  - Of course, King cannot govern entirety of land all the time
+  - Nobles retain control over their domains, but nominally owned by King
+  
+- Monarchs often reclaim ("escheat") land from nobles who *break* fealty, commit treason, or die without heirs
+  - redistribute to loyal elites as patronage
+  - inheritance must be "bought" with "relief" (a fee) to the King
+
+]
+
+.pull-right[
+.center[
+![:scale 90%](https://www.dropbox.com/s/m08nrx2hxicpegd/williamconquerorbayeux.jpg?raw=1)
+]
+]
