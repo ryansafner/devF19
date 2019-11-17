@@ -22,7 +22,7 @@ The following countries all have a GDP/capita of less than $20,000 USD, and are 
 
 Please **email me** with the country you would like to choose. I will remove countries from this list in the order that I recieve emails claiming them. You may decide to change your country at any time, at which point, I will re-release the country into the pool for others to select, and update the list below:
 
-**Last Update: 4:00 PM Monday Nov 4**
+**Last Update: 10:30 AM Sunday Nov 17**
 
 - Iran
 - Turkmenistan
@@ -45,7 +45,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Colombia
 - Lebanon
 - Saint Lucia
-- Peru
+- **Peru (CLAIMED)**
 - South Africa
 - Bosnia and Herzegovina
 - Mongolia
@@ -71,14 +71,14 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Jordan
 - Ukraine
 - Philippines
-- Morocco
+- **Morocco (CLAIMED)**
 - Guyana
 - Belize
 - Guatemala
 - El Salvador
 - Laos
 - Uzbekistan
-- Vietnam
+- **Vietnam (CLAIMED)**
 - Bolivia
 - Cape Verde
 - Moldova
@@ -106,7 +106,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Marshall Islands
 - **Kenya (CLAIMED)**
 - Papua New Guinea
-- Senegal
+- **Senegal (CLAIMED)**
 - Federated States of Micronesia
 - Tanzania
 - Tajikistan
