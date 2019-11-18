@@ -2,17 +2,17 @@ lessons:
   - title: '<span class="fake-header-table">Fundamentals of Economic Development</span>'
     header: True
 
-  - title: "What is Development?"
+  - title: "1 What is Development?"
     slides: "01-slides"
     class: "01-class"
     reading: "01-reading"
 
-  - title: "Measuring Development"
+  - title: "2 Measuring Development"
     slides: "02-slides"
     class: "02-class"
     reading: "02-reading"
 
-  - title: "Can We Plan an Economy?"
+  - title: "3 Can We Plan an Economy?"
     class: "03-class"
     reading: "03-reading"
     slides: "03-slides"
@@ -20,24 +20,24 @@ lessons:
   - title: '<span class="fake-header-table">Models of Economic Development</span>'
     header: True
 
-  - title: "The Microeconomics of Development"
+  - title: "4 The Microeconomics of Development"
     class: "04-class"
     reading: "04-reading"
     slides: "04-slides"
     
-  - title: "The Macroeconomics of Development"
+  - title: "5 The Macroeconomics of Development"
     class: "05-class"
     reading: "05-reading"
     slides: "05-slides"
     
   - title: '<span class="fake-header-table">Policies & Exogenous Factors</span>'
   
-  - title: "Foreign Aid"
+  - title: "6 Foreign Aid"
     class: "06-class"
     reading: "06-reading"
     slides: "06-slides"
     
-  - title: "Geography and Other Uncontrollable Factors"
+  - title: "7 Geography and Other Uncontrollable Factors"
     reading: "07-reading"
     class: "07-class"
     slides: "07-slides"
@@ -48,17 +48,17 @@ lessons:
   - title: '<span class="fake-header-table">Institutions and Political Economy</span>'
     header: True
 
-  - title: "Introduction to Political Economy"
+  - title: "8 Introduction to Political Economy"
     reading: "08-reading"
     class: "08-class"
     slides: "08-slides"
     
-  - title: "The Pre-modern Malthusian Economy"
+  - title: "9 The Pre-modern Malthusian Economy"
     reading: "09-reading"
     class: "09-class"
     slides: "09-slides"
     
-  - title: "The Natural State and the Violence Trap"
+  - title: "10 The Natural State and the Violence Trap"
     reading: "10-reading"
     class: "10-class"
     slides: "10-slides"
@@ -66,20 +66,20 @@ lessons:
   - title: '<span class="fake-header-table">Making Comparisons and Case Studies</span>'
     header: True
 
-  - title: 'The Origins of Liberal Democracy in Western Europe'
+  - title: '11 The Origins of Liberal Democracy in Western Europe'
     reading: "11-reading"
     class: "11-class"
     slides: "11-slides"
     
-  - title: 'Russia and Post-Communist Development'
+  - title: '12 Russia and Post-Communist Development'
 
-  - title: 'State Capitalism: China and Korea'
+  - title: '13 State Capitalism: East Asian Style'
 
-  - title: "Extractive Institutions: Latin America and Africa"
+  - title: "14 Extractive Institutions: Latin America and Africa"
 
   - title: '<i class="fas fa-laptop-code"></i> **Short Paper 2** due -'
 
-  - title: '<i class="fas fa-laptop-code"></i> **Country Profile** due Dec 11'
+  - title: '<i class="fas fa-laptop-code"></i> **Country Profile** due Dec 9'
     assignment: "country-profile"
 
   - title: '<i class="fas fa-laptop-code"></i> **Final Exam**'
