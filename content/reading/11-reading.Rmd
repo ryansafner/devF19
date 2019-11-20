@@ -22,6 +22,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 - [<i class="fas fa-file-pdf"></i> Grief, Milgrom, and Weingast (1994), "Coordination, Commitment, and Enforcement: The Case of the Merchant Guild"](/readings/Grief-Milgrom-Weingast-1994.pdf)
 - [<i class="fas fa-file-pdf"></i> Ogilvie (2014), "The Economics of Guilds"](/readings/Ogilvie-2014.pdf)
 - [<i class="fas fa-file-pdf"></i> Benson (1989), "The Spontaneous Evolution of Commercial Law"](/readings/Benson-1989.pdf)
+- Read the quotes by classical economists (Smith, Hume, Bastiat) on mercantilism, starting on [slide 153](https://devf19.classes.ryansafner.com/slides/11-slides#153)
 
 # Questions to Read For:
 
