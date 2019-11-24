@@ -9,9 +9,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 - <i class="fas fa-book"></i>Chapters 4, 7 in @Acemoglu2008
 
-# Recommended
-
-
 # Primary Sources (and Book Recommendations)
 
 - [<i class="fas fa-file-pdf"></i> Weingast (2017), "Adam Smith's Theory of Violence and the Political-Economics of Development"](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2016/01/Weingast.ASM_.NBER-ver-4.00__17.0116.pdf)
@@ -26,3 +23,17 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Questions to Read For:
 
+- Why did the Industrial Revolution occur England in the 1800s? Why not elsewhere, or at other times? 
+
+- What remnants of feudal ideas, institutions, and customs remain today?
+
+- Was feudalism optimal or efficient for societies at the time, given their constraints?
+
+- Why did feudalism last so long? What prevented an escape to another (better?) system?
+
+- How specifically did feudalism transition into something else -- mercantilism, capitalism, socialism, etc. What were the main mechanisms of change?
+
+- How do reforms come about? How are they made incentive-compatible, so that the elite (that would lose power during reform) permit it? 
+How well do Olson and Weingast's models fit feudalism, and what will come after (or remain today in some countries)?
+
+- Were monopolies, guilds, created rents and rent-seeking, and other restrictions on trade as bad as we economists would say they are today in markets? 
