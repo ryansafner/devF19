@@ -36,4 +36,14 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 - How do reforms come about? How are they made incentive-compatible, so that the elite (that would lose power during reform) permit it? 
 How well do Olson and Weingast's models fit feudalism, and what will come after (or remain today in some countries)?
 
-- Were monopolies, guilds, created rents and rent-seeking, and other restrictions on trade as bad as we economists would say they are today in markets? 
+- Were monopolies, guilds, created rents and rent-seeking, and other restrictions on trade as bad as we economists would say they are today in markets?
+
+- What are the legacies of colonialism and European imperialism? 
+- How did European colonists decide what kind of colony to set up (inclusive or extractive, to use Acemolgu & Robinson's terms)? 
+- Most (if not all) of the inclusive colonies tended to be British. Is that an important factor?  
+- Mercantilism as a coherent philosophy is archaic today. But how are some of its economic tenets (e.g. positive trade surplus) practiced or believed today?
+- In what ways are today's developing countries mercantilist? In what ways are they NWW's natural states? 
+- Adam Smith, Bastiat, and the Classical Economists ridiculed Mercantilism to a pulp, such that no serious economist today supports mercantilist ideas about trade. But how should we view Mercantilism in the context of its time?
+- Ending mercantilism is simple, in theory - get rid of trade barriers, monopoly privileges, and other restrictions. Why is it so hard? And in particular, should we encourage developing countries to do this?
+- How does the American Revolution, Constitutional Convention, and other "democratic popular revolutions" fit in the logic of natural states and elites? Or do they? 
+
