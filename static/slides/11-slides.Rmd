@@ -40,7 +40,7 @@ class: inverse, center, middle
 ### [Feudal Europe (c.400-c.1500)](#3)
 ### [Escape from Feudalism (c.??-c.1500)](#66)
 ### [Mercantilist Europe (c.1500-c.1800)](#111)
-### [The Transitions to Open Access Orders](#170)
+### [The Transitions to Open Access Orders](#171)
 
 ---
 
@@ -3351,6 +3351,32 @@ Adam Smith
 
 ---
 
+# Liberalism: Analytic Egalitarianism
+
+.pull-left[
+.center[
+![](https://www.dropbox.com/s/f2m8g8vc38n058c/classical.png?raw=1)
+]
+]
+
+.pull-right[
+- Classical economists were *analytic egalitarians*
+
+- People are naturally the same, nobody born with a silver spoon
+
+- Luck, education, and division of labor lead to differences in people as they specialize for labor markets
+
+- Counter to feudal and customary hierarchy of status or later Progressive turn to eugenics, racial superiority and inferiority of different races
+
+- Read "[How the Dismal Science Got its Name](http://www.econlib.org/library/Columns/LevyPeartdismal.html)"<sup>.red[1]</sup>
+
+.footnote[<sup>.red[1]</sup> It is far *darker* than you think!]
+
+
+]
+
+---
+
 class: inverse, center, middle
 
 # The Transitions to Open Access Orders
@@ -3784,9 +3810,6 @@ France during the Hundred Years War (1415)
 
 - Perhaps the richest region in Europe
   - The crown jewel of the Habsburg Spanish Empire
-
-- Almost no resources, poor agricultural land
-  - Grew wealthy from efficient economic organization and international trade
 ]
 
 .pull-right[
@@ -3796,4 +3819,652 @@ France during the Hundred Years War (1415)
 ]
 ]
 
-.footnote[<sup>.red[1]</sup> The latter few, the "Southern Netherlands" would remain loyal and eventually become Belgium and Luxembourg] 
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# The Netherlands II
+
+.pull-left[
+
+- Economic history of the Netherlands:
+
+- A small region with few resources and marginal land
+  - Mostly swampland, poor suitability for agriculture
+
+> "God created the earth, but the Dutch created the Netherlands"
+
+- Unprofitable agriculture for landowners, few vassals or serfs renting land
+
+- Reclaiming land, draining marshes, polders
+  - Very **capital-intensive** projects
+  - Require clear property rights, financial markets, secure returns to investment
+
+]
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/l6kc8od7be7rsbx/Netherlands-reclaimed-land.gif?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# The Netherlands III
+
+.pull-left[
+
+- Grew wealthy from efficient economic organization and international trade
+
+- Trading cities, entrepot trading hubs for Northern Europe
+  - Focus almost entirely on open international trade
+  - regional specialization in textile manufacturing and export
+
+- Becomes world renowned source of art, culture, science, innovation
+]
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/5u0vycuiog6ao51/amsterdamstockexchange.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# The Netherlands IV
+
+.pull-left[
+
+- Dutch East India Company (1602)
+  - openly tradeable shares of stock in company
+
+- Bank of Amsterdam (1609)
+  - world's first central bank
+
+- Amsterdam "price current" tracked market prices like financial newspaper
+
+- Efficient capital markets: stock exchange, short and long term debt and credit
+  - largely privately-organized
+
+]
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/64ipp9r62s9616l/pricescurrent.png?raw=1)
+
+]
+]
+
+.source[Stringham, Edward, (2003), "The Extralegal Development of Securities Trading in Seventeenth-Century Amsterdam," *Quarterly Review of Economics and Finance* 43: 321-344
+
+North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# The Netherlands V
+
+.pull-left[
+
+- (Northern) Netherlands are heavily Protestant
+
+- Oppression by Catholic Imperial Spain (Phillip II)
+  - arbitrary rules that intervene with trade
+  - heavy taxation
+  - considered the backwater of the Spanish Empire (despite being the wealthiest "colony")
+
+- 17 Provinces revolt under William of Orange (the Silent)
+  - Right painting: *Phillip II of Spain berating William the Silent Prince of Orange* by Cornelis Kruseman (1832)
+
+]
+
+.pull-right[
+.center[
+![:scale 75%](https://www.dropbox.com/s/qj7p5qop7994e1j/williamthesilent.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# The Netherlands V
+
+.pull-left[
+
+- Eighty Years War (1568-1648)
+
+- Provinces form the Union of Utrecht and declare independence as the Netherlands
+
+- Small country with *efficient credit markets* that can out-finance a war against the greatest Empire in the world
+
+- 1648 Peace of Munster (simultaneous with Peace of Westphalia) recognizes independent Netherlands
+
+- Southern providences (Catholic) don't join -- Belgium, Luxembourg
+
+- Become a dominant global power (gain colonies, dominate trade, etc) until Britain takes over
+]
+
+.pull-right[
+.center[
+![:scale 100%](https://www.dropbox.com/s/oh44tjnn81i4dsk/80yearswar.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# England I
+
+.pull-left[
+
+- Long history of struggles and warfare between nobility and a weak crown desperate for revenue
+
+- 1215/1225 Magna Carta
+
+- 1264-1267 Second Baron's War: Simon de Montfort's rebellion against Henry III establishes Parliament
+
+- Powerful kings (Edward I, Henry VII, Henry VIII) recognize they can get more of what they want if they ask nicely (via Parliament)
+
+- Parliament represents the lords (laity and clergy, all large landowners) and the commons (lesser gentry, towns)
+
+]
+
+.pull-right[
+.center[
+![:scale 100%](https://www.dropbox.com/s/sb38o49ib77rd4z/magnacartasign.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
+
+---
+
+# England I
+
+.pull-left[
+
+- Long history of struggles and warfare between nobility and a weak crown desperate for revenue
+
+- 1215/1225 Magna Carta
+
+- 1264-1267 Second Baron's War: Simon de Montfort's rebellion against Henry III establishes Parliament
+
+- Kings are forced to recognize rights and privileges of nobles
+  - trial by jury
+  - right of revolution?
+  - impartial justice
+  - consent for taxation
+
+]
+
+.pull-right[
+.center[
+![:scale 100%](https://www.dropbox.com/s/sb38o49ib77rd4z/magnacartasign.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England II
+
+.pull-left[
+
+- Constant pressure internally and externally, King desperate for revenues
+  - Hundred Years War vs. France (1337-1453)
+  - Wars of the Roses (1455-1487)
+  
+- Powerful kings (Edward I, Henry VII, Henry VIII) recognize they can get more of what they want if they ask nicely (via Parliament)
+
+- Parliament represents the lords (laity and clergy, all large landowners) and the commons (lesser gentry, towns)
+  - But constituencies are fixed for centuries
+  - No representation in towns where industrial revolution would occur!
+
+]
+
+.pull-right[
+.center[
+![:scale 100%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England II
+
+.pull-left[
+
+- The 17<sup>th</sup> century turning point
+
+- Growing merchant elite disgruntled with Stuart kings' monopolies, arbitrary justice, forced loans, restriction of speech
+
+- Parliament passes 1623 of Monopolies
+  - removes Crown's ability to grant *letters patent* to cronies
+  - *Parliament* gains authority to grant *limited* patents for *novel and non-obvious* inventions
+
+- View emerging among both nobles (Tories) and merchants (Whigs) that the Crown is not above the law
+]
+
+.pull-right[
+.center[
+![:scale 100%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England III
+
+.pull-left[
+
+- The 17<sup>th</sup> century turning point
+
+- Growing merchant elite disgruntled with Stuart kings' monopolies, arbitrary justice, forced loans, restriction of speech
+
+- Parliament passes 1623 of Monopolies
+  - removes Crown's ability to grant *letters patent* to cronies
+  - *Parliament* gains authority to grant *limited* patents for *novel and non-obvious* inventions
+
+- View emerging that the Crown must not be above the law
+]
+
+.pull-right[
+.center[
+![:scale 100%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England IV
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDsAn_u70tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# England V
+
+.pull-left[
+
+- Charles I's behavior pushes country into the English Civil War(s) (1642-1651)
+
+- Parliamentarians vs. Royalists
+  - most Parliamentarians are merchants and lesser gentry ("Whigs")
+    - also religious dissidents
+  - most Royalists are nobles and landowning aristocracy ("Tories")
+
+- Parliamentarians win, try and execute Charles I for high treason
+
+- Brief military theocratic dictatorship under Oliver Cromwell (1649-1660)
+
+- Restoration of the monarchy under King Charles II (1660+)
+
+]
+
+.pull-right[
+.center[
+The Trial of Charles Stuart, King of England
+
+![:scale 100%](https://www.dropbox.com/s/3d51811xoniiql5/trialofcharlesi.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England VI
+
+.pull-left[
+
+- Openly-Catholic James II comes to throne
+
+- Previous Stuart kings were smart enough to play factions off against one another
+
+- James II manages to anger *both* the Whigs and the Tories who unite against him
+
+]
+
+.pull-right[
+.center[
+James II of England
+
+![:scale 100%](https://www.dropbox.com/s/1jxnmmuuy6ipk9h/jamesii.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England VII
+
+.pull-left[
+
+- James II is ousted in a coup, the .shout["Glorious Revolution"] 1688-1689
+
+- Parliament makes a deal with William of Orange (Netherlands) to co-reign with Mary (Protestant daughter of James II)
+
+- Establishes .shout[Parliamentary sovereignty] and a **constitutionally-limited** monarchy
+  - credibly commits (from past actions) to oust the monarch if s/he acts without Parliament's consent
+  
+- English Bill of Rights 1689
+  - right of regular parliaments, free elections, freedom of speech, confirms habeaus corpus, taxation with consent
+  - again, these are rights *for Parliament, for the elite*
+
+]
+
+.pull-right[
+.center[
+William and Mary
+
+![:scale 100%](https://www.dropbox.com/s/92z4fp8fgyira4r/williamandmary.jpg?raw=1)
+
+]
+]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+
+# England VIII
+
+.pull-left[
+
+- Major effects of the Glorious Revolution
+  - Parliament made a perpetual organization and source of lawmaking and taxation power
+
+- Credible commitment: Parliament can commit to always pay State debts via taxes
+  - No more arbitrary will of the Crown
+  - Credit to England goes from 5% of GDP to 40% of GDP
+  - Interest rates plummet
+
+- Creates an *enormous* rise in State capacity and tax revenue as a percent of GDP compared to anywhere in the world
+
+]
+
+.pull-right[
+.center[
+William and Mary
+
+![:scale 100%](https://www.dropbox.com/s/92z4fp8fgyira4r/williamandmary.jpg?raw=1)
+
+]
+]
+
+.source[North, Douglass C and Barry R Weingast, (1989), "Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England," *Journal of Economic History* 49(4): 803-832]
+
+---
+
+# England IX
+
+.pull-left[
+
+- Liberal attitudes forged in the 17<sup>th</sup> Century turmoil and oppression
+  - freedom of speech, press, trial by jury, habeas corpus
+
+- The "English Constitution" creates a government to protect rights
+
+- England is not yet an open access order!
+
+- Act of Settlement 1701: personal union with Scotland, becomes United Kingdom of Great Britain
+]
+
+.pull-right[
+.center[
+A meeting of the anti-slavery society
+
+![:scale 100%](https://www.dropbox.com/s/p63ax1948qqiy5k/antislaverysociety.jpg?raw=1)
+
+]
+]
+
+.source[North, Douglass C and Barry R Weingast, (1989), "Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England," *Journal of Economic History* 49(4): 803-832]
+
+---
+
+# Britain I
+
+.pull-left[
+
+- Parliament had elections, but not competitive, full of "rotten boroughs"
+
+- 1760s-1850s: Industrial Revolution taking off in Manchester, Liverpool, Lancaster
+  - but these places are not represented in Parliament!
+  - still dominated by large landowners
+
+- 1832 Great Reform Act
+  - Seats of rotten boroughs redistributed to new commercial cities
+  - Began registration of voters and extending the franchise
+
+]
+
+.pull-right[
+.center[
+House of Commons during Great Reform Act
+
+![:scale 100%](https://www.dropbox.com/s/oxkgzlvr08lhjr1/houseofcommons1833.jpg?raw=1)
+
+]
+]
+
+---
+
+# Britain II
+
+.pull-left[
+
+- Great Reform Acts were in the interest of intra-elite bargaining amidst a natural state
+
+- Elite continues to expand definition of who counts as elite and deserving of rights
+
+- Unintended consequences:
+  - leads to competitive elections, mass political parties, participatory democracy
+  - Selectorate (and winning coalition) expands: need more public goods and less private rents for political support!
+
+- Slavery Abolition Act (1833)
+
+- Further Reform Acts in 1867, 1884, 1918, 1928
+  - extend franchise to working class, counties (instead of just towns), all men, then all women
+
+]
+
+.pull-right[
+.center[
+House of Commons during Great Reform Act
+
+![:scale 100%](https://www.dropbox.com/s/oxkgzlvr08lhjr1/houseofcommons1833.jpg?raw=1)
+
+]
+]
+
+---
+
+# Britain III
+
+.pull-left[
+
+- The .onfire[Corn Laws] were tariffs to prevent importation of "corn" (grains)
+  - rising population in Britain, once a grain-exporter, now an importer
+  - tariffs create enormous benefit by propping up aristocratic landowners
+
+
+]
+
+.pull-right[
+.center[
+House of Commons during Great Reform Act
+
+![:scale 80%](https://www.dropbox.com/s/if5g5gq9owoyclo/cornlaws.png?raw=1)
+
+]
+]
+
+---
+
+# Britain IV
+
+.pull-left[
+
+- Corn Laws became a huge political issue in England in 1830s-1840s
+
+- Industralization, rising population, but rising price of bread
+
+- Great Famine in Ireland 1845-1849
+
+- Radical liberals Richard Cobden & John Bright create the *Anti-Corn Law League* 1838
+  - large rallies, major riots in London
+  - Classical economiests (especially Ricardo and Bastiat) wrote vehemently against Corn Laws
+
+]
+
+.pull-right[
+.center[
+A Meeting of the Anti-Corn Law League
+
+![:scale 80%](https://www.dropbox.com/s/l9weinfuyyhz00z/anticornlawleague.png?raw=1)
+
+]
+]
+
+---
+
+# Britain V
+
+.left-column[
+.center[
+![](https://www.dropbox.com/s/eabplbtdw9d1l46/cobden.jpg?raw=1)
+
+Richard Cobden
+
+1804-1865
+
+]
+
+]
+
+.right-column[
+
+> "[Repealing the Corn laws would solve four problems.] First, it would guarantee the prosperity of the manufacturer by affording him outlets for his products. Second, it would relieve the Condition of England question by cheapening the price of food and ensuring more regular employment. Third, it would make English agriculture more efficient by stimulating demand for its products in urban and industrial areas. Fourth, it would introduce through mutually advantageous international trade a new era of international fellowship and peace. The only barrier to these four beneficent solutions was the ignorant self-interest of the landlords, the "bread-taxing oligarchy, unprincipled, unfeeling, rapacious and plundering."
+
+]
+
+---
+
+# Britain VI
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/rvd47135fo8j5x4/peel2.jpg?raw=1)
+
+Robert Peel
+
+1788-1850
+
+]
+
+]
+
+.right-column[
+
+- Tory Robert Peel becomes P.M. 1841-1846
+
+- Repeals the Corn Laws in 1846
+  - ruins his political career
+  - splits the Tory Party into the Whigs; radicals leave and become the Liberal Party
+
+- Price of corn plummets
+  - working classes can now afford food, more shift from farms to factories
+  - last vestiges of feudal privileges eroding
+  - transition to Open Access Order
+]
+
+---
+
+# Britain VI
+
+.left-column[
+.center[
+![:scale 100%](https://www.dropbox.com/s/3pxhkd7i42ewnur/meinfrontofpeel.jpg?raw=1)
+
+]
+
+]
+
+.right-column[
+
+- Tory Robert Peel becomes P.M. 1841-1846
+
+- Repeals the Corn Laws in 1846
+  - ruins his political career
+  - splits the Tory Party into the Whigs; radicals leave and become the Liberal Party
+
+- Price of corn plummets
+  - working classes can now afford food, more shift from farms to factories
+  - last vestiges of feudal privileges eroding
+  - transition to Open Access Order
+]
+
+---
+
+# Open Access Order
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/w5ecx0628ihm9n2/smith.png?raw=1)
+
+Adam Smith
+
+1723-1790
+]
+]
+
+.right-column[
+
+> "All systems either of preference or of restraint, therefore, being thus completely taken away, the obvious and simple system of natural liberty establishes itself of its own accord. Every man, as long as he does not violate the laws of justice, is left perfectly free to pursue his own interest his own way, and to bring both his industry and capital into competition with those of any other man, or order of men ... According to the system of natural liberty, the sovereign has only three duties to attend to ... first, the duty of protecting the society from violence and invasion of other independent societies; secondly ... the duty of establishing an exact administration of justice}}; and, thirdly, the duty of erecting and maintaining certain public works and certain public institutions..." (Book IV, Chapter 9).
+
+]
+
+.source[Smith, Adam, 1776, [*An Enquiry into the Nature and Causes of the Wealth of Nations*](https://www.econlib.org/library/Smith/smWN.html)]
+
+---
+
+# Open Access Order
+
+.left-column[
+.center[
+![:scale 100%](https://www.dropbox.com/s/spz0imz48rw5fks/meinfrontofsmith.jpg?raw=1)
+
+]
+]
+
+.right-column[
+
+> "All systems either of preference or of restraint, therefore, being thus completely taken away, the obvious and simple system of natural liberty establishes itself of its own accord. Every man, as long as he does not violate the laws of justice, is left perfectly free to pursue his own interest his own way, and to bring both his industry and capital into competition with those of any other man, or order of men ... According to the system of natural liberty, the sovereign has only three duties to attend to ... first, the duty of protecting the society from violence and invasion of other independent societies; secondly ... the duty of establishing an exact administration of justice}}; and, thirdly, the duty of erecting and maintaining certain public works and certain public institutions..." (Book IV, Chapter 9).
+
+]
+
+.source[Smith, Adam, 1776, [*An Enquiry into the Nature and Causes of the Wealth of Nations*](https://www.econlib.org/library/Smith/smWN.html)]

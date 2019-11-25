@@ -9,8 +9,14 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 - <i class="fas fa-book"></i>Chapters 4, 7 in @Acemoglu2008
 
-# Primary Sources (and Book Recommendations)
+# Recommended
 
+- [<i class="fas fa-external-link-square-alt"></i> Levy and Pert, "How the Dismal Science Got its Name"](http://www.econlib.org/library/Columns/LevyPeartdismal.html)
+
+
+# Primary Sources
+
+- [<i class="fas fa-file-pdf"></i> North and Weingast (1989), "Constitutions and Commitment: The Evolution of Institutional Governing Public Choice in Seventeenth-Century England"](/readings/North-Weingast-1989.pdf)
 - [<i class="fas fa-file-pdf"></i> Weingast (2017), "Adam Smith's Theory of Violence and the Political-Economics of Development"](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2016/01/Weingast.ASM_.NBER-ver-4.00__17.0116.pdf)
 - [<i class="fas fa-file-pdf"></i> Ko, Koyama, and Sng (2017), "Unified China and Divided Europe"](/readings/Ko-Koyama-Sng-2017.pdf)
 - [<i class="fas fa-file-pdf"></i> Koyama and Johnson (2016), "States and Economic Growth: Capacity and Constraints"](/readings/Koyama-Johnson-2016.pdf)
@@ -45,5 +51,6 @@ How well do Olson and Weingast's models fit feudalism, and what will come after 
 - In what ways are today's developing countries mercantilist? In what ways are they NWW's natural states? 
 - Adam Smith, Bastiat, and the Classical Economists ridiculed Mercantilism to a pulp, such that no serious economist today supports mercantilist ideas about trade. But how should we view Mercantilism in the context of its time?
 - Ending mercantilism is simple, in theory - get rid of trade barriers, monopoly privileges, and other restrictions. Why is it so hard? And in particular, should we encourage developing countries to do this?
-- How does the American Revolution, Constitutional Convention, and other "democratic popular revolutions" fit in the logic of natural states and elites? Or do they? 
+- How does the American Revolution, Constitutional Convention, and other "democratic popular revolutions" fit in the logic of natural states and elites? Or do they?
+- Now that we've explored geography and institutions more, does geography affect development, perhaps *through* institutions? Consider Acemoglu and Robinson's arguments about the different types of colonies - was that choice affected by geography?
 
