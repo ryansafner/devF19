@@ -3594,9 +3594,9 @@ class: inverse, center, middle
   - free from threat of arbitrary military attack, harassment by the State
   - only then does it make sense for them to disarm their private armies
 
-- Elites must have access to forming organizations to specialize in non-military production (e.g. trade, business)
+- Elites need access to form orgs to specialize in non-military production (e.g. trade, business)
 
-- State and military need to be perpetual organizations separate from the personality of whomever is currently in charge
+- State & military as perpetual organizations separate from personality of whomever is in charge
 
 - Decisions about how to use military (funding, objectives, etc) decided *outside* of the military ("civilian control")
   - military specializes in tactics and execution of civilian-determined goals
@@ -3627,8 +3627,6 @@ class: inverse, center, middle
 ![](https://www.dropbox.com/s/i6cpxnky275sguu/industrialrevolution.png?raw=1)
 ]
 ]
-
-.footnote[<sup>.red[1]</sup> *England* until the *Acts of Union* with Scotland in 1701.]
 
 ---
 
@@ -3741,7 +3739,9 @@ France during the Hundred Years War (1415)
 
 - Ironically, Napoleonic conquest overthrew feudalism and rent-seeking lords in conquered territories - had long lasting good effects in these countries!
   - Institutional reform and change towards more inclusive institutions
-  
+
+.source[Acemoglu, Daron, David Cantoni, Simon Johnson, and James A Robinson, 2011, "The Consequences of Radical Reform:  The French Revolution," *American Economic Review* 101: 3286-3307]
+
 ]
 
 .pull-right[
@@ -3751,7 +3751,6 @@ France during the Hundred Years War (1415)
 ]
 ]
 
-.source[Acemoglu, Daron, David Cantoni, Simon Johnson, and James A Robinson, 2011, "The Consequences of Radical Reform:  The French Revolution," *American Economic Review* 101: 3286-3307]
 
 ---
 
@@ -3773,6 +3772,9 @@ France during the Hundred Years War (1415)
 
 ]
 ]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 10]
+
 
 ---
 
@@ -3798,6 +3800,8 @@ France during the Hundred Years War (1415)
 
 ]
 ]
+
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 110]
 
 ---
 
@@ -3838,7 +3842,7 @@ France during the Hundred Years War (1415)
 
 - Reclaiming land, draining marshes, polders
   - Very **capital-intensive** projects
-  - Require clear property rights, financial markets, secure returns to investment
+  - Require **secure property rights**, **financial markets**, secure returns to investment
 
 ]
 
@@ -3857,7 +3861,7 @@ France during the Hundred Years War (1415)
 
 .pull-left[
 
-- Grew wealthy from efficient economic organization and international trade
+- Grew wealthy from efficient **economic organization** and **international trade**
 
 - Trading cities, entrepot trading hubs for Northern Europe
   - Focus almost entirely on open international trade
@@ -3911,14 +3915,14 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 
 .pull-left[
 
-- (Northern) Netherlands are heavily Protestant
+- (Northern) Netherlands are heavily **Protestant**
 
 - Oppression by Catholic Imperial Spain (Phillip II)
   - arbitrary rules that intervene with trade
   - heavy taxation
   - considered the backwater of the Spanish Empire (despite being the wealthiest "colony")
 
-- 17 Provinces revolt under William of Orange (the Silent)
+- 17 Provinces .shout[revolt] under William of Orange (the Silent)
   - Right painting: *Phillip II of Spain berating William the Silent Prince of Orange* by Cornelis Kruseman (1832)
 
 ]
@@ -3938,9 +3942,9 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 
 .pull-left[
 
-- Eighty Years War (1568-1648)
+- **Eighty Years War (1568-1648)**
 
-- Provinces form the Union of Utrecht and declare independence as the Netherlands
+- Provinces form the Union of Utrecht and declare **independence** as the *Netherlands*
 
 - Small country with *efficient credit markets* that can out-finance a war against the greatest Empire in the world
 
@@ -3968,36 +3972,9 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 
 - Long history of struggles and warfare between nobility and a weak crown desperate for revenue
 
-- 1215/1225 Magna Carta
+- 1215/1225 **Magna Carta**
 
-- 1264-1267 Second Baron's War: Simon de Montfort's rebellion against Henry III establishes Parliament
-
-- Powerful kings (Edward I, Henry VII, Henry VIII) recognize they can get more of what they want if they ask nicely (via Parliament)
-
-- Parliament represents the lords (laity and clergy, all large landowners) and the commons (lesser gentry, towns)
-
-]
-
-.pull-right[
-.center[
-![:scale 100%](https://www.dropbox.com/s/sb38o49ib77rd4z/magnacartasign.jpg?raw=1)
-
-]
-]
-
-.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
-
----
-
-# England I
-
-.pull-left[
-
-- Long history of struggles and warfare between nobility and a weak crown desperate for revenue
-
-- 1215/1225 Magna Carta
-
-- 1264-1267 Second Baron's War: Simon de Montfort's rebellion against Henry III establishes Parliament
+- 1264-1267 Second Baron's War: Simon de Montfort's rebellion against Henry III establishes .shout[Parliament]
 
 - Kings are forced to recognize rights and privileges of nobles
   - trial by jury
@@ -4014,7 +3991,7 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 ]
 ]
 
-.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 11]
 
 ---
 
@@ -4036,33 +4013,7 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 
 .pull-right[
 .center[
-![:scale 100%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
-
-]
-]
-
-.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
-
----
-
-# England II
-
-.pull-left[
-
-- The 17<sup>th</sup> century turning point
-
-- Growing merchant elite disgruntled with Stuart kings' monopolies, arbitrary justice, forced loans, restriction of speech
-
-- Parliament passes 1623 of Monopolies
-  - removes Crown's ability to grant *letters patent* to cronies
-  - *Parliament* gains authority to grant *limited* patents for *novel and non-obvious* inventions
-
-- View emerging among both nobles (Tories) and merchants (Whigs) that the Crown is not above the law
-]
-
-.pull-right[
-.center[
-![:scale 100%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
+![:scale 75%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
 
 ]
 ]
@@ -4083,12 +4034,12 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
   - removes Crown's ability to grant *letters patent* to cronies
   - *Parliament* gains authority to grant *limited* patents for *novel and non-obvious* inventions
 
-- View emerging that the Crown must not be above the law
+- View emerging among both nobles (Tories) and merchants (Whigs) that .onfire[the Crown is not above the law]
 ]
 
 .pull-right[
 .center[
-![:scale 100%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
+![:scale 75%](https://www.dropbox.com/s/dc3xb7ehogw43xd/courtenglish.jpg?raw=1)
 
 ]
 ]
@@ -4099,7 +4050,10 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 
 # England IV
 
+.center[
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wDsAn_u70tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+King Charles storms the House of Commons (Jan 4, 1642) in *Cromwell* (1970)]
 
 ---
 
@@ -4116,7 +4070,7 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 
 - Parliamentarians win, try and execute Charles I for high treason
 
-- Brief military theocratic dictatorship under Oliver Cromwell (1649-1660)
+- Brief dictatorship under Oliver Cromwell (1649-1660)
 
 - Restoration of the monarchy under King Charles II (1660+)
 
@@ -4126,7 +4080,7 @@ North and Thomas, (1986), *The Rise of the Western World: A New Economic History
 .center[
 The Trial of Charles Stuart, King of England
 
-![:scale 100%](https://www.dropbox.com/s/3d51811xoniiql5/trialofcharlesi.jpg?raw=1)
+![:scale 70%](https://www.dropbox.com/s/3d51811xoniiql5/trialofcharlesi.jpg?raw=1)
 
 ]
 ]
@@ -4151,7 +4105,7 @@ The Trial of Charles Stuart, King of England
 .center[
 James II of England
 
-![:scale 100%](https://www.dropbox.com/s/1jxnmmuuy6ipk9h/jamesii.jpg?raw=1)
+![:scale 75%](https://www.dropbox.com/s/1jxnmmuuy6ipk9h/jamesii.jpg?raw=1)
 
 ]
 ]
@@ -4194,6 +4148,27 @@ William and Mary
 
 .pull-left[
 
+- English Bill of Rights 1689
+  - right of regular parliaments, free elections, freedom of speech, confirms habeaus corpus, taxation with consent
+  - again, these are rights *for Parliament, for the elite*
+
+]
+
+.pull-right[
+.center[
+William and Mary
+
+![:scale 100%](https://www.dropbox.com/s/92z4fp8fgyira4r/williamandmary.jpg?raw=1)
+
+]
+]
+.source[North and Thomas, (1986), *The Rise of the Western World: A New Economic History, Ch. 12]
+
+---
+# England IX
+
+.pull-left[
+
 - Major effects of the Glorious Revolution
   - Parliament made a perpetual organization and source of lawmaking and taxation power
 
@@ -4219,7 +4194,7 @@ William and Mary
 
 ---
 
-# England IX
+# England X
 
 .pull-left[
 
@@ -4316,7 +4291,6 @@ House of Commons during Great Reform Act
 
 .pull-right[
 .center[
-House of Commons during Great Reform Act
 
 ![:scale 80%](https://www.dropbox.com/s/if5g5gq9owoyclo/cornlaws.png?raw=1)
 
@@ -4463,7 +4437,7 @@ Adam Smith
 
 .right-column[
 
-> "All systems either of preference or of restraint, therefore, being thus completely taken away, the obvious and simple system of natural liberty establishes itself of its own accord. Every man, as long as he does not violate the laws of justice, is left perfectly free to pursue his own interest his own way, and to bring both his industry and capital into competition with those of any other man, or order of men ... According to the system of natural liberty, the sovereign has only three duties to attend to ... first, the duty of protecting the society from violence and invasion of other independent societies; secondly ... the duty of establishing an exact administration of justice}}; and, thirdly, the duty of erecting and maintaining certain public works and certain public institutions..." (Book IV, Chapter 9).
+> "All systems either of preference or of restraint, therefore, being thus completely taken away, **the obvious and simple system of natural liberty** establishes itself of its own accord. **Every man, as long as he does not violate the laws of justice, is left perfectly free to pursue his own interest his own way, and to bring both his industry and capital into competition with those of any other man,** or order of men ... According to the system of natural liberty, **the sovereign has only three duties** to attend to ... **first, the duty of protecting the society from violence and invasion** of other independent societies; **secondly** ... **the duty of establishing an exact administration of justice**; and, **thirdly**, the **duty of erecting and maintaining certain public works and certain public institutions**..." (Book IV, Chapter 9).
 
 ]
 
