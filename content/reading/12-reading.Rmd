@@ -1,0 +1,50 @@
+---
+title: "12. Russia and the Post-Communist Transition - Readings"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+We wrap up with a look at the economic histories of Russia, the Soviet Union, and the transition from Communism in former Soviet countries. Certainly this is a big topic that would require more time and readings to do it justice, but I have found a few that will provide a good summary. We want to focus on two major questions:
+
+1. How did the economy actually work under Soviet Socialism?
+2. What happened in the transition from Communism towards liberal democracy after the fall of the Soviet Union? What went right, and what went wrong?
+
+# Required Readings:
+
+- <i class="fas fa-book"></i>Chapter 5 (pp. 124-132) in @Acemoglu2008
+- [<i class="fas fa-file-pdf"></i> Boettke (2001), Ch. 8 "Soviet Venality: a Rent-Seeking Model of the Communist State"](/readings/Boettke-2001-Ch-7.pdf)
+- <i class="fas fa-chalkboard-teacher"></i> Re-skim Lesson 3 [Slides 28-78](https://devf19.classes.ryansafner.com/slides/03-slides#28)
+- [<i class="fab fa-youtube"></i> Complete History Of The Soviet Union, Arranged To The Melody Of Tetris](https://www.youtube.com/watch?v=hWTFG3J1CP8)
+
+Acemoglu and Robinson do a good job describing the economics of the Soviet Union under "central planning" in their chapter. You do not need to read the entire chapter, only pages 124-132 (as they look at other countries over the rest of the chapter).
+
+Boettke is one of the great Soviet economic historians and I had the privilege to take his class while in graduate school. I recommend his entire book (two other chapters are posted in the recommended readings below) on the economics of the Soviet Union and transitions from communism, but this chapter focuses on how the Soviet economy actually worked under central planning (it was *far* from the textbook picture of a centrally-planned economy, and fits in perfectly with our understanding of limited access orders).
+
+It may also help to jog your memory by looking over the slides from Lesson 3 on the Socialist Calculation Debate, particularly how Marx viewed the process of development, and the early Russian socialist writings (Lenin, Trotsky, Bukharin, etc) about how a socialist economy would/could/should work.
+
+Finally, you'll get some surprisingly good context for the trajectory of Russian history with the amusing YouTube video.
+
+# Recommended
+
+- [<i class="fas fa-file-pdf"></i> Shleifer and Treisman (2004), "A Normal Country"](/readings/Shleifer-Treisman-2004.pdf)
+- [<i class="fas fa-file-pdf"></i> Boettke (2001), Chs. 6-7 "The Soviet Experiment with Pure Communism" and "The Political Economy of Utopia: Communism in Soviet Russia, 1918-1921"](/readings/Boettke-2001-Chs-6-7.pdf)
+- [<i class="fab fa-youtube"></i> "What if There Were No Prices?"](https://www.youtube.com/watch?v=zkPGfTEZ_r4)
+- [<i class="fab fa-youtube"></i> "Mises vs. Marx: The March of History Rap Battle"](https://misesvsmarx.aier.org)
+
+# Primary Sources
+
+
+# Questions to Read For:
+
+- Is socialism as a viable political and economic system "disproven?"
+
+- If socialism is inefficient, impossible, or has poor incentives, how did socialism and central planning under the USSR last so long? Or was it really socialism and central planning?
+
+- We saw how Mises argued in *Economic Calculation in the Socialist Commonwealth* (in 1920) that "Every step that takes us away from private ownership of the means of production and from the use of money also takes us away from rational economics." While there are no serious attempts at socialist societies anymore, and all societies are some variant of capitalism, democracy, and/or a mixed economy, does Mises' quote (and broader claim) still have relevance today?
+
+- Given its history, why do people still advocate for socialism today? Is it the same kind socialism as the Soviet experience, or Marx envisioned?
+
+- Mises argued in 1920 that rational economic calculation in a socialist commonwealth is impossible (Recall Lesson 3!). The Soviet Union lasted for about 70 years (1921-1991). Was Mises wrong? Or was Soviet socialism not a true socialist commonwealth? How did the economy and central planning actually work?
+
+- What do you think went right, and what went wrong, in the transition from Communism in Eastern Europe and Russia, towards liberal democracy and markets? Was what happened destined to happen?

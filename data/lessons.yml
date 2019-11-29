@@ -71,7 +71,10 @@ lessons:
     class: "11-class"
     slides: "11-slides"
     
-  - title: '12 Russia and Post-Communist Development'
+  - title: '12 Russia and the Post-Communist Transition'
+    reading: "12-reading"
+    class: "12-class"
+    slides: "12-slides"
 
   - title: '13 State Capitalism: East Asian Style'
 
