@@ -38,8 +38,8 @@ update_geom_defaults("label", list(family = "Fira Sans Condensed"))
 class: inverse, center, middle
 
 ### [A History of Russia and the Soviet Union (1900-1991)](#4)
-### [How Did Soviet "Central Planning" Work?](#39)
-### [The Troubled Transition from Communism](#111)
+### [How Did Soviet "Central Planning" Work?](#40)
+### [The Troubled Transition from Communism](#)
 
 ---
 
@@ -94,9 +94,11 @@ Source: Acemoglu and Robinson (2012: 109).
 
 .left-column[
 .center[
-![:scale 80%](https://www.dropbox.com/s/6wbf2i2bk88pabs/Gapon_crowd_1905.jpg?raw=1)
+![:scale 80%](https://www.dropbox.com/s/fbv689295o5k7wr/czarnicholasii.jpg?raw=1)
 
-Protestors facing soldiers at the Narva Gate, St. Petersburg
+Czar Nicholas II
+
+1868-1917
 ]
 ]
 
@@ -110,6 +112,22 @@ Protestors facing soldiers at the Narva Gate, St. Petersburg
   - Marxian dialectic: must pass through capitalism first!
   - No bourgeoisie or middle class!
 
+]
+
+---
+
+# Czarist Russia IV
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/6wbf2i2bk88pabs/Gapon_crowd_1905.jpg?raw=1)
+
+Protestors facing soldiers at the Narva Gate, St. Petersburg
+]
+]
+
+.right-column[
+
 - Russian Revolution of 1905
   - Lenin: "the great dress rehearsal" for 1917 revolution
   - Uprising of peasants, worker strikes, military mutinies
@@ -119,7 +137,7 @@ Protestors facing soldiers at the Narva Gate, St. Petersburg
 
 ---
 
-# Czarist Russia IV
+# Czarist Russia V
 
 .pull-left[
 .center[
@@ -144,7 +162,7 @@ Czar Nicholas II addresses the Duma
 
 ---
 
-# Czarist Russia V
+# Czarist Russia VI
 
 .pull-left[
 .center[
@@ -164,7 +182,7 @@ Czar Nicholas II addresses the Duma
 
 ---
 
-# Czarist Russia VI
+# Czarist Russia VII
 
 .pull-left[
 .center[
@@ -236,7 +254,7 @@ The Provisional Government
 - .onfire[Mensheviks]: *urban* socialists
   - supporters of the Provisional Government (a step towards Communism)
   - a **majority** of socialists
-  - wanted a larger scale, working class, democratic, and more gradual "revolution"
+  - wanted larger scale, working class, democratic, more gradual "revolution"
 
 ]
 
@@ -305,7 +323,7 @@ Aleksandr Kerensky
 
 .pull-right[
 
-- Most communities and urban centers were creating their own workers *soviets* (councils)
+- Most communities and urban centers were creating their own workers **soviets** (councils)
   - Provisional Government encouraged "bottom-up" rule
   - controlled their own militias
   - constant criticism and tension with Provisional Government
@@ -370,7 +388,7 @@ Aleksandr Kerensky
 
 .pull-left[
 .center[
-![:scale 80%](https://www.dropbox.com/s/pceweuk3lkv2juz/sovietpolicies.png?raw=1)
+![:scale 75%](https://www.dropbox.com/s/pceweuk3lkv2juz/sovietpolicies.png?raw=1)
 
 Boettke (2001: 129)
 ]
@@ -970,7 +988,7 @@ class: inverse, center, middle
 - Soviets could have world-leading heavy industry, military, and space programs
 
 - Massive gains in industrial output and "economic growth" by coercively militarizing labor, forced savings, and creating capital
-  - inefficient agriculture
+  - brought out of inefficient feudal agriculture
 
 ]
 
@@ -980,7 +998,7 @@ class: inverse, center, middle
 
 .pull-left[
 .center[
-![:scale 65%](https://www.dropbox.com/s/mn8dyk57terjyru/sovietbreadline.png?raw=1)
+![:scale 100%](https://www.dropbox.com/s/mn8dyk57terjyru/sovietbreadline.png?raw=1)
 ]
 ]
 
@@ -1122,22 +1140,6 @@ Peter Boettke
 > "A whole set of laws created criminal offenses for workers that were perceived to be shirking...[A] law made absenteeism, defined as twenty minutes unauthorized absence or even idling on the job, a criminal offense that could be punished by six months' hard labor...between 1940 and 1955, 36 million people, about one-third of the adult population, were found guilty of such offenses. Of these, 15 million were sent to prison, and 25,000 were shot. In any year, there would be 1 million adults in prison for labor violations; this is not to mention the 2.5 million people Stalin exiled to the gulags of Siberia," (p.131).
 
 > "As for Gosplan, its main role was to provide Stalin with information so he could better monitor his friends and enemies. It actually tried to avoid making decisions. If you made a decision that turned out badly, you might get shot. Better to avoid all responsibility," (Acemoglu and Robinson 2011: 129).
-
-]
-
----
-
-# Bad Incentives IV
-
-.pull-left[
-
-]
-
-.pull-right[
-
-> Soviet Joke: 
-
-> 
 
 ]
 
@@ -1491,6 +1493,4 @@ Levy, David, 1990, "The Bias in Centrally Planned Prices," *Public Choice* 63(3)
 class: inverse, center, middle
 
 # The Troubled Transition from Communism
-
----
 
