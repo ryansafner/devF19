@@ -10,7 +10,7 @@ library(pander)
 source(file.path(here::here(), "lib", "graphics.R"))
 ```
 
-- *Due last day of class*
+- *Due last day of class: Monday December 9*
 
 # Overview 
 
@@ -22,7 +22,7 @@ The following countries all have a GDP/capita of less than $20,000 USD, and are 
 
 Please **email me** with the country you would like to choose. I will remove countries from this list in the order that I recieve emails claiming them. You may decide to change your country at any time, at which point, I will re-release the country into the pool for others to select, and update the list below:
 
-**Last Update: 10:30 AM Sunday Nov 17**
+**Last Update: 7:30 PM Saturday Nov 30**
 
 - Iran
 - Turkmenistan
@@ -129,7 +129,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Afghanistan
 - Burkina Faso
 - Guinea-Bissau
-- Haiti
+- **Haiti (CLAIMED)**
 - Togo
 - Eritrea
 - Comoros

@@ -34,6 +34,11 @@ Finally, you'll get some surprisingly good context for the trajectory of Russian
 
 # Primary Sources
 
+- [<i class="fas fa-file-pdf"></i> Roberts (1970), "War Communism: A Reexamination"](/readings/Roberts-1970.pdf)
+- [<i class="fas fa-file-pdf"></i> Levy (1990), "The Bias in Centrally Planned Prices"](/readings/Levy-1990.pdf)
+- [<i class="fas fa-file-pdf"></i> Gregory and Harrison (2005), "Allocation under Dictatorship: Research in Stalin's Archives"](/readings/Levy-1990.pdf)
+- [<i class="fas fa-file-pdf"></i> Gregory, Shroder, and Sonin (2011), "Rational Dictators and the Killing of Innocents: Data from Stalin's Archives"](/readings/Levy-1990.pdf)
+
 
 # Questions to Read For:
 
