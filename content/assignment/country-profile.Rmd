@@ -211,6 +211,10 @@ At the end, include a short bibliography of the sources which you used to compil
 
 # Presentation
 
+- [<i class="fas fa-file-powerpoint"></i> Example Powerpoint](/profile/usa_example.pptx)
+- [<i class="fab fa-markdown"></i>Using R to Download World Bank Data (rmd)](/profile/usa_country_profile_data.Rmd)
+- [<i class="fab fa-markdown"></i>Using R to Download World Bank Data (html)](/profile/usa_country_profile_data.html)
+
 On the last week of class, each student will have 5 minutes to present their country. I expect each of you to have slides to describe your country. The goal is for you to immerse yourself a bit in your selected country, and to give us all a sense of what it is like to live in that country, and how it fits in the world in terms of economic development. Your presentation should include:
 
 1. Some At a Glance statistics from above

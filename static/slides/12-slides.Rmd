@@ -39,7 +39,7 @@ class: inverse, center, middle
 
 ### [A History of Russia and the Soviet Union (1900-1991)](#4)
 ### [How Did Soviet "Central Planning" Work?](#40)
-### [The Troubled Transition from Communism](#)
+### [The Troubled Transition from Communism](#63)
 
 ---
 
@@ -1428,7 +1428,7 @@ A typical grocery store in Vilnius, Soviet-controlled Lithuania, 1990
 
 # Economics of a Shortage Society V
 
-> "[G]oods shortages became endemic in the Soviet economy...A worker from the Urals wrote that to get bread in his town you had to stand in line from 1 or 2 o'clock at night, sometimes earlier, and wait for almost 12 hours...Bread was not the only thing in short supply. The situation was no better with other basic foodstuffs like meat, milk, butter, and vegetables, not to mention necessities like salt, soap, kerosene, and matches. Fish disappeared too, even from regions with substantial fishing industries...Clothing, shoes, and all kinds of consumer goods were in even shorter supply than basic foodstuffs, often being completely unobtainable...Meanwhile, people lived in communal apartmnets, usually one family to a room...even the best connections and official status often failed to secure a separate apartment.
+> "[G]oods shortages became endemic in the Soviet economy...A worker from the Urals wrote that to get bread in his town you had to stand in line from 1 or 2 o'clock at night, sometimes earlier, and wait for almost 12 hours...Bread was not the only thing in short supply. The situation was no better with other basic foodstuffs like meat, milk, butter, and vegetables, not to mention necessities like salt, soap, kerosene, and matches. Fish disappeared too, even from regions with substantial fishing industries...Clothing, shoes, and all kinds of consumer goods were in even shorter supply than basic foodstuffs, often being completely unobtainable...Meanwhile, people lived in communal apartments, usually one family to a room...even the best connections and official status often failed to secure a separate apartment.
 
 .source[Fitzpatrick, Sheila, (1999), *Everyday Stalinism*, pp.42-7]
 
@@ -1438,7 +1438,7 @@ A typical grocery store in Vilnius, Soviet-controlled Lithuania, 1990
 
 > "The list of scarce items is practically endless. They are not permanently out of stock, but their appearance is unpredictable...Leningrad can be overstocked with cross-country skis and yet go several months without soap for washing dishes. In the Armenian capital of Yerevan, I found an ample supply of accordians but local people complained that they had gone for weeks without ordinary kitchen spoons or tea samovars. I knew a Moscow family that spent a frantic month hunting for a child's potty while radios were a glut on the market..."
 
-> "In an economy of chronic shortages and carefully parceled-out privileges, **blat** is an essential lubricant of life. The more rank and power one has, the more \emph{blat} one normally has...each has access to things or services that are hard to get and that other people want or need."
+> "In an economy of chronic shortages and carefully parceled-out privileges, **blat** is an essential lubricant of life. The more rank and power one has, the more *blat* one normally has...each has access to things or services that are hard to get and that other people want or need."
 
 .source[Smith, Hedrick, (1976). Consumers: The Art of Queuing, in *The Russians*]
 
@@ -1456,11 +1456,16 @@ A typical grocery store in Vilnius, Soviet-controlled Lithuania, 1990
 
 .pull-right[
 
-- Not in the interest of shopkeepers or Soviet officials to allow market clearing prices!
+- Not in the interest of shopkeepers or Soviet officials to allow (higher) market clearing prices!
 
-- Setting prices low to shortage levels $\bar{P}$ creates a *de facto* property right to allocate scarce desired goods
+- Setting prices low to shortage levels $\bar{P}$ creates a **_de facto_ property right** to allocate scarce desired goods
+  - Have *control rights*: can exclude others' access
+  - Don't have *cash flow rights*: not officially-protected ability to sell or exchange for value
 
-- Can trade favor of access for other favors to otherwise inaccessible goods
+- .onfire[Incentive: convert control rights into cash flow rights as soon as possible]
+  - Buy/steal from your own store to barter with others, or sell on black market
+  
+- Trade favor of *your* access to goods for favors from other people, to otherwise inaccessible goods
 
 ]
 
@@ -1494,3 +1499,327 @@ class: inverse, center, middle
 
 # The Troubled Transition from Communism
 
+---
+
+# The Troubled Transition from Communism
+
+.pull-left[
+.center[
+.center[
+![](https://www.dropbox.com/s/x535dh8b04jy01y/russiantransition.jpg?raw=1)
+]
+]
+]
+
+.pull-right[
+
+- Boris Yeltsen first president of Russian Federation
+
+- Transition to a market economy:
+  - privatize State-owned enterprises
+  - liberalize trade
+  - deregulate prices
+  - combat inflation
+
+- **"Shock therapy"** recommended by United States and IMF
+  - radical transformation all at once
+
+]
+
+---
+
+# Again: The Washington Consensus
+
+.center[
+![:scale 75%](https://www.dropbox.com/s/rfrylpbf5ia55q1/washingtonconsensustable.png?raw=1)
+]
+
+.source[Rodrik, Dani, 2006, "Goodbye Washington Consensus, Hello Washington Confusion?" *Journal of Economic Literature* 44(4): 973-987]
+
+---
+
+# Russia's GDP per Capita 1988-2018
+
+```{r}
+library(wbstats)
+
+soviets<-wb(country = c("RU", "UA", "PL", "BY", "TM", "EE"),
+   indicator = c("NY.GDP.PCAP.CD", "NY.GDP.PCAP.KD.ZG", "SL.UEM.TOTL.ZS", "FP.CPI.TOTL.ZG", "GC.DOD.TOTL.GD.ZS", "SP.POP.TOTL", "SP.POP.GROW", "SI.POV.GINI", "SP.DYN.LE00.IN", "SP.DYN.IMRT.IN", "SI.POV.DDAY", "NE.TRD.GNFS.ZS"),
+   startdate = 1970, enddate = 2019,
+   return_wide = TRUE) %>%
+  mutate(date = as.numeric(date)) %>%
+  rename("Country" = country,
+         "Year" = date,
+         "GDP_per_Capita"= NY.GDP.PCAP.CD,
+         "GDP_growth" = NY.GDP.PCAP.KD.ZG,
+         "Unemployment" = SL.UEM.TOTL.ZS,
+         "Inflation" = FP.CPI.TOTL.ZG,
+         "Debt_pct_GDP" = GC.DOD.TOTL.GD.ZS,
+         "Population" = SP.POP.TOTL)
+```
+
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+  filter(Country=="Russian Federation") %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = GDP_per_Capita)+
+  #geom_point()+
+  geom_path(size=2, color = "blue")+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(breaks=seq(0,20000,2000),
+                                labels=scales::dollar)+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "GDP per Capita (Current USD)",
+       caption = "Source: World Bank Development Indicators")
+```
+
+---
+
+# Russia's GDP Growth Rate 1988-2018
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+  filter(Country=="Russian Federation") %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = GDP_growth)+
+  geom_hline(yintercept=0, size=1)+
+  geom_path(size=2, color = "blue")+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(breaks=seq(-16,16,2),
+                     labels=function(x){paste(x,"%")})+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "GDP per Capita (Current USD)",
+       caption = "Source: World Bank Development Indicators")
+
+```
+
+---
+
+# Russia's Unemployment Rate 1988-2018
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+  filter(Country=="Russian Federation") %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = Unemployment)+
+  geom_path(size=2, color = "blue")+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(breaks=seq(0,16,2),
+                     labels=function(x){paste(x,"%")})+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "GDP per Capita (Current USD)",
+       caption = "Source: World Bank Development Indicators")
+
+```
+
+---
+
+# Russia's Inflation Rate 1988-2018
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+  filter(Country=="Russian Federation") %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = Inflation)+
+  geom_path(size=2, color = "blue")+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(labels=function(x){paste(x,"%")})+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "GDP per Capita (Current USD)",
+       caption = "Source: World Bank Development Indicators")
+
+```
+
+---
+
+# Post-Communist Countries: GDP per Capita
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = GDP_per_Capita,
+      color = Country)+
+  #geom_point()+
+  geom_path(size=2)+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(breaks=seq(0,26000,2000),
+                                labels=scales::dollar)+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "GDP per Capita (Current USD)",
+       caption = "Source: World Bank Development Indicators")+
+  theme(legend.position = "top")
+```
+
+---
+
+# Post-Communist Countries: GDP per Capita Growth Rate
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = GDP_growth,
+      color = Country)+
+  geom_path(size=2)+
+  geom_hline(yintercept=0, size=1)+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(breaks=seq(-24,32,4),
+                     labels=function(x){paste(x,"%")})+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "GDP per Capita (Growth Rate)",
+       caption = "Source: World Bank Development Indicators")+
+  theme(legend.position = "top")
+```
+
+---
+
+# Post-Communist Countries: Unemployment Rate
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = Unemployment,
+      color = Country)+
+  geom_path(size=2)+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(labels=function(x){paste(x,"%")})+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "Unemployment Rate",
+       caption = "Source: World Bank Development Indicators")+
+  theme(legend.position = "top")
+```
+
+---
+
+# Post-Communist Countries: Inflation Rate
+
+```{r, fig.retina=3, fig.width=14, fig.align="center"}
+soviets %>%
+ggplot(data = .)+
+  aes(x = Year,
+      y = Inflation,
+      color = Country)+
+  geom_path(size=2)+
+  scale_x_continuous(breaks=seq(1984,2020,4),
+                     limits=c(1984,2020))+
+  scale_y_continuous(labels=function(x){paste(x,"%")})+
+    theme_classic(base_family = "Fira Sans Condensed", base_size=18)+
+  labs(x = "Year",
+       y = "Inflation Rate",
+       caption = "Source: World Bank Development Indicators")+
+  theme(legend.position = "top")
+```
+
+---
+
+# Overview of the Transition
+
+> "During the last 15 years [2005], Russia has undergone an extraordinary transformation. It has changed from a communist dictatorship to a multiparty democracy in which officials are chosen in regular elections. Its centrally planned economy has been reshaped into a capitalist order based on markets and private property. Its army has withdrawn peacefully from both eastern Europe and the other former Soviet republics, allowing the latter to become independentt countries," (p.20).
+
+> "Russia has come to be viewed as a disastrous failure
+and the 1990s as a decade of catastrophe for its people. Journalists, politicians, and academics have described Russia not as a middle-income country struggling to overcome its communist past and find its place in the world, but as a collapsed state inhabited by criminals and threatening other countries with multiple contagions," (p.20).
+
+.source[Shleifer, Andrei and Daniel Treisman, 2004, "A Normal Country," *Foreign Affairs*: April 2004]
+
+---
+
+# A Normal Country? I
+
+> "Russia's economic and political systems remain far from perfect. But their defects are typical of countries at a similar level of economic development. Russia was in 1990, and is today [2005], a middle-income country, with GDP per capita around $8,000 [in 2005] (at purchasing power parity) according to the UN - comparable to Argentina in 1991 and Mexico in 1999. Almost all democracies in this income range are rough around the edges: their governments suffer from corruption, their judiciaries are policized, and their press is almost never entirely free. They have high income inequality, concentrated corporate ownership, and turbulent macroeconomic performance. In all of these regards, Russia is quite normal. Nor are the common flaws of middle-income capitalist democracies incompatible with further economic and political progress - if they were, western Europe and the United States would never have left the nineteenth century," (p.21).
+
+.source[Shleifer, Andrei and Daniel Treisman, 2004, "A Normal Country," *Foreign Affairs*: April 2004]
+
+---
+
+# A Normal Country? II
+
+> "To say that Russia has become a "normal" middle-income country is not to overlook the messiness of its politics and economics, nor to excuse the failures of its leaders.The average middle-income country is not a secure or socially just place to live. Nor is it to say that all middle-income countries are exactly alike. No other such country has Russia's nuclear arms or its pivotal role in international affairs. Yet other countries around Russia's level of income-from Mexico and Brazil to Malaysia and Croatia-face a common set of economic problems and political challenges, from similarly precarious vantagepoints. Russia's struggles to meet such challenges strikingly resemble the experiences of many of its peers," (p.21).
+
+.source[Shleifer, Andrei and Daniel Treisman, 2004, "A Normal Country," *Foreign Affairs*: April 2004]
+
+---
+
+# The Post-Communist Blues I
+
+> "Officially measured output fell in all the post-communist economies of Eastern Europe and the former Soviet Union. It declined in new democracies, such as Russia and Poland; in continuing dictatorships, such as Belarus and Tajikistan; in rapid reformers, such as the Czech Republic and Hungary; and in very slow reformers, such as Ukraine and Uzbekistan...Officially measured output began to recover almost everywhere after a few years," (p.25).
+
+.source[Shleifer, Andrei and Daniel Treisman, 2004, "A Normal Country," *Foreign Affairs*: April 2004]
+
+---
+
+# The Post-Communist Blues II
+
+.pull-left[
+- Russia and post-Soviet states experienced sharp recessions in 1990s after transition out of communism
+
+- Recall: permanent shortage economy under Soviet socialism!
+  - prices were set artificially below market-clearing levels
+  - liberalizing prices $\implies$ almost all of them will go up
+    - inflation, cost of living, etc
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/djkftm26f76c4sc/sovietline.jpg?raw=1)
+]
+]
+
+---
+
+# The Post-Communist Blues II
+
+.pull-left[
+
+- Under Soviet socialism, no private property, all organizations were owned by the State
+
+- Privatization, auction of State-owned enterprises to private hands
+
+- Rise of the **"oligarchs"**
+
+]
+
+.pull-right[
+.center[
+![](https://www.dropbox.com/s/edtob48bf064bzl/oligarchs2.jpeg?raw=1)
+]
+]
+---
+
+# Privatization and the Oligarchs
+
+> "A popular theory holds that Russia's economic decline was caused by certain misguided government policies pursued in the 1990s. Particularly damaging, so the argument goes, were Yeltsin's privatization programs and his "loans for shares" scheme. The privatization program, implemented between 1993 and 1994, transferred shares in most firms from the government to managers, workers, and the public. This meant that by 1994, almost 70% of the Russian economy was in private hands. The loans for shares scheme,inaugurated in 1995, provided for the transfer of shares in a few state-owned natural resource enterprises to major businessmen in exchange for loans to the government. It accelerated the consolidation of a few large financial groups, led by the so-called oligarchs, whose subsequently enjoyed great political and economic influence."
+
+> "However...the effects of privatization and loans for shares could not have caused Russia's economic contraction. Most of the fall of [GDP] occured prior to 1994, before the significant part of the mass privatization program was completed and the loans for shares program was even contemplated. After 1994-when the effects of privatization could be felt- Russia's economic decline actually slowed, with rapid growth starting in 1999."
+
+.source[Shleifer, Andrei and Daniel Treisman, 2004, "A Normal Country," *Foreign Affairs*: April 2004]
+
+---
+
+# Shock Therapy vs. Gradualism
+
+> "Some argue the excessively speedy reform exacerbated the decline and compare the "gradualism" of China's economic policies favorably with the "shock therapy" of Russia's. In fact, there is no obvious relationship between the speed of reform and change in official output among the east European and former Soviet countries. The group of countries that contracted least, according to the official figures, includes both rapid reformers (such as Estonia, Poland, and the Czech Republic) and slow or nonreformers (such as Belarus and Uzbekistan). Those with the largest declines also include both the nonreformers (Tajikistan, Turkmenistan) and some that tried to reform (Moldova).
+
+> "Comparing Russia and Ukraine is particularly instructive. Ukraine had a large population (about 52 million in 1991), an industrial economy, significant natural resources, and a political culture similar to Russia's prior to transition. Unlike Russia, it retained the old communist leadership, albeit renamed, and pursued more cautious reforms, keeping a much larger share of the economy in state hands. Yet its official GDP per capita dropped 45 percent between 1991 and 2001--almost twice as much as Russia's," (p.25-26)
+
+.source[Shleifer, Andrei and Daniel Treisman, 2004, "A Normal Country," *Foreign Affairs*: April 2004]
