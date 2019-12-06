@@ -12,7 +12,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Recommended
 
 - [<i class="fas fa-external-link-square-alt"></i> Levy and Pert, "How the Dismal Science Got its Name"](http://www.econlib.org/library/Columns/LevyPeartdismal.html)
-
+- [<i class="fab fa-youtube"></i> The History of Europe: Every Year](https://www.youtube.com/watch?v=UY9P0QSxlnI)
 
 # Primary Sources
 
