@@ -22,7 +22,7 @@ The following countries all have a GDP/capita of less than $20,000 USD, and are 
 
 Please **email me** with the country you would like to choose. I will remove countries from this list in the order that I recieve emails claiming them. You may decide to change your country at any time, at which point, I will re-release the country into the pool for others to select, and update the list below:
 
-**Last Update: 2:00 PM Sunday Dec 8**
+**Last Update: 9:00 PM Sunday Dec 8**
 
 - Iran
 - Turkmenistan
@@ -37,7 +37,7 @@ Please **email me** with the country you would like to choose. I will remove cou
 - Costa Rica
 - Serbia
 - Grenada
-- Brazil
+- **Brazil (CLAIMED)**
 - North Macedonia
 - Algeria
 - Suriname
