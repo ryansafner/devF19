@@ -1,0 +1,47 @@
+---
+title: "Final Exam"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(tidyverse)
+library(pander)
+source(file.path(here::here(), "lib", "graphics.R"))
+```
+
+- *Due 8:00 PM Friday, December 13 by email*
+
+# Instructions
+
+Choose two questions from section 1 and two questions from section 2 (4 in total) to answer. Questions draw from course lectures, discussions, and readings. Your answers, given the time and resources at your disposal, should be complete yet concise (e.g. 2-3 well-reasoned paragraphs).
+
+You may discuss the questions, but you must write your own responses and turn in your own work. Answers that are substantially similar will be interpretted cheating and punished accordingly. I will not answer any questions about course content during while the exam is outstanding.
+
+You will be graded both on your use of reasoning and economic analysis, and ability when relevant to accurately describe the arguments in the readings. Where asked for your opinion, you will not be graded on your *conclusion*, only your *reasoning.* You must be able to talk with some familiarity about arguments put forth in our readings, when relevant (informally, as in "According to Easterly..."). You do not need formal citations, but it should be clear when you are referencing the readings vs. your own thinking.
+
+Each question is worth **25 points.** This assignment is due to me by email by 8:00 PM on Friday December 13. Starting at 8:01, you will lose 1 point for every hour late.
+
+# Section 1 (Choose any two)
+
+1. Critically appraise the role of the Solow model in understanding economic growth, and explaining the variation between countries growth rates. What are its key implications and predictions? What are its shortcomings?
+
+2. Explain why an autocrat (whether it be a Medieval King/Queen or a modern dictator) may not be as all powerful as they look. What does their rule depend upon, and what tradeoffs must they make?
+
+3. Explain two theories or frameworks for understanding how Western Europe emerged out of 1,000 years of feudalism.
+
+4. Explain why foreign aid intended specifically for stimulating economic development has largely failed to accomplish this goal.
+
+5. Explain the role of creative destruction in both promoting and preventing economic development.
+
+6. Explain the "violence trap." If rent-seeking, patronage privileges, and restricted access is so harmful to development, why don't we just prohibit these in developing countries?
+
+# Section 2 (Choose any two)
+
+7. What, in your opinion, is the role of geography in explaining the differences (both historical and present-day) in economic development around the world? Be precise.
+
+8. One proposed solution to the problem of transplanting good institutions into developing countries are special economic zones and/or "*charter cities*." This was, at one time, favored by Paul Romer. The idea is to create an autonomous new city (on empty land) in a developing country that is to have *different* institutions (law, governance, etc) from the rest of the developing country. Local citizens of the country will be allowed to immigrate into the city, and it will attract foreign investment. The city's institutions might be modeled on successful developed countries, or even run by them (via governments, nonprofits, entrepreneurs, etc). What do you think of this idea?
+
+9. Critically appraise mercantilism as a historical economic and political philosophy. Explain the philosophy of mercantilism, the policy prescriptions behind it. Do you think mercantilism, given the economic history of trade and political-economic systems, deserves the sullied reputation it has today among most economists and policymakers? 
+
+10. Based on what you have learned this semester, how would you, personally, (briefly) answer the question "why are some countries wealthy and others are poor?"
